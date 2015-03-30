@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder" version="2015.1.12.0" projectFile="Z:\dev\QL\Rock.Framework\Documentation\Help\SandcastleDocs_New.shfbproj" started="3/30/2015 11:56:21 AM">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;Z:\dev\github\SHFB\SHFB\Deploy\&#39;
+Locating components in the following folder(s):
+   Z:\dev\QL\Rock.Framework\Documentation\Help
+Using presentation style &#39;VS2013&#39; located in &#39;Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2015.1.12.0
+Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: Z:\dev\github\Rock.Core\Rock.Core\bin\Debug\Rock.Core.dll
+    Found assembly &#39;Z:\dev\github\Rock.Core\Rock.Core\bin\Debug\Rock.Core.dll&#39;
+Source: Z:\dev\github\Rock.Logging\Rock.Logging\bin\Debug\Rock.Logging.dll
+    Found assembly &#39;Z:\dev\github\Rock.Logging\Rock.Logging\bin\Debug\Rock.Logging.dll&#39;
+Source: Z:\dev\github\Rock.Logging\Rock.Logging\bin\Debug\Rock.Logging.xml
+Source: Z:\dev\github\Rock.StaticDependencyInjection\src\bin\Debug\Rock.StaticDependencyInjection.dll
+    Found assembly &#39;Z:\dev\github\Rock.StaticDependencyInjection\src\bin\Debug\Rock.StaticDependencyInjection.dll&#39;
+
+Copying XML comments files
+    Z:\dev\github\Rock.Logging\Rock.Logging\bin\Debug\Rock.Logging.xml -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Rock.Logging.xml
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:00.0156
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 3/30/2015 11:56:23 AM.
+Project &quot;Z:\dev\github\rockframework.github.io\documentation\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  MRefBuilder (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Loaded 3 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 24 namespaces, 176 types, and 641 members
+  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  XslTransform (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;Z:\dev\github\SHFB\SHFB\Deploy\ProductionTransforms\MergeDuplicates.xsl&#39;.
+Done Building Project &quot;Z:\dev\github\rockframework.github.io\documentation\Working\GenerateRefInfo.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.18
+    Last step completed in 00:00:01.3283
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 3/30/2015 11:56:24 AM.
+Project &quot;Z:\dev\github\rockframework.github.io\documentation\Working\TransformManifest.proj&quot; on node 1 (default targets).
+TransformManifest:
+  XslTransform (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  XslTransform (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;Z:\dev\github\SHFB\SHFB\Deploy\ProductionTransforms\AddFilenames.xsl&#39;.
+    Unique name M_Rock_ApplicationId_SetCurrent_1 generated for M:Rock.ApplicationId.SetCurrent(System.String)
+    Unique name M_Rock_AppSettingsApplicationIdProvider__ctor_1 generated for M:Rock.AppSettingsApplicationIdProvider.#ctor(System.String)
+    Unique name M_Rock_Collections_ConcatExtensions_Concat__1_1 generated for M:Rock.Collections.ConcatExtensions.Concat``1(``0,System.Collections.Generic.IEnumerable{``0})
+    Unique name M_Rock_Collections_DeepEqualityComparer__ctor_1 generated for M:Rock.Collections.DeepEqualityComparer.#ctor(Rock.Collections.DeepEqualityComparer.IConfiguration)
+    Unique name M_Rock_Collections_DeepEqualityComparer_1__ctor_1 generated for M:Rock.Collections.DeepEqualityComparer`1.#ctor(Rock.Collections.DeepEqualityComparer.IConfiguration)
+    Unique name M_Rock_Collections_SerializableDictionary_2__ctor_1 generated for M:Rock.Collections.SerializableDictionary`2.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+    Unique name M_Rock_Collections_SerializableDictionary_2__ctor_2 generated for M:Rock.Collections.SerializableDictionary`2.#ctor(System.Xml.Serialization.XmlSerializer,System.Xml.Serialization.XmlSerializer)
+    Unique name M_Rock_Configuration_InvalidConfigurationException__ctor_1 generated for M:Rock.Configuration.InvalidConfigurationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+    Unique name M_Rock_Configuration_InvalidConfigurationException__ctor_2 generated for M:Rock.Configuration.InvalidConfigurationException.#ctor(System.String,System.Exception,System.String)
+    Unique name M_Rock_Configuration_InvalidConfigurationException__ctor_3 generated for M:Rock.Configuration.InvalidConfigurationException.#ctor(System.String,System.String)
+    Unique name M_Rock_Cryptography_HashTypeExtensions_ComputeHash_1 generated for M:Rock.Cryptography.HashTypeExtensions.ComputeHash(Rock.Cryptography.HashType,System.IO.Stream)
+    Unique name M_Rock_Cryptography_HashTypeExtensions_ComputeHash_2 generated for M:Rock.Cryptography.HashTypeExtensions.ComputeHash(Rock.Cryptography.HashType,System.IO.Stream,System.Boolean)
+    Unique name M_Rock_Cryptography_HashTypeExtensions_ComputeHash_3 generated for M:Rock.Cryptography.HashTypeExtensions.ComputeHash(Rock.Cryptography.HashType,System.String,System.Text.Encoding)
+    Unique name M_Rock_Cryptography_HashTypeExtensions_ToHash_1 generated for M:Rock.Cryptography.HashTypeExtensions.ToHash(System.String,Rock.Cryptography.HashType)
+    Unique name M_Rock_DependencyInjection_AutoContainer__ctor_1 generated for M:Rock.DependencyInjection.AutoContainer.#ctor(Rock.DependencyInjection.Heuristics.IResolverConstructorSelector,System.Collections.Generic.IEnumerable{System.Object})
+    Unique name M_Rock_DependencyInjection_AutoContainer__ctor_2 generated for M:Rock.DependencyInjection.AutoContainer.#ctor(System.Object[])
+    Unique name M_Rock_DependencyInjection_ResolveException__ctor_1 generated for M:Rock.DependencyInjection.ResolveException.#ctor(System.String)
+    Unique name M_Rock_DependencyInjection_ResolveException__ctor_2 generated for M:Rock.DependencyInjection.ResolveException.#ctor(System.String,System.Exception)
+    Unique name M_Rock_Immutable_Semimutable_1__ctor_1 generated for M:Rock.Immutable.Semimutable`1.#ctor(System.Boolean)
+    Unique name M_Rock_Immutable_Semimutable_1__ctor_2 generated for M:Rock.Immutable.Semimutable`1.#ctor(System.Func{`0},System.Boolean)
+    Unique name M_Rock_Immutable_Semimutable_1__ctor_3 generated for M:Rock.Immutable.Semimutable`1.#ctor(`0,System.Boolean)
+    Unique name M_Rock_IO_EncodedStringWriter__ctor_1 generated for M:Rock.IO.EncodedStringWriter.#ctor(System.Text.Encoding)
+    Unique name M_Rock_IO_EncodedStringWriter__ctor_2 generated for M:Rock.IO.EncodedStringWriter.#ctor(System.Text.StringBuilder,System.IFormatProvider,System.Text.Encoding)
+    Unique name M_Rock_IO_EncodedStringWriter__ctor_3 generated for M:Rock.IO.EncodedStringWriter.#ctor(System.Text.StringBuilder,System.Text.Encoding)
+    Unique name M_Rock_KeyValueStores_DeleteExtensions_Delete_1 generated for M:Rock.KeyValueStores.DeleteExtensions.Delete(Rock.KeyValueStores.IKeyValueStore,System.String,System.String)
+    Unique name M_Rock_KeyValueStores_GetExtensions_Get__1_1 generated for M:Rock.KeyValueStores.GetExtensions.Get``1(Rock.KeyValueStores.IBucketItem)
+    Unique name M_Rock_KeyValueStores_GetExtensions_Get__1_2 generated for M:Rock.KeyValueStores.GetExtensions.Get``1(Rock.KeyValueStores.IKeyValueStore,System.String,System.String)
+    Unique name M_Rock_KeyValueStores_PutExtensions_Put__1_1 generated for M:Rock.KeyValueStores.PutExtensions.Put``1(Rock.KeyValueStores.IKeyValueStore,System.String,System.String,``0)
+    Unique name M_Rock_KeyValueStores_TryGetExtensions_TryGet__1_1 generated for M:Rock.KeyValueStores.TryGetExtensions.TryGet``1(Rock.KeyValueStores.IKeyValueStore,System.String,System.String,``0@)
+    Unique name M_Rock_Logging_ConsoleLogProvider__ctor_1 generated for M:Rock.Logging.ConsoleLogProvider.#ctor(Rock.Logging.ILogFormatter)
+    Unique name M_Rock_Logging_ContextProvider_1_AddContextData_1 generated for M:Rock.Logging.ContextProvider`1.AddContextData(`0)
+    Unique name M_Rock_Logging_EmailLogProvider__ctor_1 generated for M:Rock.Logging.EmailLogProvider.#ctor(Rock.Mail.DeliveryMethod,Rock.Logging.ILogFormatter)
+    Unique name M_Rock_Logging_FileLogProvider__ctor_1 generated for M:Rock.Logging.FileLogProvider.#ctor(System.String,Rock.Logging.ILogFormatter,Rock.Logging.IAsyncWaitHandle)
+    Unique name M_Rock_Logging_FormattableLogProvider_WriteAsync_1 generated for M:Rock.Logging.FormattableLogProvider.WriteAsync(Rock.Logging.LogEntry,System.String)
+    Unique name M_Rock_Logging_LogEntry__ctor_1 generated for M:Rock.Logging.LogEntry.#ctor(System.String)
+    Unique name M_Rock_Logging_LogEntry__ctor_2 generated for M:Rock.Logging.LogEntry.#ctor(System.String,System.Collections.Generic.IDictionary{System.String,System.String})
+    Unique name M_Rock_Logging_LogEntry__ctor_3 generated for M:Rock.Logging.LogEntry.#ctor(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.Exception,System.String)
+    Unique name M_Rock_Logging_LogEntry__ctor_4 generated for M:Rock.Logging.LogEntry.#ctor(System.String,System.Exception,System.String)
+    Unique name M_Rock_Logging_LogEntry__ctor_5 generated for M:Rock.Logging.LogEntry.#ctor(System.String,System.Object)
+    Unique name M_Rock_Logging_LogEntry__ctor_6 generated for M:Rock.Logging.LogEntry.#ctor(System.String,System.Object,System.Exception,System.String)
+    Unique name M_Rock_Logging_LogEntryExtendedProperties__ctor_1 generated for M:Rock.Logging.LogEntryExtendedProperties.#ctor(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}})
+    Unique name M_Rock_Logging_LogEntryExtendedProperties__ctor_2 generated for M:Rock.Logging.LogEntryExtendedProperties.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+    Unique name M_Rock_Logging_LoggerExtensions_Audit_1 generated for M:Rock.Logging.LoggerExtensions.Audit(Rock.Logging.ILogger,System.Exception,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Audit_2 generated for M:Rock.Logging.LoggerExtensions.Audit(Rock.Logging.ILogger,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Debug_1 generated for M:Rock.Logging.LoggerExtensions.Debug(Rock.Logging.ILogger,System.Exception,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Debug_2 generated for M:Rock.Logging.LoggerExtensions.Debug(Rock.Logging.ILogger,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Error_1 generated for M:Rock.Logging.LoggerExtensions.Error(Rock.Logging.ILogger,System.Exception,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Error_2 generated for M:Rock.Logging.LoggerExtensions.Error(Rock.Logging.ILogger,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Fatal_1 generated for M:Rock.Logging.LoggerExtensions.Fatal(Rock.Logging.ILogger,System.Exception,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Fatal_2 generated for M:Rock.Logging.LoggerExtensions.Fatal(Rock.Logging.ILogger,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Info_1 generated for M:Rock.Logging.LoggerExtensions.Info(Rock.Logging.ILogger,System.Exception,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Info_2 generated for M:Rock.Logging.LoggerExtensions.Info(Rock.Logging.ILogger,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Log_1 generated for M:Rock.Logging.LoggerExtensions.Log(Rock.Logging.ILogger,Rock.Logging.LogLevel,System.Exception,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Log_2 generated for M:Rock.Logging.LoggerExtensions.Log(Rock.Logging.ILogger,Rock.Logging.LogLevel,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Warn_1 generated for M:Rock.Logging.LoggerExtensions.Warn(Rock.Logging.ILogger,System.Exception,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_LoggerExtensions_Warn_2 generated for M:Rock.Logging.LoggerExtensions.Warn(Rock.Logging.ILogger,System.String,System.String,System.String,System.Int32)
+    Unique name M_Rock_Logging_RollingFileLogProvider__ctor_1 generated for M:Rock.Logging.RollingFileLogProvider.#ctor(System.String,System.Int32,System.Int32,Rock.Logging.RolloverPeriod,Rock.Logging.ILogFormatter,Rock.Logging.IAsyncWaitHandle)
+    Unique name M_Rock_Logging_SimpleLoggerFactory_1__ctor_1 generated for M:Rock.Logging.SimpleLoggerFactory`1.#ctor(Rock.Logging.LogLevel,Rock.DependencyInjection.IResolver)
+    Unique name M_Rock_Serialization_DataContractJsonSerializerSerializer__ctor_1 generated for M:Rock.Serialization.DataContractJsonSerializerSerializer.#ctor(System.Text.Encoding)
+    Unique name M_Rock_Serialization_DataContractSerializerSerializer__ctor_1 generated for M:Rock.Serialization.DataContractSerializerSerializer.#ctor(System.Text.Encoding)
+    Unique name M_Rock_Serialization_XmlDeserializationProxy_1__ctor_1 generated for M:Rock.Serialization.XmlDeserializationProxy`1.#ctor(System.Type)
+    Unique name M_Rock_Serialization_XmlDeserializationProxy_1_CreateInstance_1 generated for M:Rock.Serialization.XmlDeserializationProxy`1.CreateInstance(Rock.DependencyInjection.IResolver)
+    Unique name M_Rock_Serialization_XmlSerializerSerializer__ctor_1 generated for M:Rock.Serialization.XmlSerializerSerializer.#ctor(System.Text.Encoding)
+    Unique name M_Rock_StaticDependencyInjection_ExportAttribute__ctor_1 generated for M:Rock.StaticDependencyInjection.ExportAttribute.#ctor(System.Int32)
+  XslTransform (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;Z:\dev\github\SHFB\SHFB\Deploy\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+Done Building Project &quot;Z:\dev\github\rockframework.github.io\documentation\Working\TransformManifest.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06
+    Last step completed in 00:00:01.2346
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.0470
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0155
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 3/30/2015 11:56:25 AM.
+Project &quot;Z:\dev\github\rockframework.github.io\documentation\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+GenerateIntermediateTOC:
+  XslTransform (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
+Done Building Project &quot;Z:\dev\github\rockframework.github.io\documentation\Working\GenerateIntermediateTOC.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.20
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00.3125
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    Last step completed in 00:00:00.2969
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+Z:\dev\github\rockframework.github.io\documentation\Working\sandcastle.config
+    Last step completed in 00:00:00.0313
+</buildStep>
+<buildStep step="BuildReferenceTopics">
+Building reference help topics...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 3/30/2015 11:56:26 AM.
+Project &quot;Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
+BuildReferenceTopics:
+  BuildAssembler (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+  Processing topics...
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Rock.Logging] Unknown reference link target &#39;P:Rock.Defaults.Implementation.Default.ApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Rock.Logging] Unknown reference link target &#39;!:Rock.Framework.Formatter.IFormatterTemplate&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:Rock.Logging] Invalid reference link target &#39;!:Rock.Framework.Formatter.IFormatterTemplate&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Rock.Logging.ILogProvider] Unknown reference link target &#39;!:Rock.Framework.Formatter.IFormatterTemplate&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Rock.Logging.ILogProvider] Invalid reference link target &#39;!:Rock.Framework.Formatter.IFormatterTemplate&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Rock.Logging.Logger.#ctor(Rock.Logging.ILoggerConfiguration,System.Collections.Generic.IEnumerable{Rock.Logging.ILogProvider},Rock.IApplicationInfo,Rock.Logging.ILogProvider,Rock.Logging.IThrottlingRuleEvaluator,System.Collections.Generic.IEnumerable{Rock.Logging.IContextProvider})] Unknown reference link target &#39;T:Rock.IApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Rock.Logging.SimpleLoggerFactory`1] Unknown reference link target &#39;P:Rock.Defaults.Implementation.Default.ApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Rock.Logging.Configuration.XmlDeserializingLoggerFactory] Unknown reference link target &#39;T:Rock.IApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Rock.Logging.Configuration.XmlDeserializingLoggerFactory] Unknown reference link target &#39;P:Rock.Defaults.Implementation.Default.ApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Methods.T:Rock.Logging.Configuration.XmlDeserializingLoggerFactory] Unknown reference link target &#39;T:Rock.IApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Methods.T:Rock.Logging.Configuration.XmlDeserializingLoggerFactory] Unknown reference link target &#39;P:Rock.Defaults.Implementation.Default.ApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Rock.Logging.Configuration.XmlDeserializingLoggerFactory.SetApplicationInfo(Rock.IApplicationInfo)] Unknown reference link target &#39;T:Rock.IApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Rock.Logging.Configuration.XmlDeserializingLoggerFactory.SetApplicationInfo(Rock.IApplicationInfo)] Unknown reference link target &#39;P:Rock.Defaults.Implementation.Default.ApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Rock.Logging.Configuration.XmlDeserializingLoggerFactory.SetApplicationInfo(Rock.IApplicationInfo)] Unknown reference link target &#39;T:Rock.IApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Rock.Logging.Configuration.XmlDeserializingLoggerFactory.SetApplicationInfo(Rock.IApplicationInfo)] Unknown reference link target &#39;T:Rock.IApplicationInfo&#39;. [Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj]
+  Processed 1092 topic(s)
+  15 warning(s)
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 15 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 2 of 30.
+Done Building Project &quot;Z:\dev\github\rockframework.github.io\documentation\Working\BuildReferenceTopics.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.14
+    Last step completed in 00:00:16.2993
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+
+Clearing any prior web output
+    Last step completed in 00:00:04.3757
+</buildStep>
+<buildStep step="ExtractingHtmlInfo">
+Extracting HTML info for HTML Help 1 and/or website...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Sandcastle Help File Builder, version 2015.1.12.0
+Copyright c 2006-2015, Eric Woodruff, All Rights Reserved
+E-Mail: Eric@EWoodruff.us
+
+Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
+
+Processing website files in Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website
+Processed 1092 HTML files
+Sorting keywords and generating See Also indices
+Saving website keyword index to Z:\dev\github\rockframework.github.io\documentation\Working\WebKI.xml
+Saving website table of contents to Z:\dev\github\rockframework.github.io\documentation\Working\WebTOC.xml
+    Last step completed in 00:00:02.3441
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\AlertCaution.png
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\AlertNote.png -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\AlertNote.png
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\AlertSecurity.png
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\CFW.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\CFW.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\CodeExample.png -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\CodeExample.png
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\favicon.ico -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\favicon.ico
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\privclass.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\privclass.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\privdelegate.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\privenumeration.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\privevent.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\privevent.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\privextension.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\privextension.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\privfield.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\privfield.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\privinterface.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\privinterface.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\privmethod.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\privmethod.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\privproperty.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\privproperty.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\privstructure.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\privstructure.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protclass.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protclass.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protdelegate.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protenumeration.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protevent.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protevent.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protextension.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protextension.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protfield.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protfield.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protinterface.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protinterface.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protmethod.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protmethod.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protoperator.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protoperator.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protproperty.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protproperty.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\protstructure.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\protstructure.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\pubclass.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\pubclass.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\pubdelegate.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\pubenumeration.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\pubevent.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\pubevent.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\pubextension.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\pubextension.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\pubfield.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\pubfield.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\pubinterface.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\pubmethod.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\puboperator.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\puboperator.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\pubproperty.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\pubstructure.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\SectionCollapsed.png
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\SectionExpanded.png
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\slMobile.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\slMobile.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\static.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\static.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\icons\xna.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\xna.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\scripts\branding.js -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\scripts\branding.js
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-cs-CZ.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-de-DE.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-en-US.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-es-ES.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-fr-FR.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-Help1.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-Help2.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-Help2.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-HelpViewer.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-it-IT.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-ja-JP.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-ko-KR.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-pl-PL.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-pt-BR.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-ru-RU.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-tr-TR.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-Website.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-Website.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-zh-CN.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding-zh-TW.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\styles\branding.css -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\styles\branding.css
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\Web\index.html -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\index.html
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\Web\icons\Search.png -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\Search.png
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\Web\icons\TocClose.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\TocClose.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\Web\icons\TocCollapsed.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\TocCollapsed.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\Web\icons\TocExpanded.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\TocExpanded.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\icons\TocOpen.gif
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\scripts\branding-Website.js
+Z:\dev\github\SHFB\SHFB\Deploy\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; Z:\dev\github\rockframework.github.io\documentation\Working\Output\Website\scripts\jquery-1.11.0.min.js
+    Last step completed in 00:00:00.4367
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Generating website table of contents file...
+    Last step completed in 00:00:00.0154
+</buildStep>
+<buildStep step="GenerateFullTextIndex">
+Generating full-text index for the website...
+
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+Adding lightweight search and TOC elements to each topic...
+</plugIn>    Last step completed in 00:00:03.8287
+</buildStep>
+<buildStep step="CopyingWebsiteFiles">
+Copying website files to output folder...
+
+Copied 100 files
+Copied 200 files
+Copied 300 files
+Copied 400 files
+Copied 500 files
+Copied 600 files
+Copied 700 files
+Copied 800 files
+Copied 900 files
+Copied 1000 files
+Copied 1100 files
+Copied 1200 files
+Copied 1300 files
+Copied 1400 files
+Copied 1500 files
+Copied 1600 files
+Copied 1602 files for the website content
+    Last step completed in 00:00:09.7358
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:04.5163
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 3/30/2015 11:57:07 AM.  Total time: 00:00:46.0069
+
+</buildStep>
+</shfbBuild>

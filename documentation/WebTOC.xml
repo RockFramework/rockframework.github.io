@@ -1,0 +1,1525 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="58f4b646-356f-476a-a169-c6eae29b3fc0" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="12ee84cd-684a-4beb-9688-eff3bf2ad0e7" Title="Rock" Url="html/N_Rock.htm">
+      <HelpTOCNode Id="ed58e5b3-535a-407d-8fea-f3ea4eb41c32" Title="ApplicationId Class" Url="html/T_Rock_ApplicationId.htm">
+        <HelpTOCNode Id="23113bf3-b84b-47c9-8734-d2792d697fcd" Title="ApplicationId Methods" Url="html/Methods_T_Rock_ApplicationId.htm">
+          <HelpTOCNode Id="57f69cc8-a99b-465e-baac-c94259bca59f" Title="SetCurrent Method " Url="html/Overload_Rock_ApplicationId_SetCurrent.htm">
+            <HelpTOCNode Title="SetCurrent Method (String)" Url="html/M_Rock_ApplicationId_SetCurrent_1.htm" />
+            <HelpTOCNode Title="SetCurrent Method (IApplicationIdProvider)" Url="html/M_Rock_ApplicationId_SetCurrent.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="d32c1717-5412-493a-9bb6-96a0419148d2" Title="ApplicationId Properties" Url="html/Properties_T_Rock_ApplicationId.htm">
+          <HelpTOCNode Title="Current Property " Url="html/P_Rock_ApplicationId_Current.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2d60c6fb-ebd1-4e2e-beef-8544188819db" Title="AppSettingsApplicationIdProvider Class" Url="html/T_Rock_AppSettingsApplicationIdProvider.htm">
+        <HelpTOCNode Id="aff433c9-393b-49eb-99d6-0d363a1f962e" Title="AppSettingsApplicationIdProvider Constructor " Url="html/Overload_Rock_AppSettingsApplicationIdProvider__ctor.htm">
+          <HelpTOCNode Title="AppSettingsApplicationIdProvider Constructor " Url="html/M_Rock_AppSettingsApplicationIdProvider__ctor.htm" />
+          <HelpTOCNode Title="AppSettingsApplicationIdProvider Constructor (String)" Url="html/M_Rock_AppSettingsApplicationIdProvider__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="34fe768d-dfb9-489f-8597-726b173c7a77" Title="AppSettingsApplicationIdProvider Methods" Url="html/Methods_T_Rock_AppSettingsApplicationIdProvider.htm">
+          <HelpTOCNode Title="GetApplicationId Method " Url="html/M_Rock_AppSettingsApplicationIdProvider_GetApplicationId.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4e3d1583-b189-456b-b17c-3f097b1cdafb" Title="DateTimeTruncateExtension Class" Url="html/T_Rock_DateTimeTruncateExtension.htm">
+        <HelpTOCNode Id="50ef9ba5-1e54-4a72-af25-8aa0b2d8da10" Title="DateTimeTruncateExtension Methods" Url="html/Methods_T_Rock_DateTimeTruncateExtension.htm">
+          <HelpTOCNode Title="Truncate Method " Url="html/M_Rock_DateTimeTruncateExtension_Truncate.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="489688e6-47ff-41aa-a214-654ebaac8ae4" Title="EntryAssemblyApplicationIdProvider Class" Url="html/T_Rock_EntryAssemblyApplicationIdProvider.htm">
+        <HelpTOCNode Title="EntryAssemblyApplicationIdProvider Constructor " Url="html/M_Rock_EntryAssemblyApplicationIdProvider__ctor.htm" />
+        <HelpTOCNode Id="31ba0060-e9b2-46fd-9006-8f05acc6cab9" Title="EntryAssemblyApplicationIdProvider Methods" Url="html/Methods_T_Rock_EntryAssemblyApplicationIdProvider.htm">
+          <HelpTOCNode Title="GetApplicationId Method " Url="html/M_Rock_EntryAssemblyApplicationIdProvider_GetApplicationId.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="bf7f375a-e91d-4ac3-bccc-4ecec57dbb97" Title="EnumGetDescriptionExtension Class" Url="html/T_Rock_EnumGetDescriptionExtension.htm">
+        <HelpTOCNode Id="40991b50-8b4e-44c8-af0c-6ba3f1863474" Title="EnumGetDescriptionExtension Methods" Url="html/Methods_T_Rock_EnumGetDescriptionExtension.htm">
+          <HelpTOCNode Title="GetDescription Method " Url="html/M_Rock_EnumGetDescriptionExtension_GetDescription.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b3d964e8-74e4-499e-8cef-710940dc12bc" Title="IApplicationIdProvider Interface" Url="html/T_Rock_IApplicationIdProvider.htm">
+        <HelpTOCNode Id="6abf559b-4fba-4fce-81a5-d5be666a157f" Title="IApplicationIdProvider Methods" Url="html/Methods_T_Rock_IApplicationIdProvider.htm">
+          <HelpTOCNode Title="GetApplicationId Method " Url="html/M_Rock_IApplicationIdProvider_GetApplicationId.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="05a0143e-22b3-4694-9d9f-8d1f00cb51df" Title="IExceptionHandler Interface" Url="html/T_Rock_IExceptionHandler.htm">
+        <HelpTOCNode Id="c25de405-74cd-4558-85c0-4560a6226b8f" Title="IExceptionHandler Methods" Url="html/Methods_T_Rock_IExceptionHandler.htm">
+          <HelpTOCNode Title="HandleException Method " Url="html/M_Rock_IExceptionHandler_HandleException.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="174f82c2-398c-4498-bd9c-fb130f8a68a2" Title="NullExceptionHandler Class" Url="html/T_Rock_NullExceptionHandler.htm">
+        <HelpTOCNode Id="8d758cdf-c937-4001-8567-77cdccb067ad" Title="NullExceptionHandler Methods" Url="html/Methods_T_Rock_NullExceptionHandler.htm">
+          <HelpTOCNode Title="HandleException Method " Url="html/M_Rock_NullExceptionHandler_HandleException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="945ac1b3-7585-40f7-a508-d63f75030f21" Title="NullExceptionHandler Properties" Url="html/Properties_T_Rock_NullExceptionHandler.htm">
+          <HelpTOCNode Title="Instance Property " Url="html/P_Rock_NullExceptionHandler_Instance.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="abb7a76c-e9b8-45ef-bc40-342c85135ae8" Title="StringIsNullExtensions Class" Url="html/T_Rock_StringIsNullExtensions.htm">
+        <HelpTOCNode Id="7295ae8e-3e35-4938-a4ac-9474c345478d" Title="StringIsNullExtensions Methods" Url="html/Methods_T_Rock_StringIsNullExtensions.htm">
+          <HelpTOCNode Title="IsNullOrEmpty Method " Url="html/M_Rock_StringIsNullExtensions_IsNullOrEmpty.htm" />
+          <HelpTOCNode Title="IsNullOrWhiteSpace Method " Url="html/M_Rock_StringIsNullExtensions_IsNullOrWhiteSpace.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="TimeSection Enumeration" Url="html/T_Rock_TimeSection.htm" />
+      <HelpTOCNode Id="0fa78eb6-36e8-40f3-81fb-c10191c0a002" Title="ToUnixTimestampExtension Class" Url="html/T_Rock_ToUnixTimestampExtension.htm">
+        <HelpTOCNode Id="e69bcdd7-592e-4933-8007-9b244d07dfff" Title="ToUnixTimestampExtension Methods" Url="html/Methods_T_Rock_ToUnixTimestampExtension.htm">
+          <HelpTOCNode Title="ToUnixTimestamp Method " Url="html/M_Rock_ToUnixTimestampExtension_ToUnixTimestamp.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="TryFunc(TResult) Delegate" Url="html/T_Rock_TryFunc_1.htm" />
+      <HelpTOCNode Title="TryFunc(T, TResult) Delegate" Url="html/T_Rock_TryFunc_2.htm" />
+      <HelpTOCNode Title="TryFunc(T1, T2, TResult) Delegate" Url="html/T_Rock_TryFunc_3.htm" />
+      <HelpTOCNode Title="TryFunc(T1, T2, T3, TResult) Delegate" Url="html/T_Rock_TryFunc_4.htm" />
+      <HelpTOCNode Title="TryFunc(T1, T2, T3, T4, TResult) Delegate" Url="html/T_Rock_TryFunc_5.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5fd0b4c5-994b-43c5-9d5b-33eb29015593" Title="Rock.Collections" Url="html/N_Rock_Collections.htm">
+      <HelpTOCNode Id="a30be77c-054f-4f61-a990-c0b2b82826db" Title="AddSafelyExtension Class" Url="html/T_Rock_Collections_AddSafelyExtension.htm">
+        <HelpTOCNode Id="98de009a-5d11-4d9f-9c9e-da5e86b2927b" Title="AddSafelyExtension Methods" Url="html/Methods_T_Rock_Collections_AddSafelyExtension.htm">
+          <HelpTOCNode Title="AddSafely(TKey, TValue) Method " Url="html/M_Rock_Collections_AddSafelyExtension_AddSafely__2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8abe56bd-32a4-473b-a677-b4ff92554533" Title="AsKeyedExtension Class" Url="html/T_Rock_Collections_AsKeyedExtension.htm">
+        <HelpTOCNode Id="d842b3b5-e098-4280-a58d-a7687efc8d65" Title="AsKeyedExtension Methods" Url="html/Methods_T_Rock_Collections_AsKeyedExtension.htm">
+          <HelpTOCNode Title="AsKeyed(TKey, TItem) Method " Url="html/M_Rock_Collections_AsKeyedExtension_AsKeyed__2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="758d3da3-8721-4acd-874f-78cf550d3d43" Title="ConcatExtensions Class" Url="html/T_Rock_Collections_ConcatExtensions.htm">
+        <HelpTOCNode Id="89d161f3-8dc8-4087-84da-c9126a35755a" Title="ConcatExtensions Methods" Url="html/Methods_T_Rock_Collections_ConcatExtensions.htm">
+          <HelpTOCNode Id="ae941814-31d0-4b01-8227-b70fbd89e915" Title="Concat Method " Url="html/Overload_Rock_Collections_ConcatExtensions_Concat.htm">
+            <HelpTOCNode Title="Concat(T) Method (IEnumerable(T), T[])" Url="html/M_Rock_Collections_ConcatExtensions_Concat__1.htm" />
+            <HelpTOCNode Title="Concat(T) Method (T, IEnumerable(T))" Url="html/M_Rock_Collections_ConcatExtensions_Concat__1_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7914f522-10a7-4355-985f-c8524b0731fa" Title="DeepEqualityComparer Class" Url="html/T_Rock_Collections_DeepEqualityComparer.htm">
+        <HelpTOCNode Id="086372d9-7afd-4d16-b1f6-d2bbacad5888" Title="DeepEqualityComparer Constructor " Url="html/Overload_Rock_Collections_DeepEqualityComparer__ctor.htm">
+          <HelpTOCNode Title="DeepEqualityComparer Constructor " Url="html/M_Rock_Collections_DeepEqualityComparer__ctor.htm" />
+          <HelpTOCNode Title="DeepEqualityComparer Constructor (DeepEqualityComparer.IConfiguration)" Url="html/M_Rock_Collections_DeepEqualityComparer__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c1b0db43-d5dd-4fcf-9861-12867b9a593b" Title="DeepEqualityComparer Methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparer.htm">
+          <HelpTOCNode Id="0c4edc34-26c8-472a-8e28-25ba833520d8" Title="Equals Method " Url="html/Overload_Rock_Collections_DeepEqualityComparer_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object, Object)" Url="html/M_Rock_Collections_DeepEqualityComparer_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="3513fc2d-b92a-4bfe-9dfd-334a2addb903" Title="GetHashCode Method " Url="html/Overload_Rock_Collections_DeepEqualityComparer_GetHashCode.htm">
+            <HelpTOCNode Title="GetHashCode Method (Object)" Url="html/M_Rock_Collections_DeepEqualityComparer_GetHashCode.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e5f9b705-7f62-4afb-ac89-e5afc35a2325" Title="DeepEqualityComparer.IConfiguration Interface" Url="html/T_Rock_Collections_DeepEqualityComparer_IConfiguration.htm">
+        <HelpTOCNode Id="b3173aa0-c0f7-4b29-9b22-a3e36823be9b" Title="IConfiguration Properties" Url="html/Properties_T_Rock_Collections_DeepEqualityComparer_IConfiguration.htm">
+          <HelpTOCNode Title="MemberLocator Property " Url="html/P_Rock_Collections_DeepEqualityComparer_IConfiguration_MemberLocator.htm" />
+          <HelpTOCNode Title="StringComparison Property " Url="html/P_Rock_Collections_DeepEqualityComparer_IConfiguration_StringComparison.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3ff1413e-8abe-4595-8f88-772d2888817e" Title="DeepEqualityComparer.IMemberLocator Interface" Url="html/T_Rock_Collections_DeepEqualityComparer_IMemberLocator.htm">
+        <HelpTOCNode Id="0104a614-f017-46b2-bfe9-2df46243ee81" Title="IMemberLocator Methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparer_IMemberLocator.htm">
+          <HelpTOCNode Title="GetFieldsAndProperties Method " Url="html/M_Rock_Collections_DeepEqualityComparer_IMemberLocator_GetFieldsAndProperties.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="00a84dc4-8554-4cd8-a158-f439e953d768" Title="DeepEqualityComparer.PropertyOrField Class" Url="html/T_Rock_Collections_DeepEqualityComparer_PropertyOrField.htm">
+        <HelpTOCNode Title="DeepEqualityComparer.PropertyOrField Constructor " Url="html/M_Rock_Collections_DeepEqualityComparer_PropertyOrField__ctor.htm" />
+        <HelpTOCNode Title="PropertyOrField Methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparer_PropertyOrField.htm" />
+        <HelpTOCNode Id="be42cfd1-bf2d-4073-b618-328d14ad628f" Title="PropertyOrField Properties" Url="html/Properties_T_Rock_Collections_DeepEqualityComparer_PropertyOrField.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Collections_DeepEqualityComparer_PropertyOrField_Name.htm" />
+          <HelpTOCNode Title="PropertyOrFieldType Property " Url="html/P_Rock_Collections_DeepEqualityComparer_PropertyOrField_PropertyOrFieldType.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="36e526f1-3c6f-4f57-b490-17dcccbd08d1" Title="DeepEqualityComparer(T) Class" Url="html/T_Rock_Collections_DeepEqualityComparer_1.htm">
+        <HelpTOCNode Id="afb579eb-b3b3-43b8-a7b1-d895bc187f00" Title="DeepEqualityComparer(T) Constructor " Url="html/Overload_Rock_Collections_DeepEqualityComparer_1__ctor.htm">
+          <HelpTOCNode Title="DeepEqualityComparer(T) Constructor " Url="html/M_Rock_Collections_DeepEqualityComparer_1__ctor.htm" />
+          <HelpTOCNode Title="DeepEqualityComparer(T) Constructor (DeepEqualityComparer.IConfiguration)" Url="html/M_Rock_Collections_DeepEqualityComparer_1__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d8fcdfc7-43e9-4bc8-8e2c-633c1c02f2b9" Title="DeepEqualityComparer(T) Methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparer_1.htm">
+          <HelpTOCNode Id="b1078dee-f426-45a7-b1fa-5e621a161112" Title="Equals Method " Url="html/Overload_Rock_Collections_DeepEqualityComparer_1_Equals.htm">
+            <HelpTOCNode Title="Equals Method (T, T)" Url="html/M_Rock_Collections_DeepEqualityComparer_1_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="3507f49c-df51-4be7-9c92-b9963f23946f" Title="GetHashCode Method " Url="html/Overload_Rock_Collections_DeepEqualityComparer_1_GetHashCode.htm">
+            <HelpTOCNode Title="GetHashCode Method (T)" Url="html/M_Rock_Collections_DeepEqualityComparer_1_GetHashCode.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="14bfdfc9-6633-4577-81ef-d5de553c6644" Title="DeepEqualityComparerConfiguration Class" Url="html/T_Rock_Collections_DeepEqualityComparerConfiguration.htm">
+        <HelpTOCNode Title="DeepEqualityComparerConfiguration Constructor " Url="html/M_Rock_Collections_DeepEqualityComparerConfiguration__ctor.htm" />
+        <HelpTOCNode Title="DeepEqualityComparerConfiguration Methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparerConfiguration.htm" />
+        <HelpTOCNode Id="d232c1b6-3389-4ac3-80e2-fbe06818ec70" Title="DeepEqualityComparerConfiguration Properties" Url="html/Properties_T_Rock_Collections_DeepEqualityComparerConfiguration.htm">
+          <HelpTOCNode Title="MemberLocator Property " Url="html/P_Rock_Collections_DeepEqualityComparerConfiguration_MemberLocator.htm" />
+          <HelpTOCNode Title="StringComparison Property " Url="html/P_Rock_Collections_DeepEqualityComparerConfiguration_StringComparison.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="87e19f27-2a08-4127-a092-5cb2622002f5" Title="ForEachExtension Class" Url="html/T_Rock_Collections_ForEachExtension.htm">
+        <HelpTOCNode Id="88983594-5c1a-4947-9e5c-cfcdefad3b26" Title="ForEachExtension Methods" Url="html/Methods_T_Rock_Collections_ForEachExtension.htm">
+          <HelpTOCNode Title="ForEach(TSource) Method " Url="html/M_Rock_Collections_ForEachExtension_ForEach__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="285d298c-7ad0-4b75-b8db-2be2f43c1121" Title="FunctionalKeyedCollection(TKey, TItem) Class" Url="html/T_Rock_Collections_FunctionalKeyedCollection_2.htm">
+        <HelpTOCNode Title="FunctionalKeyedCollection(TKey, TItem) Constructor " Url="html/M_Rock_Collections_FunctionalKeyedCollection_2__ctor.htm" />
+        <HelpTOCNode Id="c4ca95ca-5449-4ee8-a71e-e70394239426" Title="FunctionalKeyedCollection(TKey, TItem) Methods" Url="html/Methods_T_Rock_Collections_FunctionalKeyedCollection_2.htm">
+          <HelpTOCNode Title="GetKeyForItem Method " Url="html/M_Rock_Collections_FunctionalKeyedCollection_2_GetKeyForItem.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FunctionalKeyedCollection(TKey, TItem) Properties" Url="html/Properties_T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="043bd48e-3910-419c-b5e1-23b4db15354e" Title="IKeyedEnumerable(TKey, TItem) Interface" Url="html/T_Rock_Collections_IKeyedEnumerable_2.htm">
+        <HelpTOCNode Id="8d31d2e8-4b12-45b3-88ed-696132b59587" Title="IKeyedEnumerable(TKey, TItem) Methods" Url="html/Methods_T_Rock_Collections_IKeyedEnumerable_2.htm">
+          <HelpTOCNode Title="Contains Method " Url="html/M_Rock_Collections_IKeyedEnumerable_2_Contains.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f8479570-e4e3-4086-8126-a7a5f747fdf8" Title="IKeyedEnumerable(TKey, TItem) Properties" Url="html/Properties_T_Rock_Collections_IKeyedEnumerable_2.htm">
+          <HelpTOCNode Title="Item Property " Url="html/P_Rock_Collections_IKeyedEnumerable_2_Item.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4e77a22b-3c5c-4025-b388-a04fec412bbe" Title="KeyedCollection(TKey, TItem) Class" Url="html/T_Rock_Collections_KeyedCollection_2.htm">
+        <HelpTOCNode Title="KeyedCollection(TKey, TItem) Constructor " Url="html/M_Rock_Collections_KeyedCollection_2__ctor.htm" />
+        <HelpTOCNode Title="KeyedCollection(TKey, TItem) Methods" Url="html/Methods_T_Rock_Collections_KeyedCollection_2.htm" />
+        <HelpTOCNode Title="KeyedCollection(TKey, TItem) Properties" Url="html/Properties_T_Rock_Collections_KeyedCollection_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="db9d0b94-db55-46c9-873d-e6cb2463c9b1" Title="MemberLocator Class" Url="html/T_Rock_Collections_MemberLocator.htm">
+        <HelpTOCNode Title="MemberLocator Constructor " Url="html/M_Rock_Collections_MemberLocator__ctor.htm" />
+        <HelpTOCNode Id="fae7bc36-2582-4f18-b341-0bfe3a97b5f9" Title="MemberLocator Methods" Url="html/Methods_T_Rock_Collections_MemberLocator.htm">
+          <HelpTOCNode Title="Equals Method " Url="html/M_Rock_Collections_MemberLocator_Equals.htm" />
+          <HelpTOCNode Title="GetFieldsAndProperties Method " Url="html/M_Rock_Collections_MemberLocator_GetFieldsAndProperties.htm" />
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Rock_Collections_MemberLocator_GetHashCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d343bc74-1b26-422f-95c4-3af54eaf94e0" Title="SerializableDictionary(TKey, TValue) Class" Url="html/T_Rock_Collections_SerializableDictionary_2.htm">
+        <HelpTOCNode Id="3a8d9948-eb02-4644-aed9-c8c3c4e46de6" Title="SerializableDictionary(TKey, TValue) Constructor " Url="html/Overload_Rock_Collections_SerializableDictionary_2__ctor.htm">
+          <HelpTOCNode Title="SerializableDictionary(TKey, TValue) Constructor " Url="html/M_Rock_Collections_SerializableDictionary_2__ctor.htm" />
+          <HelpTOCNode Title="SerializableDictionary(TKey, TValue) Constructor (SerializationInfo, StreamingContext)" Url="html/M_Rock_Collections_SerializableDictionary_2__ctor_1.htm" />
+          <HelpTOCNode Title="SerializableDictionary(TKey, TValue) Constructor (XmlSerializer, XmlSerializer)" Url="html/M_Rock_Collections_SerializableDictionary_2__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SerializableDictionary(TKey, TValue) Methods" Url="html/Methods_T_Rock_Collections_SerializableDictionary_2.htm" />
+        <HelpTOCNode Title="SerializableDictionary(TKey, TValue) Properties" Url="html/Properties_T_Rock_Collections_SerializableDictionary_2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6dfd41cc-4b5f-4ae5-93cc-61c1a824a5b2" Title="Rock.Configuration" Url="html/N_Rock_Configuration.htm">
+      <HelpTOCNode Id="2afdbe19-7662-4aea-b0a9-e17ef51d6e0b" Title="InvalidConfigurationException Class" Url="html/T_Rock_Configuration_InvalidConfigurationException.htm">
+        <HelpTOCNode Id="31577903-d24d-4097-8370-dfa7f4fa8421" Title="InvalidConfigurationException Constructor " Url="html/Overload_Rock_Configuration_InvalidConfigurationException__ctor.htm">
+          <HelpTOCNode Title="InvalidConfigurationException Constructor " Url="html/M_Rock_Configuration_InvalidConfigurationException__ctor.htm" />
+          <HelpTOCNode Title="InvalidConfigurationException Constructor (SerializationInfo, StreamingContext)" Url="html/M_Rock_Configuration_InvalidConfigurationException__ctor_1.htm" />
+          <HelpTOCNode Title="InvalidConfigurationException Constructor (String, String)" Url="html/M_Rock_Configuration_InvalidConfigurationException__ctor_3.htm" />
+          <HelpTOCNode Title="InvalidConfigurationException Constructor (String, Exception, String)" Url="html/M_Rock_Configuration_InvalidConfigurationException__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3257b1fc-7ef8-4f41-bfe9-c7b9d18ea7a0" Title="InvalidConfigurationException Methods" Url="html/Methods_T_Rock_Configuration_InvalidConfigurationException.htm">
+          <HelpTOCNode Title="GetObjectData Method " Url="html/M_Rock_Configuration_InvalidConfigurationException_GetObjectData.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="778f4022-e05c-4f2e-9540-a1b1795933c2" Title="InvalidConfigurationException Properties" Url="html/Properties_T_Rock_Configuration_InvalidConfigurationException.htm">
+          <HelpTOCNode Title="DocumentFragment Property " Url="html/P_Rock_Configuration_InvalidConfigurationException_DocumentFragment.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="InvalidConfigurationException Events" Url="html/Events_T_Rock_Configuration_InvalidConfigurationException.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="334206a9-e62a-43f8-bbe0-abe22090aabb" Title="XmlSerializerSectionHandler Class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler.htm">
+        <HelpTOCNode Title="XmlSerializerSectionHandler Constructor " Url="html/M_Rock_Configuration_XmlSerializerSectionHandler__ctor.htm" />
+        <HelpTOCNode Id="795c4994-860f-4022-ac8f-d76184e37822" Title="XmlSerializerSectionHandler Methods" Url="html/Methods_T_Rock_Configuration_XmlSerializerSectionHandler.htm">
+          <HelpTOCNode Title="Create Method " Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_Create.htm" />
+          <HelpTOCNode Title="Deserialize Method " Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_Deserialize.htm" />
+          <HelpTOCNode Title="GetConfigType Method " Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_GetConfigType.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7ef42b98-7b8b-4bb5-8599-4bcc7178f34e" Title="XmlSerializerSectionHandler(TConfiguration) Class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler_1.htm">
+        <HelpTOCNode Title="XmlSerializerSectionHandler(TConfiguration) Constructor " Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_1__ctor.htm" />
+        <HelpTOCNode Id="a2cd2a81-7d60-48ec-b525-3cd2c9fc4434" Title="XmlSerializerSectionHandler(TConfiguration) Methods" Url="html/Methods_T_Rock_Configuration_XmlSerializerSectionHandler_1.htm">
+          <HelpTOCNode Title="GetConfigType Method " Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_1_GetConfigType.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="eb6b6462-a132-4508-8d84-6eb64d5104b7" Title="Rock.Conversion" Url="html/N_Rock_Conversion.htm">
+      <HelpTOCNode Id="b9162878-98c7-4f28-9990-f4cf9fe12c43" Title="ConvertsToDictionaryOfStringTo(TValue) Class" Url="html/T_Rock_Conversion_ConvertsToDictionaryOfStringTo_1.htm">
+        <HelpTOCNode Title="ConvertsToDictionaryOfStringTo(TValue) Constructor " Url="html/M_Rock_Conversion_ConvertsToDictionaryOfStringTo_1__ctor.htm" />
+        <HelpTOCNode Id="f3bd7720-abb2-4640-98df-7f4dd0d7c2df" Title="ConvertsToDictionaryOfStringTo(TValue) Methods" Url="html/Methods_T_Rock_Conversion_ConvertsToDictionaryOfStringTo_1.htm">
+          <HelpTOCNode Title="Convert Method " Url="html/M_Rock_Conversion_ConvertsToDictionaryOfStringTo_1_Convert.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8bdb5b1d-388c-44e1-95a7-e5d570c99617" Title="ConvertsToExpandoObject Class" Url="html/T_Rock_Conversion_ConvertsToExpandoObject.htm">
+        <HelpTOCNode Title="ConvertsToExpandoObject Constructor " Url="html/M_Rock_Conversion_ConvertsToExpandoObject__ctor.htm" />
+        <HelpTOCNode Id="744e6e03-2780-402a-932d-cc283b5a4007" Title="ConvertsToExpandoObject Methods" Url="html/Methods_T_Rock_Conversion_ConvertsToExpandoObject.htm">
+          <HelpTOCNode Title="Convert Method " Url="html/M_Rock_Conversion_ConvertsToExpandoObject_Convert.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a5a22385-4e6b-48db-834f-5456cb559df4" Title="GetEnumValueExtension Class" Url="html/T_Rock_Conversion_GetEnumValueExtension.htm">
+        <HelpTOCNode Id="e1e6603d-ac48-4a9b-a397-1027d81ab160" Title="GetEnumValueExtension Methods" Url="html/Methods_T_Rock_Conversion_GetEnumValueExtension.htm">
+          <HelpTOCNode Title="GetEnumValue(T) Method " Url="html/M_Rock_Conversion_GetEnumValueExtension_GetEnumValue__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c081440e-d538-4364-80f9-55d092a5afae" Title="IConvertsTo(TTarget) Interface" Url="html/T_Rock_Conversion_IConvertsTo_1.htm">
+        <HelpTOCNode Id="ff138cab-6e3d-4322-90d3-80987d5ee7c1" Title="IConvertsTo(TTarget) Methods" Url="html/Methods_T_Rock_Conversion_IConvertsTo_1.htm">
+          <HelpTOCNode Title="Convert Method " Url="html/M_Rock_Conversion_IConvertsTo_1_Convert.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fcc1c0ab-db37-4261-95e3-5af343f461d6" Title="ToDictionaryOfStringToStringExtension Class" Url="html/T_Rock_Conversion_ToDictionaryOfStringToStringExtension.htm">
+        <HelpTOCNode Id="ccd60555-0a37-4b1a-bec3-aece1974d260" Title="ToDictionaryOfStringToStringExtension Methods" Url="html/Methods_T_Rock_Conversion_ToDictionaryOfStringToStringExtension.htm">
+          <HelpTOCNode Title="SetConverter Method " Url="html/M_Rock_Conversion_ToDictionaryOfStringToStringExtension_SetConverter.htm" />
+          <HelpTOCNode Title="ToDictionaryOfStringToString Method " Url="html/M_Rock_Conversion_ToDictionaryOfStringToStringExtension_ToDictionaryOfStringToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c15ccf82-ffdc-443c-83cd-b1c6ce808a9c" Title="ToDictionaryOfStringToStringExtension Properties" Url="html/Properties_T_Rock_Conversion_ToDictionaryOfStringToStringExtension.htm">
+          <HelpTOCNode Title="Converter Property " Url="html/P_Rock_Conversion_ToDictionaryOfStringToStringExtension_Converter.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6d905b24-4a83-4bf8-8f5c-f3e84625d414" Title="ToExpandoObjectExtension Class" Url="html/T_Rock_Conversion_ToExpandoObjectExtension.htm">
+        <HelpTOCNode Id="f4a47b44-0834-4c13-bf7c-aec9821e0a08" Title="ToExpandoObjectExtension Methods" Url="html/Methods_T_Rock_Conversion_ToExpandoObjectExtension.htm">
+          <HelpTOCNode Title="SetConverter Method " Url="html/M_Rock_Conversion_ToExpandoObjectExtension_SetConverter.htm" />
+          <HelpTOCNode Title="ToExpandoObject Method " Url="html/M_Rock_Conversion_ToExpandoObjectExtension_ToExpandoObject.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7e0df5fa-5820-4f70-8f9d-7ac21b2271e4" Title="ToExpandoObjectExtension Properties" Url="html/Properties_T_Rock_Conversion_ToExpandoObjectExtension.htm">
+          <HelpTOCNode Title="Converter Property " Url="html/P_Rock_Conversion_ToExpandoObjectExtension_Converter.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0c6d1f0a-15bc-4c3a-ba35-b4cf8cc6bd53" Title="Rock.Cryptography" Url="html/N_Rock_Cryptography.htm">
+      <HelpTOCNode Title="HashType Enumeration" Url="html/T_Rock_Cryptography_HashType.htm" />
+      <HelpTOCNode Id="ecb0dd9c-8bb5-4ee0-a1a5-169d38d45373" Title="HashTypeExtensions Class" Url="html/T_Rock_Cryptography_HashTypeExtensions.htm">
+        <HelpTOCNode Id="0e37e481-e5e9-48d3-a5de-7a37107ab74d" Title="HashTypeExtensions Methods" Url="html/Methods_T_Rock_Cryptography_HashTypeExtensions.htm">
+          <HelpTOCNode Id="6202abf6-0ef7-48b4-99cf-59654ce6c64e" Title="ComputeHash Method " Url="html/Overload_Rock_Cryptography_HashTypeExtensions_ComputeHash.htm">
+            <HelpTOCNode Title="ComputeHash Method (HashType, Byte[])" Url="html/M_Rock_Cryptography_HashTypeExtensions_ComputeHash.htm" />
+            <HelpTOCNode Title="ComputeHash Method (HashType, Stream)" Url="html/M_Rock_Cryptography_HashTypeExtensions_ComputeHash_1.htm" />
+            <HelpTOCNode Title="ComputeHash Method (HashType, Stream, Boolean)" Url="html/M_Rock_Cryptography_HashTypeExtensions_ComputeHash_2.htm" />
+            <HelpTOCNode Title="ComputeHash Method (HashType, String, Encoding)" Url="html/M_Rock_Cryptography_HashTypeExtensions_ComputeHash_3.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="89b342d4-b272-4341-bf4f-254998a06a75" Title="ToHash Method " Url="html/Overload_Rock_Cryptography_HashTypeExtensions_ToHash.htm">
+            <HelpTOCNode Title="ToHash Method (Byte[], HashType)" Url="html/M_Rock_Cryptography_HashTypeExtensions_ToHash.htm" />
+            <HelpTOCNode Title="ToHash Method (String, HashType)" Url="html/M_Rock_Cryptography_HashTypeExtensions_ToHash_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e6fbb173-0f07-4236-b866-a4d87b41c208" Title="Rock.DependencyInjection" Url="html/N_Rock_DependencyInjection.htm">
+      <HelpTOCNode Id="1e7209e1-1684-4fa8-b58d-6442e32990c7" Title="AutoContainer Class" Url="html/T_Rock_DependencyInjection_AutoContainer.htm">
+        <HelpTOCNode Id="3338eafa-b3f4-440d-917a-d85aa21abc63" Title="AutoContainer Constructor " Url="html/Overload_Rock_DependencyInjection_AutoContainer__ctor.htm">
+          <HelpTOCNode Title="AutoContainer Constructor (Object[])" Url="html/M_Rock_DependencyInjection_AutoContainer__ctor_2.htm" />
+          <HelpTOCNode Title="AutoContainer Constructor (AutoContainer)" Url="html/M_Rock_DependencyInjection_AutoContainer__ctor.htm" />
+          <HelpTOCNode Title="AutoContainer Constructor (IResolverConstructorSelector, IEnumerable(Object))" Url="html/M_Rock_DependencyInjection_AutoContainer__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c70a491c-dfee-4e83-bfc6-058efe736a5f" Title="AutoContainer Methods" Url="html/Methods_T_Rock_DependencyInjection_AutoContainer.htm">
+          <HelpTOCNode Title="CanGet Method " Url="html/M_Rock_DependencyInjection_AutoContainer_CanGet.htm" />
+          <HelpTOCNode Id="73b4a882-99ef-496c-bb95-6bcfa628f0f3" Title="Get Method " Url="html/Overload_Rock_DependencyInjection_AutoContainer_Get.htm">
+            <HelpTOCNode Title="Get(T) Method " Url="html/M_Rock_DependencyInjection_AutoContainer_Get__1.htm" />
+            <HelpTOCNode Title="Get Method (Type)" Url="html/M_Rock_DependencyInjection_AutoContainer_Get.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="MergeWith Method " Url="html/M_Rock_DependencyInjection_AutoContainer_MergeWith.htm" />
+          <HelpTOCNode Title="SetBinding Method " Url="html/M_Rock_DependencyInjection_AutoContainer_SetBinding.htm" />
+          <HelpTOCNode Title="SetDefaultResolverConstructorSelector Method " Url="html/M_Rock_DependencyInjection_AutoContainer_SetDefaultResolverConstructorSelector.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="76d84ca4-edd4-4373-8495-ac002bd29e5b" Title="AutoContainer Properties" Url="html/Properties_T_Rock_DependencyInjection_AutoContainer.htm">
+          <HelpTOCNode Title="DefaultResolverConstructorSelector Property " Url="html/P_Rock_DependencyInjection_AutoContainer_DefaultResolverConstructorSelector.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2ecc54e8-bba9-4601-8473-f8d75bbbf7fe" Title="IResolver Interface" Url="html/T_Rock_DependencyInjection_IResolver.htm">
+        <HelpTOCNode Id="49c6f7c9-9f54-4ff7-b5b8-c69c6b7f8fe1" Title="IResolver Methods" Url="html/Methods_T_Rock_DependencyInjection_IResolver.htm">
+          <HelpTOCNode Title="CanGet Method " Url="html/M_Rock_DependencyInjection_IResolver_CanGet.htm" />
+          <HelpTOCNode Id="e479e562-85ec-4410-9597-2bd7cacaac5a" Title="Get Method " Url="html/Overload_Rock_DependencyInjection_IResolver_Get.htm">
+            <HelpTOCNode Title="Get(T) Method " Url="html/M_Rock_DependencyInjection_IResolver_Get__1.htm" />
+            <HelpTOCNode Title="Get Method (Type)" Url="html/M_Rock_DependencyInjection_IResolver_Get.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="MergeWith Method " Url="html/M_Rock_DependencyInjection_IResolver_MergeWith.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="65869922-673a-4093-99bf-62fa813d8a93" Title="ResolveException Class" Url="html/T_Rock_DependencyInjection_ResolveException.htm">
+        <HelpTOCNode Id="569c9982-d963-4872-9aac-1faabcc54bbd" Title="ResolveException Constructor " Url="html/Overload_Rock_DependencyInjection_ResolveException__ctor.htm">
+          <HelpTOCNode Title="ResolveException Constructor " Url="html/M_Rock_DependencyInjection_ResolveException__ctor.htm" />
+          <HelpTOCNode Title="ResolveException Constructor (String)" Url="html/M_Rock_DependencyInjection_ResolveException__ctor_1.htm" />
+          <HelpTOCNode Title="ResolveException Constructor (String, Exception)" Url="html/M_Rock_DependencyInjection_ResolveException__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ResolveException Methods" Url="html/Methods_T_Rock_DependencyInjection_ResolveException.htm" />
+        <HelpTOCNode Title="ResolveException Properties" Url="html/Properties_T_Rock_DependencyInjection_ResolveException.htm" />
+        <HelpTOCNode Title="ResolveException Events" Url="html/Events_T_Rock_DependencyInjection_ResolveException.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="170504c5-e53b-4b7b-86b2-72067f083831" Title="Rock.DependencyInjection.Heuristics" Url="html/N_Rock_DependencyInjection_Heuristics.htm">
+      <HelpTOCNode Id="7d1a7b2a-1aba-4a87-8010-d288e1e8f16c" Title="IResolverConstructorSelector Interface" Url="html/T_Rock_DependencyInjection_Heuristics_IResolverConstructorSelector.htm">
+        <HelpTOCNode Id="3e04f56b-5ed9-421f-a18a-95da68a1abd1" Title="IResolverConstructorSelector Methods" Url="html/Methods_T_Rock_DependencyInjection_Heuristics_IResolverConstructorSelector.htm">
+          <HelpTOCNode Title="TryGetConstructor Method " Url="html/M_Rock_DependencyInjection_Heuristics_IResolverConstructorSelector_TryGetConstructor.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c53afc58-bfb0-4e1c-8dff-e24bee35cb9b" Title="ResolverConstructorSelector Class" Url="html/T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector.htm">
+        <HelpTOCNode Title="ResolverConstructorSelector Constructor " Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector__ctor.htm" />
+        <HelpTOCNode Id="d28da5eb-7afd-4ccd-a9e5-95a94a3fb23d" Title="ResolverConstructorSelector Methods" Url="html/Methods_T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector.htm">
+          <HelpTOCNode Title="TryGetConstructor Method " Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector_TryGetConstructor.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="490ba7fc-ea4f-4261-9cac-fc419d6544cc" Title="ResolverConstructorSelectorExtensions Class" Url="html/T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions.htm">
+        <HelpTOCNode Id="78ef938f-d85b-4a30-bd9a-c1addd6e2cd2" Title="ResolverConstructorSelectorExtensions Methods" Url="html/Methods_T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions.htm">
+          <HelpTOCNode Title="CanGetConstructor Method " Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions_CanGetConstructor.htm" />
+          <HelpTOCNode Title="GetConstructor Method " Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions_GetConstructor.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7373c77c-20fc-47f2-a291-c24fbdf6f241" Title="Rock.Immutable" Url="html/N_Rock_Immutable.htm">
+      <HelpTOCNode Id="f5eb331f-a866-46ec-ae78-c2b7ef744415" Title="Semimutable(T) Class" Url="html/T_Rock_Immutable_Semimutable_1.htm">
+        <HelpTOCNode Id="433bee95-231e-443c-a56d-13eae3cfb812" Title="Semimutable(T) Constructor " Url="html/Overload_Rock_Immutable_Semimutable_1__ctor.htm">
+          <HelpTOCNode Title="Semimutable(T) Constructor " Url="html/M_Rock_Immutable_Semimutable_1__ctor.htm" />
+          <HelpTOCNode Title="Semimutable(T) Constructor (Boolean)" Url="html/M_Rock_Immutable_Semimutable_1__ctor_1.htm" />
+          <HelpTOCNode Title="Semimutable(T) Constructor (Func(T), Boolean)" Url="html/M_Rock_Immutable_Semimutable_1__ctor_2.htm" />
+          <HelpTOCNode Title="Semimutable(T) Constructor (T, Boolean)" Url="html/M_Rock_Immutable_Semimutable_1__ctor_3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0167d2d0-b346-4be3-9236-f252eb19ef16" Title="Semimutable(T) Methods" Url="html/Methods_T_Rock_Immutable_Semimutable_1.htm">
+          <HelpTOCNode Title="LockValue Method " Url="html/M_Rock_Immutable_Semimutable_1_LockValue.htm" />
+          <HelpTOCNode Title="ResetValue Method " Url="html/M_Rock_Immutable_Semimutable_1_ResetValue.htm" />
+          <HelpTOCNode Title="SetValue Method " Url="html/M_Rock_Immutable_Semimutable_1_SetValue.htm" />
+          <HelpTOCNode Title="UnlockValue Method " Url="html/M_Rock_Immutable_Semimutable_1_UnlockValue.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3866ae4c-27a2-46ee-aeb5-836616c3008c" Title="Semimutable(T) Properties" Url="html/Properties_T_Rock_Immutable_Semimutable_1.htm">
+          <HelpTOCNode Title="CanUnlock Property " Url="html/P_Rock_Immutable_Semimutable_1_CanUnlock.htm" />
+          <HelpTOCNode Title="HasDefaultValue Property " Url="html/P_Rock_Immutable_Semimutable_1_HasDefaultValue.htm" />
+          <HelpTOCNode Title="IsLocked Property " Url="html/P_Rock_Immutable_Semimutable_1_IsLocked.htm" />
+          <HelpTOCNode Title="Value Property " Url="html/P_Rock_Immutable_Semimutable_1_Value.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a66f331e-7f5b-4b11-ac65-31a06eb00a6a" Title="Rock.IO" Url="html/N_Rock_IO.htm">
+      <HelpTOCNode Id="7780897f-a3d4-4432-8e36-0cd91d7e25e2" Title="EncodedStringWriter Class" Url="html/T_Rock_IO_EncodedStringWriter.htm">
+        <HelpTOCNode Id="6bc72f4f-a907-4d6d-82e3-cfcf9f4335b0" Title="EncodedStringWriter Constructor " Url="html/Overload_Rock_IO_EncodedStringWriter__ctor.htm">
+          <HelpTOCNode Title="EncodedStringWriter Constructor (Encoding)" Url="html/M_Rock_IO_EncodedStringWriter__ctor_1.htm" />
+          <HelpTOCNode Title="EncodedStringWriter Constructor (IFormatProvider, Encoding)" Url="html/M_Rock_IO_EncodedStringWriter__ctor.htm" />
+          <HelpTOCNode Title="EncodedStringWriter Constructor (StringBuilder, Encoding)" Url="html/M_Rock_IO_EncodedStringWriter__ctor_3.htm" />
+          <HelpTOCNode Title="EncodedStringWriter Constructor (StringBuilder, IFormatProvider, Encoding)" Url="html/M_Rock_IO_EncodedStringWriter__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="EncodedStringWriter Fields" Url="html/Fields_T_Rock_IO_EncodedStringWriter.htm" />
+        <HelpTOCNode Title="EncodedStringWriter Methods" Url="html/Methods_T_Rock_IO_EncodedStringWriter.htm" />
+        <HelpTOCNode Id="771078a5-9090-4569-9c19-895f681148a7" Title="EncodedStringWriter Properties" Url="html/Properties_T_Rock_IO_EncodedStringWriter.htm">
+          <HelpTOCNode Title="Encoding Property " Url="html/P_Rock_IO_EncodedStringWriter_Encoding.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e7db3846-7af3-44ac-acb4-ecbfa7c73196" Title="TempStorage Class" Url="html/T_Rock_IO_TempStorage.htm">
+        <HelpTOCNode Id="195999cc-b752-43f3-a307-7fa5850e35a0" Title="TempStorage Methods" Url="html/Methods_T_Rock_IO_TempStorage.htm">
+          <HelpTOCNode Title="Delete Method " Url="html/M_Rock_IO_TempStorage_Delete.htm" />
+          <HelpTOCNode Title="Get(T) Method " Url="html/M_Rock_IO_TempStorage_Get__1.htm" />
+          <HelpTOCNode Title="GetItems Method " Url="html/M_Rock_IO_TempStorage_GetItems.htm" />
+          <HelpTOCNode Title="Put(T) Method " Url="html/M_Rock_IO_TempStorage_Put__1.htm" />
+          <HelpTOCNode Title="SetKeyValueStore Method " Url="html/M_Rock_IO_TempStorage_SetKeyValueStore.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="74225040-e78b-4acb-80e6-b2b3030d4105" Title="TempStorage Properties" Url="html/Properties_T_Rock_IO_TempStorage.htm">
+          <HelpTOCNode Title="KeyValueStore Property " Url="html/P_Rock_IO_TempStorage_KeyValueStore.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e8ae6c47-6813-47b7-996a-6f3ed545a1a4" Title="Rock.KeyValueStores" Url="html/N_Rock_KeyValueStores.htm">
+      <HelpTOCNode Id="d3522432-5f01-4fbc-b19a-0faecc4878c9" Title="DeleteExtensions Class" Url="html/T_Rock_KeyValueStores_DeleteExtensions.htm">
+        <HelpTOCNode Id="8b7f5334-45bb-4725-ba87-5f42b5ec4b1e" Title="DeleteExtensions Methods" Url="html/Methods_T_Rock_KeyValueStores_DeleteExtensions.htm">
+          <HelpTOCNode Id="b4dca7e0-058d-4bbf-8785-314eb44a013a" Title="Delete Method " Url="html/Overload_Rock_KeyValueStores_DeleteExtensions_Delete.htm">
+            <HelpTOCNode Title="Delete Method (IBucket, String)" Url="html/M_Rock_KeyValueStores_DeleteExtensions_Delete.htm" />
+            <HelpTOCNode Title="Delete Method (IKeyValueStore, String, String)" Url="html/M_Rock_KeyValueStores_DeleteExtensions_Delete_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c86e6044-3817-48b3-a4f1-17bf5ab59a57" Title="DirectoryBucket Class" Url="html/T_Rock_KeyValueStores_DirectoryBucket.htm">
+        <HelpTOCNode Title="DirectoryBucket Constructor " Url="html/M_Rock_KeyValueStores_DirectoryBucket__ctor.htm" />
+        <HelpTOCNode Id="d021c2a6-2e0c-4311-8f8e-8778f7adbee5" Title="DirectoryBucket Methods" Url="html/Methods_T_Rock_KeyValueStores_DirectoryBucket.htm">
+          <HelpTOCNode Title="GetItem Method " Url="html/M_Rock_KeyValueStores_DirectoryBucket_GetItem.htm" />
+          <HelpTOCNode Title="GetItems Method " Url="html/M_Rock_KeyValueStores_DirectoryBucket_GetItems.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a5ade160-6878-4018-a5cf-276f3b775989" Title="DirectoryBucket Properties" Url="html/Properties_T_Rock_KeyValueStores_DirectoryBucket.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_KeyValueStores_DirectoryBucket_Name.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7e3e09a9-76c3-43ed-9858-2b6f718b1d0e" Title="FileBucketItem Class" Url="html/T_Rock_KeyValueStores_FileBucketItem.htm">
+        <HelpTOCNode Title="FileBucketItem Constructor " Url="html/M_Rock_KeyValueStores_FileBucketItem__ctor.htm" />
+        <HelpTOCNode Id="6599dfdd-3001-461a-a400-e4fec6876d10" Title="FileBucketItem Methods" Url="html/Methods_T_Rock_KeyValueStores_FileBucketItem.htm">
+          <HelpTOCNode Title="Delete Method " Url="html/M_Rock_KeyValueStores_FileBucketItem_Delete.htm" />
+          <HelpTOCNode Title="Put(T) Method " Url="html/M_Rock_KeyValueStores_FileBucketItem_Put__1.htm" />
+          <HelpTOCNode Title="TryGet(T) Method " Url="html/M_Rock_KeyValueStores_FileBucketItem_TryGet__1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ec9bf712-308b-4e9c-960f-97e049c01a20" Title="FileBucketItem Properties" Url="html/Properties_T_Rock_KeyValueStores_FileBucketItem.htm">
+          <HelpTOCNode Title="BucketName Property " Url="html/P_Rock_KeyValueStores_FileBucketItem_BucketName.htm" />
+          <HelpTOCNode Title="Key Property " Url="html/P_Rock_KeyValueStores_FileBucketItem_Key.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a6ac4b56-5575-4206-b4c3-f3b1d9d21b59" Title="FileKeyValueStore Class" Url="html/T_Rock_KeyValueStores_FileKeyValueStore.htm">
+        <HelpTOCNode Title="FileKeyValueStore Constructor " Url="html/M_Rock_KeyValueStores_FileKeyValueStore__ctor.htm" />
+        <HelpTOCNode Id="d8a5fa29-5e54-4983-a255-d7725120e2fe" Title="FileKeyValueStore Methods" Url="html/Methods_T_Rock_KeyValueStores_FileKeyValueStore.htm">
+          <HelpTOCNode Title="GetBucket Method " Url="html/M_Rock_KeyValueStores_FileKeyValueStore_GetBucket.htm" />
+          <HelpTOCNode Title="GetBuckets Method " Url="html/M_Rock_KeyValueStores_FileKeyValueStore_GetBuckets.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b8e4a5e4-51a7-4d4f-95b8-2531960c4f30" Title="GetExtensions Class" Url="html/T_Rock_KeyValueStores_GetExtensions.htm">
+        <HelpTOCNode Id="e6edd4f3-eeda-4d5b-beb6-3688b734bdd5" Title="GetExtensions Methods" Url="html/Methods_T_Rock_KeyValueStores_GetExtensions.htm">
+          <HelpTOCNode Id="6cb77064-4798-468a-a415-58199d517811" Title="Get Method " Url="html/Overload_Rock_KeyValueStores_GetExtensions_Get.htm">
+            <HelpTOCNode Title="Get(T) Method (IBucketItem)" Url="html/M_Rock_KeyValueStores_GetExtensions_Get__1_1.htm" />
+            <HelpTOCNode Title="Get(T) Method (IBucket, String)" Url="html/M_Rock_KeyValueStores_GetExtensions_Get__1.htm" />
+            <HelpTOCNode Title="Get(T) Method (IKeyValueStore, String, String)" Url="html/M_Rock_KeyValueStores_GetExtensions_Get__1_2.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="97444e9b-f056-4948-b44e-986adb45552f" Title="GetItemExtension Class" Url="html/T_Rock_KeyValueStores_GetItemExtension.htm">
+        <HelpTOCNode Id="0e32bc76-1a08-45f3-a6f5-f0d4252faa5d" Title="GetItemExtension Methods" Url="html/Methods_T_Rock_KeyValueStores_GetItemExtension.htm">
+          <HelpTOCNode Title="GetItem Method " Url="html/M_Rock_KeyValueStores_GetItemExtension_GetItem.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b266e52d-327b-43f2-81e6-70067a480279" Title="GetItemsExtension Class" Url="html/T_Rock_KeyValueStores_GetItemsExtension.htm">
+        <HelpTOCNode Id="c73e0019-1c45-4a36-9dbe-a05f31b113ba" Title="GetItemsExtension Methods" Url="html/Methods_T_Rock_KeyValueStores_GetItemsExtension.htm">
+          <HelpTOCNode Title="GetItems Method " Url="html/M_Rock_KeyValueStores_GetItemsExtension_GetItems.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="15c74cb1-baa8-4a7c-a7cd-4f84af8809a4" Title="IBucket Interface" Url="html/T_Rock_KeyValueStores_IBucket.htm">
+        <HelpTOCNode Id="40e48132-c8b6-4beb-9ed7-48e849294181" Title="IBucket Methods" Url="html/Methods_T_Rock_KeyValueStores_IBucket.htm">
+          <HelpTOCNode Title="GetItem Method " Url="html/M_Rock_KeyValueStores_IBucket_GetItem.htm" />
+          <HelpTOCNode Title="GetItems Method " Url="html/M_Rock_KeyValueStores_IBucket_GetItems.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="22b88a76-4a34-4234-b0e8-d84a5be65eff" Title="IBucket Properties" Url="html/Properties_T_Rock_KeyValueStores_IBucket.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_KeyValueStores_IBucket_Name.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b50f7c3b-50b6-4b1f-b0a4-53a56a86bc75" Title="IBucketItem Interface" Url="html/T_Rock_KeyValueStores_IBucketItem.htm">
+        <HelpTOCNode Id="f31dc09e-658f-4ead-a361-18d35004ebd3" Title="IBucketItem Methods" Url="html/Methods_T_Rock_KeyValueStores_IBucketItem.htm">
+          <HelpTOCNode Title="Delete Method " Url="html/M_Rock_KeyValueStores_IBucketItem_Delete.htm" />
+          <HelpTOCNode Title="Put(T) Method " Url="html/M_Rock_KeyValueStores_IBucketItem_Put__1.htm" />
+          <HelpTOCNode Title="TryGet(T) Method " Url="html/M_Rock_KeyValueStores_IBucketItem_TryGet__1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="44dbdef6-6895-442c-a254-889e5921daba" Title="IBucketItem Properties" Url="html/Properties_T_Rock_KeyValueStores_IBucketItem.htm">
+          <HelpTOCNode Title="BucketName Property " Url="html/P_Rock_KeyValueStores_IBucketItem_BucketName.htm" />
+          <HelpTOCNode Title="Key Property " Url="html/P_Rock_KeyValueStores_IBucketItem_Key.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c84e311f-a149-4a08-95be-f342c1accd23" Title="IKeyValueStore Interface" Url="html/T_Rock_KeyValueStores_IKeyValueStore.htm">
+        <HelpTOCNode Id="fd004070-2822-49a5-96c1-b26d0e366a11" Title="IKeyValueStore Methods" Url="html/Methods_T_Rock_KeyValueStores_IKeyValueStore.htm">
+          <HelpTOCNode Title="GetBucket Method " Url="html/M_Rock_KeyValueStores_IKeyValueStore_GetBucket.htm" />
+          <HelpTOCNode Title="GetBuckets Method " Url="html/M_Rock_KeyValueStores_IKeyValueStore_GetBuckets.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="aefc65c6-af2b-4753-9331-92dfa5cfc0ca" Title="PutExtensions Class" Url="html/T_Rock_KeyValueStores_PutExtensions.htm">
+        <HelpTOCNode Id="a46c50f2-2296-4724-add9-28cd5c8ff156" Title="PutExtensions Methods" Url="html/Methods_T_Rock_KeyValueStores_PutExtensions.htm">
+          <HelpTOCNode Id="27fd5b4f-597a-477e-8fa2-2886f906249e" Title="Put Method " Url="html/Overload_Rock_KeyValueStores_PutExtensions_Put.htm">
+            <HelpTOCNode Title="Put(T) Method (IBucket, String, T)" Url="html/M_Rock_KeyValueStores_PutExtensions_Put__1.htm" />
+            <HelpTOCNode Title="Put(T) Method (IKeyValueStore, String, String, T)" Url="html/M_Rock_KeyValueStores_PutExtensions_Put__1_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c1d4d534-13dc-4bbd-86b0-d7a6adc56745" Title="TryGetExtensions Class" Url="html/T_Rock_KeyValueStores_TryGetExtensions.htm">
+        <HelpTOCNode Id="bc984ee4-d52b-451a-b5da-d035216fb824" Title="TryGetExtensions Methods" Url="html/Methods_T_Rock_KeyValueStores_TryGetExtensions.htm">
+          <HelpTOCNode Id="5f6e05b6-421f-4a44-8aee-6754925815dd" Title="TryGet Method " Url="html/Overload_Rock_KeyValueStores_TryGetExtensions_TryGet.htm">
+            <HelpTOCNode Title="TryGet(T) Method (IBucket, String, T)" Url="html/M_Rock_KeyValueStores_TryGetExtensions_TryGet__1.htm" />
+            <HelpTOCNode Title="TryGet(T) Method (IKeyValueStore, String, String, T)" Url="html/M_Rock_KeyValueStores_TryGetExtensions_TryGet__1_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f1f49ddd-e070-4774-81e4-9f7447a21ee1" Title="Rock.Logging" Url="html/N_Rock_Logging.htm">
+      <HelpTOCNode Id="13d4a318-66fe-4fc4-a4e9-ec76f9373292" Title="AddCallerInfoExtension Class" Url="html/T_Rock_Logging_AddCallerInfoExtension.htm">
+        <HelpTOCNode Id="66f2e260-3c20-45f7-b2bf-6aa96b64a8e7" Title="AddCallerInfoExtension Methods" Url="html/Methods_T_Rock_Logging_AddCallerInfoExtension.htm">
+          <HelpTOCNode Title="AddCallerInfo Method " Url="html/M_Rock_Logging_AddCallerInfoExtension_AddCallerInfo.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1db4f9cf-3637-449c-9f9d-1b099f9e55f0" Title="ConsoleLogProvider Class" Url="html/T_Rock_Logging_ConsoleLogProvider.htm">
+        <HelpTOCNode Id="11e307af-c498-43b2-8150-d895e8b1869f" Title="ConsoleLogProvider Constructor " Url="html/Overload_Rock_Logging_ConsoleLogProvider__ctor.htm">
+          <HelpTOCNode Title="ConsoleLogProvider Constructor " Url="html/M_Rock_Logging_ConsoleLogProvider__ctor.htm" />
+          <HelpTOCNode Title="ConsoleLogProvider Constructor (ILogFormatter)" Url="html/M_Rock_Logging_ConsoleLogProvider__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="100d6b23-0c7d-4526-88a8-be5498277a72" Title="ConsoleLogProvider Methods" Url="html/Methods_T_Rock_Logging_ConsoleLogProvider.htm">
+          <HelpTOCNode Id="8ac07807-dc89-4a92-88dd-0971f8e0ba61" Title="WriteAsync Method " Url="html/Overload_Rock_Logging_ConsoleLogProvider_WriteAsync.htm">
+            <HelpTOCNode Title="WriteAsync Method (LogEntry, String)" Url="html/M_Rock_Logging_ConsoleLogProvider_WriteAsync.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1e82b500-3ce6-405a-a2dc-3b8d95f5ad1b" Title="ContextProvider(TLogEntry) Class" Url="html/T_Rock_Logging_ContextProvider_1.htm">
+        <HelpTOCNode Title="ContextProvider(TLogEntry) Constructor " Url="html/M_Rock_Logging_ContextProvider_1__ctor.htm" />
+        <HelpTOCNode Id="b6179d0c-a09a-4c08-b79a-c408156bf3fe" Title="ContextProvider(TLogEntry) Methods" Url="html/Methods_T_Rock_Logging_ContextProvider_1.htm">
+          <HelpTOCNode Id="52bfd72a-dbe5-4304-95b8-3ef8ad2665cb" Title="AddContextData Method " Url="html/Overload_Rock_Logging_ContextProvider_1_AddContextData.htm">
+            <HelpTOCNode Title="AddContextData Method (TLogEntry)" Url="html/M_Rock_Logging_ContextProvider_1_AddContextData_1.htm" />
+            <HelpTOCNode Title="AddContextData Method (LogEntry)" Url="html/M_Rock_Logging_ContextProvider_1_AddContextData.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4c9728d0-48ae-4b0e-9f54-e295f07bb6d2" Title="EmailLogProvider Class" Url="html/T_Rock_Logging_EmailLogProvider.htm">
+        <HelpTOCNode Id="02551841-5e6e-4974-a550-12a7ac6a52f0" Title="EmailLogProvider Constructor " Url="html/Overload_Rock_Logging_EmailLogProvider__ctor.htm">
+          <HelpTOCNode Title="EmailLogProvider Constructor " Url="html/M_Rock_Logging_EmailLogProvider__ctor.htm" />
+          <HelpTOCNode Title="EmailLogProvider Constructor (DeliveryMethod, ILogFormatter)" Url="html/M_Rock_Logging_EmailLogProvider__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5a0fda1c-f131-492c-8e79-e1ac75a0e3f3" Title="EmailLogProvider Methods" Url="html/Methods_T_Rock_Logging_EmailLogProvider.htm">
+          <HelpTOCNode Id="72aa813c-2720-4ebc-ac15-92d549f7008e" Title="WriteAsync Method " Url="html/Overload_Rock_Logging_EmailLogProvider_WriteAsync.htm">
+            <HelpTOCNode Title="WriteAsync Method (LogEntry, String)" Url="html/M_Rock_Logging_EmailLogProvider_WriteAsync.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="6feefa6e-2273-4222-86c3-7c0693e3be1b" Title="EmailLogProvider Properties" Url="html/Properties_T_Rock_Logging_EmailLogProvider.htm">
+          <HelpTOCNode Title="FromEmail Property " Url="html/P_Rock_Logging_EmailLogProvider_FromEmail.htm" />
+          <HelpTOCNode Title="Subject Property " Url="html/P_Rock_Logging_EmailLogProvider_Subject.htm" />
+          <HelpTOCNode Title="ToEmail Property " Url="html/P_Rock_Logging_EmailLogProvider_ToEmail.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9e134203-4f8a-490f-9ed1-b73fd6a7d2b6" Title="FileLogProvider Class" Url="html/T_Rock_Logging_FileLogProvider.htm">
+        <HelpTOCNode Id="b813a6ae-3b42-453f-8413-b2897e172691" Title="FileLogProvider Constructor " Url="html/Overload_Rock_Logging_FileLogProvider__ctor.htm">
+          <HelpTOCNode Title="FileLogProvider Constructor " Url="html/M_Rock_Logging_FileLogProvider__ctor.htm" />
+          <HelpTOCNode Title="FileLogProvider Constructor (String, ILogFormatter, IAsyncWaitHandle)" Url="html/M_Rock_Logging_FileLogProvider__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="89c5bc15-aabd-4035-a760-51310e5377c5" Title="FileLogProvider Fields" Url="html/Fields_T_Rock_Logging_FileLogProvider.htm">
+          <HelpTOCNode Title="_file Field" Url="html/F_Rock_Logging_FileLogProvider__file.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a20d4c1a-b7f9-4345-b6d4-c35636aa223b" Title="FileLogProvider Methods" Url="html/Methods_T_Rock_Logging_FileLogProvider.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Rock_Logging_FileLogProvider_Dispose.htm" />
+          <HelpTOCNode Title="OnPostWriteAsync Method " Url="html/M_Rock_Logging_FileLogProvider_OnPostWriteAsync.htm" />
+          <HelpTOCNode Title="OnPreWriteAsync Method " Url="html/M_Rock_Logging_FileLogProvider_OnPreWriteAsync.htm" />
+          <HelpTOCNode Id="e3654ab7-22ed-4aa6-a9d4-d46e48d07080" Title="WriteAsync Method " Url="html/Overload_Rock_Logging_FileLogProvider_WriteAsync.htm">
+            <HelpTOCNode Title="WriteAsync Method (LogEntry, String)" Url="html/M_Rock_Logging_FileLogProvider_WriteAsync.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a74e342b-0a15-49c9-a002-837eb6e6e031" Title="FormattableLogProvider Class" Url="html/T_Rock_Logging_FormattableLogProvider.htm">
+        <HelpTOCNode Title="FormattableLogProvider Constructor " Url="html/M_Rock_Logging_FormattableLogProvider__ctor.htm" />
+        <HelpTOCNode Id="6b5d6f50-24f5-499d-a9fd-585858a07c7d" Title="FormattableLogProvider Fields" Url="html/Fields_T_Rock_Logging_FormattableLogProvider.htm">
+          <HelpTOCNode Title="_completedTask Field" Url="html/F_Rock_Logging_FormattableLogProvider__completedTask.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="37183d92-2250-4d27-aa4a-71f044d58497" Title="FormattableLogProvider Methods" Url="html/Methods_T_Rock_Logging_FormattableLogProvider.htm">
+          <HelpTOCNode Id="4df02c53-8fed-4035-a20f-27b33e50a236" Title="WriteAsync Method " Url="html/Overload_Rock_Logging_FormattableLogProvider_WriteAsync.htm">
+            <HelpTOCNode Title="WriteAsync Method (LogEntry)" Url="html/M_Rock_Logging_FormattableLogProvider_WriteAsync.htm" />
+            <HelpTOCNode Title="WriteAsync Method (LogEntry, String)" Url="html/M_Rock_Logging_FormattableLogProvider_WriteAsync_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="935d16cd-d29d-4ff0-bd68-690453a74382" Title="HttpEndpointLogProvider Class" Url="html/T_Rock_Logging_HttpEndpointLogProvider.htm">
+        <HelpTOCNode Title="HttpEndpointLogProvider Constructor " Url="html/M_Rock_Logging_HttpEndpointLogProvider__ctor.htm" />
+        <HelpTOCNode Id="87096cc3-b920-4e16-9722-db15021def80" Title="HttpEndpointLogProvider Methods" Url="html/Methods_T_Rock_Logging_HttpEndpointLogProvider.htm">
+          <HelpTOCNode Title="OnResponseReceived Method " Url="html/M_Rock_Logging_HttpEndpointLogProvider_OnResponseReceived.htm" />
+          <HelpTOCNode Title="WriteAsync Method " Url="html/M_Rock_Logging_HttpEndpointLogProvider_WriteAsync.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1de24566-d5b5-40b8-8ebe-29aaa501e424" Title="HttpEndpointLogProvider Events" Url="html/Events_T_Rock_Logging_HttpEndpointLogProvider.htm">
+          <HelpTOCNode Title="ResponseReceived Event" Url="html/E_Rock_Logging_HttpEndpointLogProvider_ResponseReceived.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="655cf62c-5898-453e-96aa-d192507be113" Title="IAsyncWaitHandle Interface" Url="html/T_Rock_Logging_IAsyncWaitHandle.htm">
+        <HelpTOCNode Id="e2ec4231-bb76-4cd0-b555-765332e325dd" Title="IAsyncWaitHandle Methods" Url="html/Methods_T_Rock_Logging_IAsyncWaitHandle.htm">
+          <HelpTOCNode Title="Release Method " Url="html/M_Rock_Logging_IAsyncWaitHandle_Release.htm" />
+          <HelpTOCNode Title="WaitAsync Method " Url="html/M_Rock_Logging_IAsyncWaitHandle_WaitAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9172cd3d-742f-45e6-952c-6c6256adf7ad" Title="IContextProvider Interface" Url="html/T_Rock_Logging_IContextProvider.htm">
+        <HelpTOCNode Id="2824dbb2-e513-4d8d-8e0c-a9e1ef53ae00" Title="IContextProvider Methods" Url="html/Methods_T_Rock_Logging_IContextProvider.htm">
+          <HelpTOCNode Title="AddContextData Method " Url="html/M_Rock_Logging_IContextProvider_AddContextData.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9e97c149-1be0-4b22-8136-315913ddfd8e" Title="ILogEntryFactory Interface" Url="html/T_Rock_Logging_ILogEntryFactory.htm">
+        <HelpTOCNode Id="741cc258-2872-4b13-a75a-7f1dd9842bf1" Title="ILogEntryFactory Methods" Url="html/Methods_T_Rock_Logging_ILogEntryFactory.htm">
+          <HelpTOCNode Title="CreateLogEntry Method " Url="html/M_Rock_Logging_ILogEntryFactory_CreateLogEntry.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1e6dc323-bfac-485d-8079-35d893765be6" Title="ILogFormatter Interface" Url="html/T_Rock_Logging_ILogFormatter.htm">
+        <HelpTOCNode Id="6dc472d3-e75e-4e74-8657-f7905c6c6c56" Title="ILogFormatter Methods" Url="html/Methods_T_Rock_Logging_ILogFormatter.htm">
+          <HelpTOCNode Title="Format Method " Url="html/M_Rock_Logging_ILogFormatter_Format.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0e5e9d88-d298-47f1-8dc3-cd75104fd42f" Title="ILogger Interface" Url="html/T_Rock_Logging_ILogger.htm">
+        <HelpTOCNode Id="1173a5c9-2c0d-45fe-9c8b-6d47afcf3689" Title="ILogger Methods" Url="html/Methods_T_Rock_Logging_ILogger.htm">
+          <HelpTOCNode Title="IsEnabled Method " Url="html/M_Rock_Logging_ILogger_IsEnabled.htm" />
+          <HelpTOCNode Title="LogAsync Method " Url="html/M_Rock_Logging_ILogger_LogAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="73c4ca76-910d-4f71-9f2a-4983b39aeae1" Title="ILoggerConfiguration Interface" Url="html/T_Rock_Logging_ILoggerConfiguration.htm">
+        <HelpTOCNode Id="6e012ea4-16b6-4fca-871a-0faf11dcb370" Title="ILoggerConfiguration Properties" Url="html/Properties_T_Rock_Logging_ILoggerConfiguration.htm">
+          <HelpTOCNode Title="IsLoggingEnabled Property " Url="html/P_Rock_Logging_ILoggerConfiguration_IsLoggingEnabled.htm" />
+          <HelpTOCNode Title="LoggingLevel Property " Url="html/P_Rock_Logging_ILoggerConfiguration_LoggingLevel.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e168c8e7-80db-4ec6-96b0-c2ad03038edc" Title="ILoggerFactory Interface" Url="html/T_Rock_Logging_ILoggerFactory.htm">
+        <HelpTOCNode Id="882b9c85-18c9-4074-9c49-2563d8f1eb01" Title="ILoggerFactory Methods" Url="html/Methods_T_Rock_Logging_ILoggerFactory.htm">
+          <HelpTOCNode Title="Get(TLogger) Method " Url="html/M_Rock_Logging_ILoggerFactory_Get__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2c2dddf2-17b1-4d33-b122-43e58871322a" Title="ILogProvider Interface" Url="html/T_Rock_Logging_ILogProvider.htm">
+        <HelpTOCNode Id="2747e9fc-5545-48d6-b287-a5d3e039ad24" Title="ILogProvider Methods" Url="html/Methods_T_Rock_Logging_ILogProvider.htm">
+          <HelpTOCNode Title="WriteAsync Method " Url="html/M_Rock_Logging_ILogProvider_WriteAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e48deaf0-6ed8-480c-8240-2976ea71f943" Title="IThrottlingRuleEvaluator Interface" Url="html/T_Rock_Logging_IThrottlingRuleEvaluator.htm">
+        <HelpTOCNode Id="fc87acc6-b4d0-48b9-891e-8d4722c4f436" Title="IThrottlingRuleEvaluator Methods" Url="html/Methods_T_Rock_Logging_IThrottlingRuleEvaluator.htm">
+          <HelpTOCNode Title="ShouldLog Method " Url="html/M_Rock_Logging_IThrottlingRuleEvaluator_ShouldLog.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fd2fbeb4-3f53-4404-80c8-458d6c5218b4" Title="LogEntry Class" Url="html/T_Rock_Logging_LogEntry.htm">
+        <HelpTOCNode Id="e0a8e086-9fc2-4a12-babc-66d827dfa9c8" Title="LogEntry Constructor " Url="html/Overload_Rock_Logging_LogEntry__ctor.htm">
+          <HelpTOCNode Title="LogEntry Constructor " Url="html/M_Rock_Logging_LogEntry__ctor.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String)" Url="html/M_Rock_Logging_LogEntry__ctor_1.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String, IDictionary(String, String))" Url="html/M_Rock_Logging_LogEntry__ctor_2.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String, Object)" Url="html/M_Rock_Logging_LogEntry__ctor_5.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String, Exception, String)" Url="html/M_Rock_Logging_LogEntry__ctor_4.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String, IDictionary(String, String), Exception, String)" Url="html/M_Rock_Logging_LogEntry__ctor_3.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String, Object, Exception, String)" Url="html/M_Rock_Logging_LogEntry__ctor_6.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a506f269-33dd-49cf-8223-2d210be87bdc" Title="LogEntry Fields" Url="html/Fields_T_Rock_Logging_LogEntry.htm">
+          <HelpTOCNode Title="XmlNamespace Field" Url="html/F_Rock_Logging_LogEntry_XmlNamespace.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d81c2faa-20d4-470f-af5f-49f46bbc25ae" Title="LogEntry Methods" Url="html/Methods_T_Rock_Logging_LogEntry.htm">
+          <HelpTOCNode Title="GetThrottlingHashCode Method " Url="html/M_Rock_Logging_LogEntry_GetThrottlingHashCode.htm" />
+          <HelpTOCNode Title="SetException Method " Url="html/M_Rock_Logging_LogEntry_SetException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="724c078f-26af-4f0d-b547-e150a9b309c8" Title="LogEntry Properties" Url="html/Properties_T_Rock_Logging_LogEntry.htm">
+          <HelpTOCNode Title="ApplicationId Property " Url="html/P_Rock_Logging_LogEntry_ApplicationId.htm" />
+          <HelpTOCNode Title="ApplicationUserId Property " Url="html/P_Rock_Logging_LogEntry_ApplicationUserId.htm" />
+          <HelpTOCNode Title="CreateTime Property " Url="html/P_Rock_Logging_LogEntry_CreateTime.htm" />
+          <HelpTOCNode Title="Environment Property " Url="html/P_Rock_Logging_LogEntry_Environment.htm" />
+          <HelpTOCNode Title="ExceptionContext Property " Url="html/P_Rock_Logging_LogEntry_ExceptionContext.htm" />
+          <HelpTOCNode Title="ExceptionDetails Property " Url="html/P_Rock_Logging_LogEntry_ExceptionDetails.htm" />
+          <HelpTOCNode Title="ExceptionType Property " Url="html/P_Rock_Logging_LogEntry_ExceptionType.htm" />
+          <HelpTOCNode Title="ExtendedProperties Property " Url="html/P_Rock_Logging_LogEntry_ExtendedProperties.htm" />
+          <HelpTOCNode Title="Level Property " Url="html/P_Rock_Logging_LogEntry_Level.htm" />
+          <HelpTOCNode Title="MachineName Property " Url="html/P_Rock_Logging_LogEntry_MachineName.htm" />
+          <HelpTOCNode Title="Message Property " Url="html/P_Rock_Logging_LogEntry_Message.htm" />
+          <HelpTOCNode Title="UniqueId Property " Url="html/P_Rock_Logging_LogEntry_UniqueId.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9a126c9d-c80b-48f2-8739-aed9ff9c887f" Title="LogEntryExtendedProperties Class" Url="html/T_Rock_Logging_LogEntryExtendedProperties.htm">
+        <HelpTOCNode Id="f9c8fdd4-112f-45e4-91b8-face6052aca4" Title="LogEntryExtendedProperties Constructor " Url="html/Overload_Rock_Logging_LogEntryExtendedProperties__ctor.htm">
+          <HelpTOCNode Title="LogEntryExtendedProperties Constructor " Url="html/M_Rock_Logging_LogEntryExtendedProperties__ctor.htm" />
+          <HelpTOCNode Title="LogEntryExtendedProperties Constructor (IEnumerable(KeyValuePair(String, String)))" Url="html/M_Rock_Logging_LogEntryExtendedProperties__ctor_1.htm" />
+          <HelpTOCNode Title="LogEntryExtendedProperties Constructor (SerializationInfo, StreamingContext)" Url="html/M_Rock_Logging_LogEntryExtendedProperties__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fa656647-381e-4a6b-8e37-9b45d8948b53" Title="LogEntryExtendedProperties Methods" Url="html/Methods_T_Rock_Logging_LogEntryExtendedProperties.htm">
+          <HelpTOCNode Id="38c42c4e-0a72-40e8-8e53-e8bfe2088e41" Title="Add Method " Url="html/Overload_Rock_Logging_LogEntryExtendedProperties_Add.htm">
+            <HelpTOCNode Title="Add Method (String, Object)" Url="html/M_Rock_Logging_LogEntryExtendedProperties_Add.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Title="LogEntryExtendedProperties Properties" Url="html/Properties_T_Rock_Logging_LogEntryExtendedProperties.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b49010c2-e88f-45b8-8ff8-959d8f7611d9" Title="LogEntryFactory Class" Url="html/T_Rock_Logging_LogEntryFactory.htm">
+        <HelpTOCNode Title="LogEntryFactory Constructor " Url="html/M_Rock_Logging_LogEntryFactory__ctor.htm" />
+        <HelpTOCNode Id="61fc06bb-2509-4ca9-a543-7145e9066e79" Title="LogEntryFactory Methods" Url="html/Methods_T_Rock_Logging_LogEntryFactory.htm">
+          <HelpTOCNode Title="CreateLogEntry Method " Url="html/M_Rock_Logging_LogEntryFactory_CreateLogEntry.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e1d7409f-cfda-4d28-803e-9d9c6b9b8e9e" Title="Logger Class" Url="html/T_Rock_Logging_Logger.htm">
+        <HelpTOCNode Title="Logger Constructor " Url="html/M_Rock_Logging_Logger__ctor.htm" />
+        <HelpTOCNode Id="74eb4a17-c7ad-4eeb-81ae-0272e5f29a58" Title="Logger Methods" Url="html/Methods_T_Rock_Logging_Logger.htm">
+          <HelpTOCNode Title="IsEnabled Method " Url="html/M_Rock_Logging_Logger_IsEnabled.htm" />
+          <HelpTOCNode Title="LogAsync Method " Url="html/M_Rock_Logging_Logger_LogAsync.htm" />
+          <HelpTOCNode Title="OnPreLog Method " Url="html/M_Rock_Logging_Logger_OnPreLog.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="da6b8798-5bbc-4a1f-ba9e-44d1e4e9216b" Title="LoggerConfiguration Class" Url="html/T_Rock_Logging_LoggerConfiguration.htm">
+        <HelpTOCNode Title="LoggerConfiguration Constructor " Url="html/M_Rock_Logging_LoggerConfiguration__ctor.htm" />
+        <HelpTOCNode Title="LoggerConfiguration Methods" Url="html/Methods_T_Rock_Logging_LoggerConfiguration.htm" />
+        <HelpTOCNode Id="1d0ab421-4fa9-48b6-9546-1fe339949487" Title="LoggerConfiguration Properties" Url="html/Properties_T_Rock_Logging_LoggerConfiguration.htm">
+          <HelpTOCNode Title="IsLoggingEnabled Property " Url="html/P_Rock_Logging_LoggerConfiguration_IsLoggingEnabled.htm" />
+          <HelpTOCNode Title="LoggingLevel Property " Url="html/P_Rock_Logging_LoggerConfiguration_LoggingLevel.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="be64eecd-d854-4a0c-92eb-54ea259df555" Title="LoggerExtensions Class" Url="html/T_Rock_Logging_LoggerExtensions.htm">
+        <HelpTOCNode Id="fa5e83e6-f154-42c4-96d5-5cf4a87b27a9" Title="LoggerExtensions Methods" Url="html/Methods_T_Rock_Logging_LoggerExtensions.htm">
+          <HelpTOCNode Title="AsAsync Method " Url="html/M_Rock_Logging_LoggerExtensions_AsAsync.htm" />
+          <HelpTOCNode Title="AsSync Method " Url="html/M_Rock_Logging_LoggerExtensions_AsSync.htm" />
+          <HelpTOCNode Id="edc97c31-c8ac-4088-b41d-d4af10da4215" Title="Audit Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Audit.htm">
+            <HelpTOCNode Title="Audit Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Audit.htm" />
+            <HelpTOCNode Title="Audit Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Audit_2.htm" />
+            <HelpTOCNode Title="Audit Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Audit_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="0aea076e-a0ec-4778-aab4-1179dd17d2b2" Title="Debug Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Debug.htm">
+            <HelpTOCNode Title="Debug Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Debug.htm" />
+            <HelpTOCNode Title="Debug Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Debug_2.htm" />
+            <HelpTOCNode Title="Debug Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Debug_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="8db6060e-7f34-4c26-a716-3fd745f40a4f" Title="Error Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Error.htm">
+            <HelpTOCNode Title="Error Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Error.htm" />
+            <HelpTOCNode Title="Error Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Error_2.htm" />
+            <HelpTOCNode Title="Error Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Error_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="59a5a3ed-4e22-4a47-8cdb-8f4a385a4869" Title="Fatal Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Fatal.htm">
+            <HelpTOCNode Title="Fatal Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Fatal.htm" />
+            <HelpTOCNode Title="Fatal Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Fatal_2.htm" />
+            <HelpTOCNode Title="Fatal Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Fatal_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetExceptionHandler Method " Url="html/M_Rock_Logging_LoggerExtensions_GetExceptionHandler.htm" />
+          <HelpTOCNode Id="f23d7cd5-0bbb-4641-9b76-1235b8d597d0" Title="Info Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Info.htm">
+            <HelpTOCNode Title="Info Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Info.htm" />
+            <HelpTOCNode Title="Info Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Info_2.htm" />
+            <HelpTOCNode Title="Info Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Info_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="IsAuditEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsAuditEnabled.htm" />
+          <HelpTOCNode Title="IsDebugEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsDebugEnabled.htm" />
+          <HelpTOCNode Title="IsErrorEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsErrorEnabled.htm" />
+          <HelpTOCNode Title="IsFatalEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsFatalEnabled.htm" />
+          <HelpTOCNode Title="IsInfoEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsInfoEnabled.htm" />
+          <HelpTOCNode Title="IsWarnEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsWarnEnabled.htm" />
+          <HelpTOCNode Id="ed187029-2cf9-455e-a809-d574706d074c" Title="Log Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Log.htm">
+            <HelpTOCNode Title="Log Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Log.htm" />
+            <HelpTOCNode Title="Log Method (ILogger, LogLevel, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Log_2.htm" />
+            <HelpTOCNode Title="Log Method (ILogger, LogLevel, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Log_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="702991cf-5782-4f4d-89ae-9b73f1e8b936" Title="Warn Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Warn.htm">
+            <HelpTOCNode Title="Warn Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Warn.htm" />
+            <HelpTOCNode Title="Warn Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Warn_2.htm" />
+            <HelpTOCNode Title="Warn Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Warn_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4b3d254b-df1d-4a55-b251-1345b91300c3" Title="LoggerFactory Class" Url="html/T_Rock_Logging_LoggerFactory.htm">
+        <HelpTOCNode Id="d3ba0ce7-15f0-4b9f-b062-b4818432bf0d" Title="LoggerFactory Methods" Url="html/Methods_T_Rock_Logging_LoggerFactory.htm">
+          <HelpTOCNode Id="7c1c6ae8-9120-493f-ac31-5c3edbb61929" Title="GetInstance Method " Url="html/Overload_Rock_Logging_LoggerFactory_GetInstance.htm">
+            <HelpTOCNode Title="GetInstance Method (String)" Url="html/M_Rock_Logging_LoggerFactory_GetInstance.htm" />
+            <HelpTOCNode Title="GetInstance(TLogger) Method (String)" Url="html/M_Rock_Logging_LoggerFactory_GetInstance__1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d7b0ff1e-de94-4384-ae38-42c11abbab04" Title="LoggerSectionHandler Class" Url="html/T_Rock_Logging_LoggerSectionHandler.htm">
+        <HelpTOCNode Title="LoggerSectionHandler Constructor " Url="html/M_Rock_Logging_LoggerSectionHandler__ctor.htm" />
+        <HelpTOCNode Title="LoggerSectionHandler Methods" Url="html/Methods_T_Rock_Logging_LoggerSectionHandler.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="LogLevel Enumeration" Url="html/T_Rock_Logging_LogLevel.htm" />
+      <HelpTOCNode Id="b849470b-7c77-4ef3-9af8-f0911989eba5" Title="NullLogger Class" Url="html/T_Rock_Logging_NullLogger.htm">
+        <HelpTOCNode Title="NullLogger Constructor " Url="html/M_Rock_Logging_NullLogger__ctor.htm" />
+        <HelpTOCNode Id="2de1d164-207b-4bc2-aaf5-a3178dd34061" Title="NullLogger Methods" Url="html/Methods_T_Rock_Logging_NullLogger.htm">
+          <HelpTOCNode Title="IsEnabled Method " Url="html/M_Rock_Logging_NullLogger_IsEnabled.htm" />
+          <HelpTOCNode Title="LogAsync Method " Url="html/M_Rock_Logging_NullLogger_LogAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7de81477-564e-4f27-a1dc-30fd900ec8d1" Title="NullThrottlingRuleEvaluator Class" Url="html/T_Rock_Logging_NullThrottlingRuleEvaluator.htm">
+        <HelpTOCNode Title="NullThrottlingRuleEvaluator Constructor " Url="html/M_Rock_Logging_NullThrottlingRuleEvaluator__ctor.htm" />
+        <HelpTOCNode Id="4b0f3f48-94a2-4f0c-b298-46e88987634f" Title="NullThrottlingRuleEvaluator Methods" Url="html/Methods_T_Rock_Logging_NullThrottlingRuleEvaluator.htm">
+          <HelpTOCNode Title="ShouldLog Method " Url="html/M_Rock_Logging_NullThrottlingRuleEvaluator_ShouldLog.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="09cea7bf-c239-4bdc-8b65-e860c5eaa8da" Title="ResponseReceivedEventArgs Class" Url="html/T_Rock_Logging_ResponseReceivedEventArgs.htm">
+        <HelpTOCNode Title="ResponseReceivedEventArgs Constructor " Url="html/M_Rock_Logging_ResponseReceivedEventArgs__ctor.htm" />
+        <HelpTOCNode Title="ResponseReceivedEventArgs Methods" Url="html/Methods_T_Rock_Logging_ResponseReceivedEventArgs.htm" />
+        <HelpTOCNode Id="46dc2f04-1ad9-4099-a039-3064adae88be" Title="ResponseReceivedEventArgs Properties" Url="html/Properties_T_Rock_Logging_ResponseReceivedEventArgs.htm">
+          <HelpTOCNode Title="Response Property " Url="html/P_Rock_Logging_ResponseReceivedEventArgs_Response.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="59e6b5d0-d464-44f0-8cb1-a748f3da8805" Title="RollingFileLogProvider Class" Url="html/T_Rock_Logging_RollingFileLogProvider.htm">
+        <HelpTOCNode Id="7a15eb46-bd73-4cad-abe5-8a082b4ae1f2" Title="RollingFileLogProvider Constructor " Url="html/Overload_Rock_Logging_RollingFileLogProvider__ctor.htm">
+          <HelpTOCNode Title="RollingFileLogProvider Constructor " Url="html/M_Rock_Logging_RollingFileLogProvider__ctor.htm" />
+          <HelpTOCNode Title="RollingFileLogProvider Constructor (String, Int32, Int32, RolloverPeriod, ILogFormatter, IAsyncWaitHandle)" Url="html/M_Rock_Logging_RollingFileLogProvider__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RollingFileLogProvider Fields" Url="html/Fields_T_Rock_Logging_RollingFileLogProvider.htm" />
+        <HelpTOCNode Id="ddebd927-a093-4634-af6e-8b0613603c1e" Title="RollingFileLogProvider Methods" Url="html/Methods_T_Rock_Logging_RollingFileLogProvider.htm">
+          <HelpTOCNode Title="OnPreWriteAsync Method " Url="html/M_Rock_Logging_RollingFileLogProvider_OnPreWriteAsync.htm" />
+          <HelpTOCNode Title="SetTimes Method " Url="html/M_Rock_Logging_RollingFileLogProvider_SetTimes.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="RolloverPeriod Enumeration" Url="html/T_Rock_Logging_RolloverPeriod.htm" />
+      <HelpTOCNode Id="09803609-b9c7-4e78-a242-51abf57dcb0f" Title="SemaphoreSlimAsyncWaitHandle Class" Url="html/T_Rock_Logging_SemaphoreSlimAsyncWaitHandle.htm">
+        <HelpTOCNode Title="SemaphoreSlimAsyncWaitHandle Constructor " Url="html/M_Rock_Logging_SemaphoreSlimAsyncWaitHandle__ctor.htm" />
+        <HelpTOCNode Title="SemaphoreSlimAsyncWaitHandle Methods" Url="html/Methods_T_Rock_Logging_SemaphoreSlimAsyncWaitHandle.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b0113623-666f-4327-bdc3-a3364454055c" Title="SerializingLogFormatter Class" Url="html/T_Rock_Logging_SerializingLogFormatter.htm">
+        <HelpTOCNode Title="SerializingLogFormatter Constructor " Url="html/M_Rock_Logging_SerializingLogFormatter__ctor.htm" />
+        <HelpTOCNode Id="5f23ae85-d162-4586-b573-7729fc3d7f2c" Title="SerializingLogFormatter Methods" Url="html/Methods_T_Rock_Logging_SerializingLogFormatter.htm">
+          <HelpTOCNode Title="Format Method " Url="html/M_Rock_Logging_SerializingLogFormatter_Format.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4d5fc6a8-cba5-4408-a590-5e2c1a89f32a" Title="SimpleLoggerFactory(TLogProvider) Class" Url="html/T_Rock_Logging_SimpleLoggerFactory_1.htm">
+        <HelpTOCNode Id="533775c4-5cc2-42d3-9555-8326ec311d73" Title="SimpleLoggerFactory(TLogProvider) Constructor " Url="html/Overload_Rock_Logging_SimpleLoggerFactory_1__ctor.htm">
+          <HelpTOCNode Title="SimpleLoggerFactory(TLogProvider) Constructor " Url="html/M_Rock_Logging_SimpleLoggerFactory_1__ctor.htm" />
+          <HelpTOCNode Title="SimpleLoggerFactory(TLogProvider) Constructor (LogLevel, IResolver)" Url="html/M_Rock_Logging_SimpleLoggerFactory_1__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="718b9ee8-4574-4c1f-a67a-5542f6ef4314" Title="SimpleLoggerFactory(TLogProvider) Methods" Url="html/Methods_T_Rock_Logging_SimpleLoggerFactory_1.htm">
+          <HelpTOCNode Title="Get(TLogger) Method " Url="html/M_Rock_Logging_SimpleLoggerFactory_1_Get__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c65f09c2-f6b1-4a6a-874b-49450d8d6983" Title="TemplateLogFormatter Class" Url="html/T_Rock_Logging_TemplateLogFormatter.htm">
+        <HelpTOCNode Title="TemplateLogFormatter Constructor " Url="html/M_Rock_Logging_TemplateLogFormatter__ctor.htm" />
+        <HelpTOCNode Id="ac60a2ca-092d-4ed6-ae77-f2e6d6a2359c" Title="TemplateLogFormatter Methods" Url="html/Methods_T_Rock_Logging_TemplateLogFormatter.htm">
+          <HelpTOCNode Id="aa094a60-f129-4d51-9d89-2fc2b8b60c4a" Title="AddDateTimeTokenHandler Method " Url="html/Overload_Rock_Logging_TemplateLogFormatter_AddDateTimeTokenHandler.htm">
+            <HelpTOCNode Title="AddDateTimeTokenHandler Method (String, Func(LogEntry, DateTime))" Url="html/M_Rock_Logging_TemplateLogFormatter_AddDateTimeTokenHandler.htm" />
+            <HelpTOCNode Title="AddDateTimeTokenHandler(TLogEntry) Method (String, Func(TLogEntry, DateTime))" Url="html/M_Rock_Logging_TemplateLogFormatter_AddDateTimeTokenHandler__1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="2cbe65a0-6969-4928-aaf7-a30609b88137" Title="AddSimpleTokenHandler Method " Url="html/Overload_Rock_Logging_TemplateLogFormatter_AddSimpleTokenHandler.htm">
+            <HelpTOCNode Title="AddSimpleTokenHandler Method (String, Func(LogEntry, String))" Url="html/M_Rock_Logging_TemplateLogFormatter_AddSimpleTokenHandler.htm" />
+            <HelpTOCNode Title="AddSimpleTokenHandler(TLogEntry) Method (String, Func(TLogEntry, String))" Url="html/M_Rock_Logging_TemplateLogFormatter_AddSimpleTokenHandler__1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Format Method " Url="html/M_Rock_Logging_TemplateLogFormatter_Format.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ea07941d-5f0b-4fb5-b7bc-8f38c976a0a9" Title="ThrottlingRuleEvaluator Class" Url="html/T_Rock_Logging_ThrottlingRuleEvaluator.htm">
+        <HelpTOCNode Title="ThrottlingRuleEvaluator Constructor " Url="html/M_Rock_Logging_ThrottlingRuleEvaluator__ctor.htm" />
+        <HelpTOCNode Id="6d430acb-7a55-49ea-80c1-02d7b8845d95" Title="ThrottlingRuleEvaluator Methods" Url="html/Methods_T_Rock_Logging_ThrottlingRuleEvaluator.htm">
+          <HelpTOCNode Title="ShouldLog Method " Url="html/M_Rock_Logging_ThrottlingRuleEvaluator_ShouldLog.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="55393930-be6d-4cb5-8568-d4b57e3e1080" Title="WithCachingExtension Class" Url="html/T_Rock_Logging_WithCachingExtension.htm">
+        <HelpTOCNode Id="5e882cbb-6fb9-4864-8825-0758348db93b" Title="WithCachingExtension Methods" Url="html/Methods_T_Rock_Logging_WithCachingExtension.htm">
+          <HelpTOCNode Title="WithCaching Method " Url="html/M_Rock_Logging_WithCachingExtension_WithCaching.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e77837c0-e21b-4eb5-8c6b-39f44b38e9d0" Title="Rock.Logging.Configuration" Url="html/N_Rock_Logging_Configuration.htm">
+      <HelpTOCNode Id="d5f0461a-c055-4a96-845f-7c59f9966425" Title="Category Class" Url="html/T_Rock_Logging_Configuration_Category.htm">
+        <HelpTOCNode Title="Category Constructor " Url="html/M_Rock_Logging_Configuration_Category__ctor.htm" />
+        <HelpTOCNode Title="Category Methods" Url="html/Methods_T_Rock_Logging_Configuration_Category.htm" />
+        <HelpTOCNode Id="4bc24d53-b13d-4351-831d-2cb831e6231c" Title="Category Properties" Url="html/Properties_T_Rock_Logging_Configuration_Category.htm">
+          <HelpTOCNode Title="LogProviders Property " Url="html/P_Rock_Logging_Configuration_Category_LogProviders.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Logging_Configuration_Category_Name.htm" />
+          <HelpTOCNode Title="ThrottlingRule Property " Url="html/P_Rock_Logging_Configuration_Category_ThrottlingRule.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ee6f46fe-d86d-4796-930a-79e1bf8bc3ca" Title="ContextProviderProxy Class" Url="html/T_Rock_Logging_Configuration_ContextProviderProxy.htm">
+        <HelpTOCNode Title="ContextProviderProxy Constructor " Url="html/M_Rock_Logging_Configuration_ContextProviderProxy__ctor.htm" />
+        <HelpTOCNode Title="ContextProviderProxy Methods" Url="html/Methods_T_Rock_Logging_Configuration_ContextProviderProxy.htm" />
+        <HelpTOCNode Title="ContextProviderProxy Properties" Url="html/Properties_T_Rock_Logging_Configuration_ContextProviderProxy.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2e0318ed-731c-4373-8149-94e887962005" Title="LogFormatterProxy Class" Url="html/T_Rock_Logging_Configuration_LogFormatterProxy.htm">
+        <HelpTOCNode Title="LogFormatterProxy Constructor " Url="html/M_Rock_Logging_Configuration_LogFormatterProxy__ctor.htm" />
+        <HelpTOCNode Title="LogFormatterProxy Methods" Url="html/Methods_T_Rock_Logging_Configuration_LogFormatterProxy.htm" />
+        <HelpTOCNode Id="2d6934da-7eaa-48a4-97a6-1304111db9eb" Title="LogFormatterProxy Properties" Url="html/Properties_T_Rock_Logging_Configuration_LogFormatterProxy.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Logging_Configuration_LogFormatterProxy_Name.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="302f4cbd-a55a-4f22-9a25-d96c31a420ff" Title="LogProviderProxy Class" Url="html/T_Rock_Logging_Configuration_LogProviderProxy.htm">
+        <HelpTOCNode Title="LogProviderProxy Constructor " Url="html/M_Rock_Logging_Configuration_LogProviderProxy__ctor.htm" />
+        <HelpTOCNode Id="638af159-153d-4167-b36a-b42aa02e7dfa" Title="LogProviderProxy Methods" Url="html/Methods_T_Rock_Logging_Configuration_LogProviderProxy.htm">
+          <HelpTOCNode Id="614bf2a1-037b-4a1f-8e0f-c4afff10f3f6" Title="CreateInstance Method " Url="html/Overload_Rock_Logging_Configuration_LogProviderProxy_CreateInstance.htm">
+            <HelpTOCNode Title="CreateInstance Method (IKeyedEnumerable(String, LogFormatterProxy), IResolver)" Url="html/M_Rock_Logging_Configuration_LogProviderProxy_CreateInstance.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="653de3a8-9c0d-4e0b-968b-89ad7f6f5470" Title="LogProviderProxy Properties" Url="html/Properties_T_Rock_Logging_Configuration_LogProviderProxy.htm">
+          <HelpTOCNode Title="Formatter Property " Url="html/P_Rock_Logging_Configuration_LogProviderProxy_Formatter.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9697e61a-0c87-47bf-8314-e1af152c1b9a" Title="ThrottlingRuleEvaluatorProxy Class" Url="html/T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm">
+        <HelpTOCNode Title="ThrottlingRuleEvaluatorProxy Constructor " Url="html/M_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy__ctor.htm" />
+        <HelpTOCNode Title="ThrottlingRuleEvaluatorProxy Methods" Url="html/Methods_T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm" />
+        <HelpTOCNode Id="2115f920-7393-407a-88b4-16ff79057970" Title="ThrottlingRuleEvaluatorProxy Properties" Url="html/Properties_T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy_Name.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="629bd0fa-8595-4040-afa0-2e664a958c42" Title="XmlDeserializingLoggerFactory Class" Url="html/T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm">
+        <HelpTOCNode Title="XmlDeserializingLoggerFactory Constructor " Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory__ctor.htm" />
+        <HelpTOCNode Id="b3e74bb5-84d0-4711-8cc6-7f7ac8f6b1e7" Title="XmlDeserializingLoggerFactory Methods" Url="html/Methods_T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm">
+          <HelpTOCNode Title="Get(TLogger) Method " Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Get__1.htm" />
+          <HelpTOCNode Title="SetApplicationInfo Method " Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_SetApplicationInfo.htm" />
+          <HelpTOCNode Title="SetSupplementaryContainer Method " Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_SetSupplementaryContainer.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c17254fa-fc2e-4d40-8356-de1d238ffc30" Title="XmlDeserializingLoggerFactory Properties" Url="html/Properties_T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm">
+          <HelpTOCNode Title="AuditLogProvider Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_AuditLogProvider.htm" />
+          <HelpTOCNode Title="Categories Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Categories.htm" />
+          <HelpTOCNode Title="ContextProviders Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_ContextProviders.htm" />
+          <HelpTOCNode Title="Formatters Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Formatters.htm" />
+          <HelpTOCNode Title="IsLoggingEnabled Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_IsLoggingEnabled.htm" />
+          <HelpTOCNode Title="LoggingLevel Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_LoggingLevel.htm" />
+          <HelpTOCNode Title="ThrottlingRules Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_ThrottlingRules.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fcf7a0fa-5fcb-46f0-a042-584cc0d266c1" Title="Rock.Logging.Defaults.Implementation" Url="html/N_Rock_Logging_Defaults_Implementation.htm">
+      <HelpTOCNode Id="25b32d62-1ab5-4835-9071-eb8cfa7d208f" Title="Default Class" Url="html/T_Rock_Logging_Defaults_Implementation_Default.htm">
+        <HelpTOCNode Id="7619323d-5192-484b-82c1-b39f998371b4" Title="Default Methods" Url="html/Methods_T_Rock_Logging_Defaults_Implementation_Default.htm">
+          <HelpTOCNode Title="RestoreEmailLogFormatter Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreEmailLogFormatter.htm" />
+          <HelpTOCNode Title="RestoreFileLogFormatter Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreFileLogFormatter.htm" />
+          <HelpTOCNode Title="RestoreLogEntryFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreLogEntryFactory.htm" />
+          <HelpTOCNode Title="RestoreLoggerFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreLoggerFactory.htm" />
+          <HelpTOCNode Title="RestoreStepLoggerFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreStepLoggerFactory.htm" />
+          <HelpTOCNode Title="SetEmailLogFormatter Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetEmailLogFormatter.htm" />
+          <HelpTOCNode Title="SetFileLogFormatter Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetFileLogFormatter.htm" />
+          <HelpTOCNode Title="SetLogEntryFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetLogEntryFactory.htm" />
+          <HelpTOCNode Title="SetLoggerFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetLoggerFactory.htm" />
+          <HelpTOCNode Title="SetStepLoggerFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetStepLoggerFactory.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="597856f0-2174-41c1-8c24-32c730b911f3" Title="Default Properties" Url="html/Properties_T_Rock_Logging_Defaults_Implementation_Default.htm">
+          <HelpTOCNode Title="DefaultEmailLogFormatter Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultEmailLogFormatter.htm" />
+          <HelpTOCNode Title="DefaultFileLogFormatter Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultFileLogFormatter.htm" />
+          <HelpTOCNode Title="DefaultLogEntryFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultLogEntryFactory.htm" />
+          <HelpTOCNode Title="DefaultLoggerFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultLoggerFactory.htm" />
+          <HelpTOCNode Title="DefaultStepLoggerFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultStepLoggerFactory.htm" />
+          <HelpTOCNode Title="EmailLogFormatter Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_EmailLogFormatter.htm" />
+          <HelpTOCNode Title="FileLogFormatter Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_FileLogFormatter.htm" />
+          <HelpTOCNode Title="LogEntryFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_LogEntryFactory.htm" />
+          <HelpTOCNode Title="LoggerFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_LoggerFactory.htm" />
+          <HelpTOCNode Title="StepLoggerFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_StepLoggerFactory.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a0acf08c-dbce-47d4-bc5f-f7133fb8aecb" Title="Rock.Logging.Diagnostics" Url="html/N_Rock_Logging_Diagnostics.htm">
+      <HelpTOCNode Id="ee34ca77-9dbb-4e35-9365-13359c681c34" Title="DefaultStepLoggerFactory Class" Url="html/T_Rock_Logging_Diagnostics_DefaultStepLoggerFactory.htm">
+        <HelpTOCNode Title="DefaultStepLoggerFactory Constructor " Url="html/M_Rock_Logging_Diagnostics_DefaultStepLoggerFactory__ctor.htm" />
+        <HelpTOCNode Id="761a6e8c-5f3d-4969-8b45-4de085e780d4" Title="DefaultStepLoggerFactory Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_DefaultStepLoggerFactory.htm">
+          <HelpTOCNode Title="CreateStepLogger Method " Url="html/M_Rock_Logging_Diagnostics_DefaultStepLoggerFactory_CreateStepLogger.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e9ac080a-68ee-4b3d-bb52-851df500e4ca" Title="IStep Interface" Url="html/T_Rock_Logging_Diagnostics_IStep.htm">
+        <HelpTOCNode Id="17eb7053-735c-403f-873c-c5f445e1152d" Title="IStep Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStep.htm">
+          <HelpTOCNode Title="AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_IStep_AddToReport.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c6e528a7-b61f-4c09-8c95-69c855ce1b43" Title="IStepLogger Interface" Url="html/T_Rock_Logging_Diagnostics_IStepLogger.htm">
+        <HelpTOCNode Id="ef43c2af-84c6-451f-ad3d-eec10c8b81a8" Title="IStepLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStepLogger.htm">
+          <HelpTOCNode Title="AddStep Method " Url="html/M_Rock_Logging_Diagnostics_IStepLogger_AddStep.htm" />
+          <HelpTOCNode Title="Flush Method " Url="html/M_Rock_Logging_Diagnostics_IStepLogger_Flush.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c432cdd9-24a5-4b2b-8929-ecd327363cca" Title="IStepLoggerFactory Interface" Url="html/T_Rock_Logging_Diagnostics_IStepLoggerFactory.htm">
+        <HelpTOCNode Id="8405bdaa-f1d1-4232-89e6-4697f623d33f" Title="IStepLoggerFactory Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStepLoggerFactory.htm">
+          <HelpTOCNode Title="CreateStepLogger Method " Url="html/M_Rock_Logging_Diagnostics_IStepLoggerFactory_CreateStepLogger.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="62a14357-e4a1-4d06-af9e-de345aaa0085" Title="IStopwatchLogger Interface" Url="html/T_Rock_Logging_Diagnostics_IStopwatchLogger.htm">
+        <HelpTOCNode Id="22a3e5c6-d105-4e49-86ed-b519415ba661" Title="IStopwatchLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStopwatchLogger.htm">
+          <HelpTOCNode Title="RecordElapsed Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_RecordElapsed.htm" />
+          <HelpTOCNode Title="Reset Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Reset.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Stop.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8f89029c-eb10-4a84-976e-bdb7e1a54f7c" Title="LogValueStep Class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep.htm">
+        <HelpTOCNode Title="LogValueStep Constructor " Url="html/M_Rock_Logging_Diagnostics_LogValueStep__ctor.htm" />
+        <HelpTOCNode Id="21d2beec-92fe-4959-a016-ae6c5f1a798a" Title="LogValueStep Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_LogValueStep.htm">
+          <HelpTOCNode Title="AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_LogValueStep_AddToReport.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="626f3459-bc51-4a88-960e-ef641bd28b69" Title="LogValueStep(T) Class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep_1.htm">
+        <HelpTOCNode Title="LogValueStep(T) Constructor " Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1__ctor.htm" />
+        <HelpTOCNode Id="daf0f1c7-07fe-450c-a7cf-597f731de4ba" Title="LogValueStep(T) Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_LogValueStep_1.htm">
+          <HelpTOCNode Title="AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1_AddToReport.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="da6d6adc-31bc-4eb6-9134-4e23d6ebc9ac" Title="MessageStep Class" Url="html/T_Rock_Logging_Diagnostics_MessageStep.htm">
+        <HelpTOCNode Title="MessageStep Constructor " Url="html/M_Rock_Logging_Diagnostics_MessageStep__ctor.htm" />
+        <HelpTOCNode Id="2d60b563-0c79-4df1-94e6-4356e73030e0" Title="MessageStep Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_MessageStep.htm">
+          <HelpTOCNode Title="AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_MessageStep_AddToReport.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ba7142d7-68bb-444e-8d3a-824fc83d1285" Title="NullStepLogger Class" Url="html/T_Rock_Logging_Diagnostics_NullStepLogger.htm">
+        <HelpTOCNode Id="a5f908f3-a069-486a-b392-1686074ea73f" Title="NullStepLogger Fields" Url="html/Fields_T_Rock_Logging_Diagnostics_NullStepLogger.htm">
+          <HelpTOCNode Title="Instance Field" Url="html/F_Rock_Logging_Diagnostics_NullStepLogger_Instance.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1b4c4db2-552e-4f07-b2a4-03a5a52a9db6" Title="NullStepLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_NullStepLogger.htm">
+          <HelpTOCNode Title="AddStep Method " Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_AddStep.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_Dispose.htm" />
+          <HelpTOCNode Title="Flush Method " Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_Flush.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cc60c7b4-8faa-491b-90b2-3fac66d021b0" Title="NullStopwatchLogger Class" Url="html/T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm">
+        <HelpTOCNode Id="f07ce9c2-bbca-40d8-9472-0745e9c37113" Title="NullStopwatchLogger Fields" Url="html/Fields_T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm">
+          <HelpTOCNode Title="Instance Field" Url="html/F_Rock_Logging_Diagnostics_NullStopwatchLogger_Instance.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="05b2e76f-b8b4-4dd5-9425-ac465c3c0fb2" Title="NullStopwatchLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm">
+          <HelpTOCNode Title="RecordElapsed Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_RecordElapsed.htm" />
+          <HelpTOCNode Title="Reset Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Reset.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Stop.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e421b01e-74be-4b05-9322-b5a6ade06b80" Title="StepLogger Class" Url="html/T_Rock_Logging_Diagnostics_StepLogger.htm">
+        <HelpTOCNode Title="StepLogger Constructor " Url="html/M_Rock_Logging_Diagnostics_StepLogger__ctor.htm" />
+        <HelpTOCNode Id="41883ca9-1775-45cd-883e-d5d4df055e7d" Title="StepLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_StepLogger.htm">
+          <HelpTOCNode Title="AddStep Method " Url="html/M_Rock_Logging_Diagnostics_StepLogger_AddStep.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Rock_Logging_Diagnostics_StepLogger_Dispose.htm" />
+          <HelpTOCNode Title="Flush Method " Url="html/M_Rock_Logging_Diagnostics_StepLogger_Flush.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="09ba5a4c-33e3-4556-858d-f25d717c0584" Title="StepLoggingExtensions Class" Url="html/T_Rock_Logging_Diagnostics_StepLoggingExtensions.htm">
+        <HelpTOCNode Id="52df146c-8967-4f5c-a353-5bdb9a82f03e" Title="StepLoggingExtensions Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_StepLoggingExtensions.htm">
+          <HelpTOCNode Title="AddMessage Method " Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_AddMessage.htm" />
+          <HelpTOCNode Title="AddValueTo(T) Method " Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_AddValueTo__1.htm" />
+          <HelpTOCNode Title="CreateStepLogger Method " Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_CreateStepLogger.htm" />
+          <HelpTOCNode Title="GetStopwatch Method " Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_GetStopwatch.htm" />
+          <HelpTOCNode Id="24b5d196-54cc-4cd9-bbe6-b822a958ec41" Title="LogValue Method " Url="html/Overload_Rock_Logging_Diagnostics_StepLoggingExtensions_LogValue.htm">
+            <HelpTOCNode Title="LogValue Method (String, IStepLogger, String)" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_LogValue.htm" />
+            <HelpTOCNode Title="LogValue(T) Method (T, IStepLogger, Func(T, String), String)" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_LogValue__1.htm" />
+            <HelpTOCNode Title="LogValue(T, TValue) Method (T, IStepLogger, Func(T, TValue), String)" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_LogValue__2.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8c8ae41e-9729-4883-86e4-c40fe999cf95" Title="StopwatchLogger Class" Url="html/T_Rock_Logging_Diagnostics_StopwatchLogger.htm">
+        <HelpTOCNode Title="StopwatchLogger Constructor " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger__ctor.htm" />
+        <HelpTOCNode Id="f66e4864-7b9b-4654-bf71-c20b124aa11d" Title="StopwatchLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_StopwatchLogger.htm">
+          <HelpTOCNode Title="RecordElapsed Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_RecordElapsed.htm" />
+          <HelpTOCNode Title="Reset Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Reset.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Stop.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f835a7d0-de29-444f-ad4f-8b6d81bc788b" Title="Rock.Mail" Url="html/N_Rock_Mail.htm">
+      <HelpTOCNode Id="74f0994d-626a-459e-9808-eec12f25cacb" Title="DeliveryMethod Class" Url="html/T_Rock_Mail_DeliveryMethod.htm">
+        <HelpTOCNode Title="DeliveryMethod Constructor " Url="html/M_Rock_Mail_DeliveryMethod__ctor.htm" />
+        <HelpTOCNode Id="db868e50-f0ff-43be-b0ff-2812507bbee7" Title="DeliveryMethod Methods" Url="html/Methods_T_Rock_Mail_DeliveryMethod.htm">
+          <HelpTOCNode Title="ConfigureSmtpClient Method " Url="html/M_Rock_Mail_DeliveryMethod_ConfigureSmtpClient.htm" />
+          <HelpTOCNode Title="Network Method " Url="html/M_Rock_Mail_DeliveryMethod_Network.htm" />
+          <HelpTOCNode Title="SpecifiedPickupDirectory Method " Url="html/M_Rock_Mail_DeliveryMethod_SpecifiedPickupDirectory.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1fe9e9bc-d784-4610-8dc5-e6d091825ef3" Title="DeliveryMethod Properties" Url="html/Properties_T_Rock_Mail_DeliveryMethod.htm">
+          <HelpTOCNode Title="Default Property " Url="html/P_Rock_Mail_DeliveryMethod_Default.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="12cbf5c2-4891-4423-98b9-333f507bf284" Title="SendExtension Class" Url="html/T_Rock_Mail_SendExtension.htm">
+        <HelpTOCNode Id="2a0f9c1d-9a8a-490d-a595-311764c6fa5b" Title="SendExtension Methods" Url="html/Methods_T_Rock_Mail_SendExtension.htm">
+          <HelpTOCNode Title="SendAsync Method " Url="html/M_Rock_Mail_SendExtension_SendAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="eef86c82-c5c7-4086-8a02-ef8471ef7e0e" Title="Rock.Net" Url="html/N_Rock_Net.htm">
+      <HelpTOCNode Id="a9d3e991-5902-4cd0-9394-964d4038fac2" Title="DefaultEndpointDetector Class" Url="html/T_Rock_Net_DefaultEndpointDetector.htm">
+        <HelpTOCNode Id="2fd64e07-93ca-4941-a76e-64a6fa36339b" Title="DefaultEndpointDetector Methods" Url="html/Methods_T_Rock_Net_DefaultEndpointDetector.htm">
+          <HelpTOCNode Title="SetCurrent Method " Url="html/M_Rock_Net_DefaultEndpointDetector_SetCurrent.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f99aabd3-5710-4701-aba9-26075c4bc7f1" Title="DefaultEndpointDetector Properties" Url="html/Properties_T_Rock_Net_DefaultEndpointDetector.htm">
+          <HelpTOCNode Title="Current Property " Url="html/P_Rock_Net_DefaultEndpointDetector_Current.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="23652a03-464d-404b-80b7-06f4b3d13697" Title="DefaultEndpointSelector Class" Url="html/T_Rock_Net_DefaultEndpointSelector.htm">
+        <HelpTOCNode Id="8295a0a6-4e38-46fb-a550-558e49525408" Title="DefaultEndpointSelector Methods" Url="html/Methods_T_Rock_Net_DefaultEndpointSelector.htm">
+          <HelpTOCNode Title="SetCurrent Method " Url="html/M_Rock_Net_DefaultEndpointSelector_SetCurrent.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="df124fbe-3051-4c74-984d-50c0a9963c8e" Title="DefaultEndpointSelector Properties" Url="html/Properties_T_Rock_Net_DefaultEndpointSelector.htm">
+          <HelpTOCNode Title="Current Property " Url="html/P_Rock_Net_DefaultEndpointSelector_Current.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="71a55722-60ed-4e4d-ae35-415739404bfe" Title="EndpointDetector Class" Url="html/T_Rock_Net_EndpointDetector.htm">
+        <HelpTOCNode Title="EndpointDetector Constructor " Url="html/M_Rock_Net_EndpointDetector__ctor.htm" />
+        <HelpTOCNode Id="a1741726-a396-4fbd-87ca-2829c7e164b6" Title="EndpointDetector Methods" Url="html/Methods_T_Rock_Net_EndpointDetector.htm">
+          <HelpTOCNode Title="GetEndpointStatus Method " Url="html/M_Rock_Net_EndpointDetector_GetEndpointStatus.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="08b08b8a-b2ec-4bcc-8407-173b53a547bf" Title="EndpointSelector Class" Url="html/T_Rock_Net_EndpointSelector.htm">
+        <HelpTOCNode Title="EndpointSelector Constructor " Url="html/M_Rock_Net_EndpointSelector__ctor.htm" />
+        <HelpTOCNode Id="03ce2121-769f-434c-a5da-ce0ae6e002af" Title="EndpointSelector Methods" Url="html/Methods_T_Rock_Net_EndpointSelector.htm">
+          <HelpTOCNode Title="GetFirstToRespond Method " Url="html/M_Rock_Net_EndpointSelector_GetFirstToRespond.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5b28662d-d9cd-47fa-ae66-0ae9184570b1" Title="EndpointSelectorExtensions Class" Url="html/T_Rock_Net_EndpointSelectorExtensions.htm">
+        <HelpTOCNode Id="501ee128-e221-4989-ba30-01ffb2012dd4" Title="EndpointSelectorExtensions Methods" Url="html/Methods_T_Rock_Net_EndpointSelectorExtensions.htm">
+          <HelpTOCNode Title="GetFirstToRespond Method " Url="html/M_Rock_Net_EndpointSelectorExtensions_GetFirstToRespond.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="240ac188-572f-40de-9b3a-c4c83fb329ae" Title="EndpointStatus Class" Url="html/T_Rock_Net_EndpointStatus.htm">
+        <HelpTOCNode Title="EndpointStatus Constructor " Url="html/M_Rock_Net_EndpointStatus__ctor.htm" />
+        <HelpTOCNode Title="EndpointStatus Methods" Url="html/Methods_T_Rock_Net_EndpointStatus.htm" />
+        <HelpTOCNode Id="2448b50b-0783-44cb-9e05-b615168f4b4f" Title="EndpointStatus Properties" Url="html/Properties_T_Rock_Net_EndpointStatus.htm">
+          <HelpTOCNode Title="Endpoint Property " Url="html/P_Rock_Net_EndpointStatus_Endpoint.htm" />
+          <HelpTOCNode Title="StatusCode Property " Url="html/P_Rock_Net_EndpointStatus_StatusCode.htm" />
+          <HelpTOCNode Title="Success Property " Url="html/P_Rock_Net_EndpointStatus_Success.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f4cc2b7b-d539-40bb-81c3-0f4dde0916da" Title="IEndpointDetector Interface" Url="html/T_Rock_Net_IEndpointDetector.htm">
+        <HelpTOCNode Id="fbc33e38-c579-49a4-8e66-1683240da528" Title="IEndpointDetector Methods" Url="html/Methods_T_Rock_Net_IEndpointDetector.htm">
+          <HelpTOCNode Title="GetEndpointStatus Method " Url="html/M_Rock_Net_IEndpointDetector_GetEndpointStatus.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="191ef582-aab3-43f8-b577-43f52f022d6d" Title="IEndpointSelector Interface" Url="html/T_Rock_Net_IEndpointSelector.htm">
+        <HelpTOCNode Id="367b2d45-7628-41a4-976f-f4c549ecd94b" Title="IEndpointSelector Methods" Url="html/Methods_T_Rock_Net_IEndpointSelector.htm">
+          <HelpTOCNode Title="GetFirstToRespond Method " Url="html/M_Rock_Net_IEndpointSelector_GetFirstToRespond.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c23acc11-3cdb-4fe2-8239-781f8aafe509" Title="Rock.Net.Http" Url="html/N_Rock_Net_Http.htm">
+      <HelpTOCNode Id="aec25a9a-a26e-492c-aa85-b508bd5ca173" Title="DefaultHttpClientFactory Class" Url="html/T_Rock_Net_Http_DefaultHttpClientFactory.htm">
+        <HelpTOCNode Id="8481ed85-b8f2-41dc-96a0-5055788aea43" Title="DefaultHttpClientFactory Methods" Url="html/Methods_T_Rock_Net_Http_DefaultHttpClientFactory.htm">
+          <HelpTOCNode Title="SetCurrent Method " Url="html/M_Rock_Net_Http_DefaultHttpClientFactory_SetCurrent.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e4ff89c7-aaed-4299-a8e4-5cad462d7ca0" Title="DefaultHttpClientFactory Properties" Url="html/Properties_T_Rock_Net_Http_DefaultHttpClientFactory.htm">
+          <HelpTOCNode Title="Current Property " Url="html/P_Rock_Net_Http_DefaultHttpClientFactory_Current.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="97589b6e-2b61-42ad-8a06-2f4c277970ab" Title="HttpClientFactory Class" Url="html/T_Rock_Net_Http_HttpClientFactory.htm">
+        <HelpTOCNode Title="HttpClientFactory Constructor " Url="html/M_Rock_Net_Http_HttpClientFactory__ctor.htm" />
+        <HelpTOCNode Id="9346de46-b54a-49c9-b777-8a22ea2e1423" Title="HttpClientFactory Methods" Url="html/Methods_T_Rock_Net_Http_HttpClientFactory.htm">
+          <HelpTOCNode Title="CreateHttpClient Method " Url="html/M_Rock_Net_Http_HttpClientFactory_CreateHttpClient.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0c39da50-f3d4-4456-b977-f294c686c131" Title="IHttpClientFactory Interface" Url="html/T_Rock_Net_Http_IHttpClientFactory.htm">
+        <HelpTOCNode Id="9fa02446-3cda-4ea5-b757-4e2931380773" Title="IHttpClientFactory Methods" Url="html/Methods_T_Rock_Net_Http_IHttpClientFactory.htm">
+          <HelpTOCNode Title="CreateHttpClient Method " Url="html/M_Rock_Net_Http_IHttpClientFactory_CreateHttpClient.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cf5e161c-a5db-4f96-a41d-97ef196e94f9" Title="Rock.Reflection" Url="html/N_Rock_Reflection.htm">
+      <HelpTOCNode Id="bc3ef4d6-0668-49de-937a-1bb0ab29b580" Title="GetClosedGenericTypeExtension Class" Url="html/T_Rock_Reflection_GetClosedGenericTypeExtension.htm">
+        <HelpTOCNode Id="24c76017-4260-4174-a391-263e515a8f71" Title="GetClosedGenericTypeExtension Methods" Url="html/Methods_T_Rock_Reflection_GetClosedGenericTypeExtension.htm">
+          <HelpTOCNode Title="GetClosedGenericType Method " Url="html/M_Rock_Reflection_GetClosedGenericTypeExtension_GetClosedGenericType.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7b86a1cd-1f39-48e5-a0ce-a45acfec9e0d" Title="GetGetFuncExtension Class" Url="html/T_Rock_Reflection_GetGetFuncExtension.htm">
+        <HelpTOCNode Id="8adcac7b-8181-4e96-a70c-ee0afee24d3c" Title="GetGetFuncExtension Methods" Url="html/Methods_T_Rock_Reflection_GetGetFuncExtension.htm">
+          <HelpTOCNode Id="c37d76b7-207e-4835-9cff-44eccc962387" Title="GetGetFunc Method " Url="html/Overload_Rock_Reflection_GetGetFuncExtension_GetGetFunc.htm">
+            <HelpTOCNode Title="GetGetFunc Method (PropertyInfo)" Url="html/M_Rock_Reflection_GetGetFuncExtension_GetGetFunc.htm" />
+            <HelpTOCNode Title="GetGetFunc(TInstance, TProperty) Method (PropertyInfo)" Url="html/M_Rock_Reflection_GetGetFuncExtension_GetGetFunc__2.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f40ecb72-9adc-491e-9cea-56a06dc2b972" Title="IsIDictionryOfTToAnythingExtension Class" Url="html/T_Rock_Reflection_IsIDictionryOfTToAnythingExtension.htm">
+        <HelpTOCNode Id="c1a4b96f-3cd6-404e-8c54-97bafbda2df1" Title="IsIDictionryOfTToAnythingExtension Methods" Url="html/Methods_T_Rock_Reflection_IsIDictionryOfTToAnythingExtension.htm">
+          <HelpTOCNode Title="IsIDictionaryOfTToAnything(TKey) Method " Url="html/M_Rock_Reflection_IsIDictionryOfTToAnythingExtension_IsIDictionaryOfTToAnything__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="87b93933-188a-4b40-87f8-535c4b947830" Title="IsLessSpecificThanExtension Class" Url="html/T_Rock_Reflection_IsLessSpecificThanExtension.htm">
+        <HelpTOCNode Id="ec587288-8404-4119-a160-aa289c58468c" Title="IsLessSpecificThanExtension Methods" Url="html/Methods_T_Rock_Reflection_IsLessSpecificThanExtension.htm">
+          <HelpTOCNode Title="IsLessSpecificThan Method " Url="html/M_Rock_Reflection_IsLessSpecificThanExtension_IsLessSpecificThan.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8384d4ee-9429-403b-a1c7-4c96b198ed99" Title="IsPrimitivishExtension Class" Url="html/T_Rock_Reflection_IsPrimitivishExtension.htm">
+        <HelpTOCNode Id="154b2ca1-506d-4326-b7a5-d7f2002590ce" Title="IsPrimitivishExtension Methods" Url="html/Methods_T_Rock_Reflection_IsPrimitivishExtension.htm">
+          <HelpTOCNode Title="IsPrimitivish Method " Url="html/M_Rock_Reflection_IsPrimitivishExtension_IsPrimitivish.htm" />
+          <HelpTOCNode Title="SetExtraPrimitivishTypes Method " Url="html/M_Rock_Reflection_IsPrimitivishExtension_SetExtraPrimitivishTypes.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0ea3bf24-9a71-4b63-81ae-3feea898dcb5" Title="IsPrimitivishExtension Properties" Url="html/Properties_T_Rock_Reflection_IsPrimitivishExtension.htm">
+          <HelpTOCNode Title="ExtraPrimitivishTypes Property " Url="html/P_Rock_Reflection_IsPrimitivishExtension_ExtraPrimitivishTypes.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7c1ccd4c-c109-41af-b90c-451698f3b78c" Title="IsPublicExtension Class" Url="html/T_Rock_Reflection_IsPublicExtension.htm">
+        <HelpTOCNode Id="59a1257f-3dbd-4af8-89a6-4c0bb20e95a0" Title="IsPublicExtension Methods" Url="html/Methods_T_Rock_Reflection_IsPublicExtension.htm">
+          <HelpTOCNode Title="IsPublic Method " Url="html/M_Rock_Reflection_IsPublicExtension_IsPublic.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2e0f810f-a12a-4c08-8e3b-6ab4af68174d" Title="IsStaticExtension Class" Url="html/T_Rock_Reflection_IsStaticExtension.htm">
+        <HelpTOCNode Id="f30b5fe6-69cb-4ebc-a9a5-b53479995558" Title="IsStaticExtension Methods" Url="html/Methods_T_Rock_Reflection_IsStaticExtension.htm">
+          <HelpTOCNode Title="IsStatic Method " Url="html/M_Rock_Reflection_IsStaticExtension_IsStatic.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5328e070-c95f-442c-87cf-3f9067e44ef9" Title="SlowFactory Class" Url="html/T_Rock_Reflection_SlowFactory.htm">
+        <HelpTOCNode Id="39ff1146-fb6c-4184-8ab8-93e5ebb2d25b" Title="SlowFactory Methods" Url="html/Methods_T_Rock_Reflection_SlowFactory.htm">
+          <HelpTOCNode Title="AllParametersHaveDefaultValue Method " Url="html/M_Rock_Reflection_SlowFactory_AllParametersHaveDefaultValue.htm" />
+          <HelpTOCNode Title="CreateInstance(T) Method " Url="html/M_Rock_Reflection_SlowFactory_CreateInstance__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2f5f172c-3d9a-4fe9-ade0-88c70fbf8154" Title="Rock.Serialization" Url="html/N_Rock_Serialization.htm">
+      <HelpTOCNode Id="4cd8d053-9574-4636-a714-0367cfb15a12" Title="BinaryFormatterSerializer Class" Url="html/T_Rock_Serialization_BinaryFormatterSerializer.htm">
+        <HelpTOCNode Title="BinaryFormatterSerializer Constructor " Url="html/M_Rock_Serialization_BinaryFormatterSerializer__ctor.htm" />
+        <HelpTOCNode Id="4da6dd4a-55e2-41ca-82f2-8e2c2369510e" Title="BinaryFormatterSerializer Methods" Url="html/Methods_T_Rock_Serialization_BinaryFormatterSerializer.htm">
+          <HelpTOCNode Title="DeserializeFromStream Method " Url="html/M_Rock_Serialization_BinaryFormatterSerializer_DeserializeFromStream.htm" />
+          <HelpTOCNode Title="DeserializeFromString Method " Url="html/M_Rock_Serialization_BinaryFormatterSerializer_DeserializeFromString.htm" />
+          <HelpTOCNode Title="SerializeToStream Method " Url="html/M_Rock_Serialization_BinaryFormatterSerializer_SerializeToStream.htm" />
+          <HelpTOCNode Title="SerializeToString Method " Url="html/M_Rock_Serialization_BinaryFormatterSerializer_SerializeToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9b90fa79-81d2-4b37-8e9e-2717c2012a30" Title="DataContractJsonSerializerSerializer Class" Url="html/T_Rock_Serialization_DataContractJsonSerializerSerializer.htm">
+        <HelpTOCNode Id="11f7f30c-87a7-4a8a-ba0f-333533790bc0" Title="DataContractJsonSerializerSerializer Constructor " Url="html/Overload_Rock_Serialization_DataContractJsonSerializerSerializer__ctor.htm">
+          <HelpTOCNode Title="DataContractJsonSerializerSerializer Constructor " Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer__ctor.htm" />
+          <HelpTOCNode Title="DataContractJsonSerializerSerializer Constructor (Encoding)" Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="67b4fcf5-c95a-475b-9c15-db3ad7976f98" Title="DataContractJsonSerializerSerializer Methods" Url="html/Methods_T_Rock_Serialization_DataContractJsonSerializerSerializer.htm">
+          <HelpTOCNode Title="DeserializeFromStream Method " Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_DeserializeFromStream.htm" />
+          <HelpTOCNode Title="DeserializeFromString Method " Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_DeserializeFromString.htm" />
+          <HelpTOCNode Title="SerializeToStream Method " Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_SerializeToStream.htm" />
+          <HelpTOCNode Title="SerializeToString Method " Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_SerializeToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6278a2de-6445-4da7-b544-47a8b5815bfd" Title="DataContractSerializerSerializer Class" Url="html/T_Rock_Serialization_DataContractSerializerSerializer.htm">
+        <HelpTOCNode Id="cc89967e-07a8-4efc-b435-c69b3f7a2ecb" Title="DataContractSerializerSerializer Constructor " Url="html/Overload_Rock_Serialization_DataContractSerializerSerializer__ctor.htm">
+          <HelpTOCNode Title="DataContractSerializerSerializer Constructor " Url="html/M_Rock_Serialization_DataContractSerializerSerializer__ctor.htm" />
+          <HelpTOCNode Title="DataContractSerializerSerializer Constructor (Encoding)" Url="html/M_Rock_Serialization_DataContractSerializerSerializer__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="27e5ef73-c6de-46d5-b490-764edb7ff4b6" Title="DataContractSerializerSerializer Methods" Url="html/Methods_T_Rock_Serialization_DataContractSerializerSerializer.htm">
+          <HelpTOCNode Title="DeserializeFromStream Method " Url="html/M_Rock_Serialization_DataContractSerializerSerializer_DeserializeFromStream.htm" />
+          <HelpTOCNode Title="DeserializeFromString Method " Url="html/M_Rock_Serialization_DataContractSerializerSerializer_DeserializeFromString.htm" />
+          <HelpTOCNode Title="SerializeToStream Method " Url="html/M_Rock_Serialization_DataContractSerializerSerializer_SerializeToStream.htm" />
+          <HelpTOCNode Title="SerializeToString Method " Url="html/M_Rock_Serialization_DataContractSerializerSerializer_SerializeToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b0b4ca3f-333a-4b74-ab36-022422a364d1" Title="DefaultBinarySerializer Class" Url="html/T_Rock_Serialization_DefaultBinarySerializer.htm">
+        <HelpTOCNode Id="b6d87854-d6e2-4ee7-8945-dd6296bb82cd" Title="DefaultBinarySerializer Methods" Url="html/Methods_T_Rock_Serialization_DefaultBinarySerializer.htm">
+          <HelpTOCNode Title="SetCurrent Method " Url="html/M_Rock_Serialization_DefaultBinarySerializer_SetCurrent.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="71848718-f599-464c-82b3-643d057d8e81" Title="DefaultBinarySerializer Properties" Url="html/Properties_T_Rock_Serialization_DefaultBinarySerializer.htm">
+          <HelpTOCNode Title="Current Property " Url="html/P_Rock_Serialization_DefaultBinarySerializer_Current.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="552bd6a9-00ad-4623-bd39-a7a696b81cb6" Title="DefaultJsonSerializer Class" Url="html/T_Rock_Serialization_DefaultJsonSerializer.htm">
+        <HelpTOCNode Id="a95d189f-e6a7-4666-b183-f47a3014d67b" Title="DefaultJsonSerializer Methods" Url="html/Methods_T_Rock_Serialization_DefaultJsonSerializer.htm">
+          <HelpTOCNode Title="SetCurrent Method " Url="html/M_Rock_Serialization_DefaultJsonSerializer_SetCurrent.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b1dc0b4a-26cd-4380-b29f-4b35118c7862" Title="DefaultJsonSerializer Properties" Url="html/Properties_T_Rock_Serialization_DefaultJsonSerializer.htm">
+          <HelpTOCNode Title="Current Property " Url="html/P_Rock_Serialization_DefaultJsonSerializer_Current.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6ece4cb1-aad6-4708-b9f0-f4b388ff6ce4" Title="DefaultXmlSerializer Class" Url="html/T_Rock_Serialization_DefaultXmlSerializer.htm">
+        <HelpTOCNode Id="8ac54cbb-123c-4c5f-8aee-a59272c93b78" Title="DefaultXmlSerializer Methods" Url="html/Methods_T_Rock_Serialization_DefaultXmlSerializer.htm">
+          <HelpTOCNode Title="SetCurrent Method " Url="html/M_Rock_Serialization_DefaultXmlSerializer_SetCurrent.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d113ce39-405c-40cc-a408-f904734eef2c" Title="DefaultXmlSerializer Properties" Url="html/Properties_T_Rock_Serialization_DefaultXmlSerializer.htm">
+          <HelpTOCNode Title="Current Property " Url="html/P_Rock_Serialization_DefaultXmlSerializer_Current.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0da27b0b-7357-41c4-b474-03ce6658824a" Title="ISerializer Interface" Url="html/T_Rock_Serialization_ISerializer.htm">
+        <HelpTOCNode Id="c5ac4202-95d2-4015-90c2-721707675e1f" Title="ISerializer Methods" Url="html/Methods_T_Rock_Serialization_ISerializer.htm">
+          <HelpTOCNode Title="DeserializeFromStream Method " Url="html/M_Rock_Serialization_ISerializer_DeserializeFromStream.htm" />
+          <HelpTOCNode Title="DeserializeFromString Method " Url="html/M_Rock_Serialization_ISerializer_DeserializeFromString.htm" />
+          <HelpTOCNode Title="SerializeToStream Method " Url="html/M_Rock_Serialization_ISerializer_SerializeToStream.htm" />
+          <HelpTOCNode Title="SerializeToString Method " Url="html/M_Rock_Serialization_ISerializer_SerializeToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c7795a26-ff89-4cf1-a6d8-81f1e122549e" Title="SerializerExtensions Class" Url="html/T_Rock_Serialization_SerializerExtensions.htm">
+        <HelpTOCNode Id="ea60485d-ed6b-4b20-92b7-3825d8e85611" Title="SerializerExtensions Methods" Url="html/Methods_T_Rock_Serialization_SerializerExtensions.htm">
+          <HelpTOCNode Id="c270cd55-42b8-4e9d-bfa9-367f3e34c736" Title="DeserializeFromByteArray Method " Url="html/Overload_Rock_Serialization_SerializerExtensions_DeserializeFromByteArray.htm">
+            <HelpTOCNode Title="DeserializeFromByteArray(T) Method (ISerializer, Byte[])" Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromByteArray__1.htm" />
+            <HelpTOCNode Title="DeserializeFromByteArray Method (ISerializer, Byte[], Type)" Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromByteArray.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="DeserializeFromStream(T) Method " Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromStream__1.htm" />
+          <HelpTOCNode Title="DeserializeFromString(T) Method " Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromString__1.htm" />
+          <HelpTOCNode Id="3b809a56-a6da-4d66-9c7c-6e3ae896e817" Title="SerializeToByteArray Method " Url="html/Overload_Rock_Serialization_SerializerExtensions_SerializeToByteArray.htm">
+            <HelpTOCNode Title="SerializeToByteArray(T) Method (ISerializer, T)" Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToByteArray__1.htm" />
+            <HelpTOCNode Title="SerializeToByteArray Method (ISerializer, Object, Type)" Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToByteArray.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="SerializeToStream(T) Method " Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToStream__1.htm" />
+          <HelpTOCNode Title="SerializeToString(T) Method " Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToString__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7e3c480c-304f-4576-afb4-9bb23a2adc4f" Title="ToBinaryExtension Class" Url="html/T_Rock_Serialization_ToBinaryExtension.htm">
+        <HelpTOCNode Id="e750f2ee-2b30-435d-9bf5-c48f8a95c7c4" Title="ToBinaryExtension Methods" Url="html/Methods_T_Rock_Serialization_ToBinaryExtension.htm">
+          <HelpTOCNode Title="ToBinary Method " Url="html/M_Rock_Serialization_ToBinaryExtension_ToBinary.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="98c7bb6f-5fbd-43c8-adf6-62e6fe1d2130" Title="ToJsonExtension Class" Url="html/T_Rock_Serialization_ToJsonExtension.htm">
+        <HelpTOCNode Id="653a5387-1d8d-41ce-8937-517ac9e20c4d" Title="ToJsonExtension Methods" Url="html/Methods_T_Rock_Serialization_ToJsonExtension.htm">
+          <HelpTOCNode Title="ToJson Method " Url="html/M_Rock_Serialization_ToJsonExtension_ToJson.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="351b5287-7f9e-4743-8521-8d75686dbeee" Title="ToXmlExtension Class" Url="html/T_Rock_Serialization_ToXmlExtension.htm">
+        <HelpTOCNode Id="a39d2442-82f0-4123-9eef-50b7ff9c7c07" Title="ToXmlExtension Methods" Url="html/Methods_T_Rock_Serialization_ToXmlExtension.htm">
+          <HelpTOCNode Title="ToXml Method " Url="html/M_Rock_Serialization_ToXmlExtension_ToXml.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3c163f8f-26d9-4b9b-a48d-4a4f585e4577" Title="XmlDeserializationProxy(TTarget) Class" Url="html/T_Rock_Serialization_XmlDeserializationProxy_1.htm">
+        <HelpTOCNode Id="c64461e6-151a-46c8-b575-9323cb393902" Title="XmlDeserializationProxy(TTarget) Constructor " Url="html/Overload_Rock_Serialization_XmlDeserializationProxy_1__ctor.htm">
+          <HelpTOCNode Title="XmlDeserializationProxy(TTarget) Constructor " Url="html/M_Rock_Serialization_XmlDeserializationProxy_1__ctor.htm" />
+          <HelpTOCNode Title="XmlDeserializationProxy(TTarget) Constructor (Type)" Url="html/M_Rock_Serialization_XmlDeserializationProxy_1__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ce22f011-8626-45d7-a0c3-76c8c49f0966" Title="XmlDeserializationProxy(TTarget) Methods" Url="html/Methods_T_Rock_Serialization_XmlDeserializationProxy_1.htm">
+          <HelpTOCNode Id="d975c10d-474a-4716-9071-acbd3d9e0c9a" Title="CreateInstance Method " Url="html/Overload_Rock_Serialization_XmlDeserializationProxy_1_CreateInstance.htm">
+            <HelpTOCNode Title="CreateInstance Method " Url="html/M_Rock_Serialization_XmlDeserializationProxy_1_CreateInstance.htm" />
+            <HelpTOCNode Title="CreateInstance Method (IResolver)" Url="html/M_Rock_Serialization_XmlDeserializationProxy_1_CreateInstance_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="d847d42e-05a1-4a50-8ebb-99325b96c5f2" Title="XmlDeserializationProxy(TTarget) Properties" Url="html/Properties_T_Rock_Serialization_XmlDeserializationProxy_1.htm">
+          <HelpTOCNode Title="AdditionalAttributes Property " Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_AdditionalAttributes.htm" />
+          <HelpTOCNode Title="AdditionalElements Property " Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_AdditionalElements.htm" />
+          <HelpTOCNode Title="TypeAssemblyQualifiedName Property " Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_TypeAssemblyQualifiedName.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ee4a28a1-c08e-46c6-9634-a8dd777253b7" Title="XmlSerializerSerializer Class" Url="html/T_Rock_Serialization_XmlSerializerSerializer.htm">
+        <HelpTOCNode Id="9c344a4a-0414-4881-b00e-c066b4310b1c" Title="XmlSerializerSerializer Constructor " Url="html/Overload_Rock_Serialization_XmlSerializerSerializer__ctor.htm">
+          <HelpTOCNode Title="XmlSerializerSerializer Constructor " Url="html/M_Rock_Serialization_XmlSerializerSerializer__ctor.htm" />
+          <HelpTOCNode Title="XmlSerializerSerializer Constructor (Encoding)" Url="html/M_Rock_Serialization_XmlSerializerSerializer__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="eb4c3fb1-0f1c-4bc2-a8fd-8071a6a42674" Title="XmlSerializerSerializer Methods" Url="html/Methods_T_Rock_Serialization_XmlSerializerSerializer.htm">
+          <HelpTOCNode Title="DeserializeFromStream Method " Url="html/M_Rock_Serialization_XmlSerializerSerializer_DeserializeFromStream.htm" />
+          <HelpTOCNode Title="DeserializeFromString Method " Url="html/M_Rock_Serialization_XmlSerializerSerializer_DeserializeFromString.htm" />
+          <HelpTOCNode Title="SerializeToStream Method " Url="html/M_Rock_Serialization_XmlSerializerSerializer_SerializeToStream.htm" />
+          <HelpTOCNode Title="SerializeToString Method " Url="html/M_Rock_Serialization_XmlSerializerSerializer_SerializeToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="913fc3a0-439c-4999-8030-b4c6007d6f8e" Title="Rock.StaticDependencyInjection" Url="html/N_Rock_StaticDependencyInjection.htm">
+      <HelpTOCNode Id="b047e34f-61e7-421e-9bf4-5324d3693129" Title="ExportAttribute Class" Url="html/T_Rock_StaticDependencyInjection_ExportAttribute.htm">
+        <HelpTOCNode Id="1424b32d-ba14-43d7-9506-23e28453c212" Title="ExportAttribute Constructor " Url="html/Overload_Rock_StaticDependencyInjection_ExportAttribute__ctor.htm">
+          <HelpTOCNode Title="ExportAttribute Constructor " Url="html/M_Rock_StaticDependencyInjection_ExportAttribute__ctor.htm" />
+          <HelpTOCNode Title="ExportAttribute Constructor (Int32)" Url="html/M_Rock_StaticDependencyInjection_ExportAttribute__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ExportAttribute Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_ExportAttribute.htm" />
+        <HelpTOCNode Id="515f3588-7644-4a83-b7fa-5397effddce6" Title="ExportAttribute Properties" Url="html/Properties_T_Rock_StaticDependencyInjection_ExportAttribute.htm">
+          <HelpTOCNode Title="Disabled Property " Url="html/P_Rock_StaticDependencyInjection_ExportAttribute_Disabled.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_StaticDependencyInjection_ExportAttribute_Name.htm" />
+          <HelpTOCNode Title="Priority Property " Url="html/P_Rock_StaticDependencyInjection_ExportAttribute_Priority.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a717f155-7a1b-4bbc-ab01-1f16bae37656" Title="Rock.StaticDependencyInjection.Tests" Url="html/N_Rock_StaticDependencyInjection_Tests.htm">
+      <HelpTOCNode Id="e3c77e8c-8ebb-481a-b55c-9430212c51f9" Title="AbcBar Class" Url="html/T_Rock_StaticDependencyInjection_Tests_AbcBar.htm">
+        <HelpTOCNode Title="AbcBar Constructor " Url="html/M_Rock_StaticDependencyInjection_Tests_AbcBar__ctor.htm" />
+        <HelpTOCNode Title="AbcBar Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_AbcBar.htm" />
+        <HelpTOCNode Id="64ad2e1c-76da-4502-bf61-326e51598b12" Title="AbcBar Properties" Url="html/Properties_T_Rock_StaticDependencyInjection_Tests_AbcBar.htm">
+          <HelpTOCNode Title="Value Property " Url="html/P_Rock_StaticDependencyInjection_Tests_AbcBar_Value.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1ae8f002-544d-453b-8c7c-fe4019cdfec1" Title="AbcBarFactory Class" Url="html/T_Rock_StaticDependencyInjection_Tests_AbcBarFactory.htm">
+        <HelpTOCNode Title="AbcBarFactory Constructor " Url="html/M_Rock_StaticDependencyInjection_Tests_AbcBarFactory__ctor.htm" />
+        <HelpTOCNode Id="e0429760-feb2-47e2-9cec-f49604fa13a3" Title="AbcBarFactory Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_AbcBarFactory.htm">
+          <HelpTOCNode Title="GetBar Method " Url="html/M_Rock_StaticDependencyInjection_Tests_AbcBarFactory_GetBar.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="eaaf19b3-7ff8-4408-9fff-6950610406d4" Title="AbcFoo Class" Url="html/T_Rock_StaticDependencyInjection_Tests_AbcFoo.htm">
+        <HelpTOCNode Title="AbcFoo Constructor " Url="html/M_Rock_StaticDependencyInjection_Tests_AbcFoo__ctor.htm" />
+        <HelpTOCNode Title="AbcFoo Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_AbcFoo.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9317d307-6307-48ba-a4b8-b182fe341ca3" Title="BarBase Class" Url="html/T_Rock_StaticDependencyInjection_Tests_BarBase.htm">
+        <HelpTOCNode Title="BarBase Constructor " Url="html/M_Rock_StaticDependencyInjection_Tests_BarBase__ctor.htm" />
+        <HelpTOCNode Title="BarBase Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_BarBase.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8fc20aa8-326f-46d4-a8bc-05ed31cb42cc" Title="BarFactoryBase Class" Url="html/T_Rock_StaticDependencyInjection_Tests_BarFactoryBase.htm">
+        <HelpTOCNode Title="BarFactoryBase Constructor " Url="html/M_Rock_StaticDependencyInjection_Tests_BarFactoryBase__ctor.htm" />
+        <HelpTOCNode Id="8c6fbe9a-eb5a-4810-848e-054bade4665f" Title="BarFactoryBase Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_BarFactoryBase.htm">
+          <HelpTOCNode Title="GetBar Method " Url="html/M_Rock_StaticDependencyInjection_Tests_BarFactoryBase_GetBar.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d7cc2896-4985-4147-a6d5-aab7455429f3" Title="BazBase Class" Url="html/T_Rock_StaticDependencyInjection_Tests_BazBase.htm">
+        <HelpTOCNode Title="BazBase Constructor " Url="html/M_Rock_StaticDependencyInjection_Tests_BazBase__ctor.htm" />
+        <HelpTOCNode Title="BazBase Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_BazBase.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="80cce178-6bc5-4168-b5f0-84005310d321" Title="DiscoveredDependency Class" Url="html/T_Rock_StaticDependencyInjection_Tests_DiscoveredDependency.htm">
+        <HelpTOCNode Id="b914c64a-183d-4589-be86-2b64e36a7b90" Title="DiscoveredDependency Fields" Url="html/Fields_T_Rock_StaticDependencyInjection_Tests_DiscoveredDependency.htm">
+          <HelpTOCNode Title="AllowNonPublicClasses Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_AllowNonPublicClasses.htm" />
+          <HelpTOCNode Title="BarFactoryBadConstructor Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_BarFactoryBadConstructor.htm" />
+          <HelpTOCNode Title="BarFactoryBadMethod Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_BarFactoryBadMethod.htm" />
+          <HelpTOCNode Title="Disabled Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_Disabled.htm" />
+          <HelpTOCNode Title="DuplicateExport Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_DuplicateExport.htm" />
+          <HelpTOCNode Title="ExportComparer Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ExportComparer.htm" />
+          <HelpTOCNode Title="FooBadConstructor Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_FooBadConstructor.htm" />
+          <HelpTOCNode Title="ImportFirstBarBaseBarFactoryBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstBarBaseBarFactoryBase.htm" />
+          <HelpTOCNode Title="ImportFirstBarBaseBarFactoryBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstBarBaseBarFactoryBaseNamed.htm" />
+          <HelpTOCNode Title="ImportFirstBazBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstBazBase.htm" />
+          <HelpTOCNode Title="ImportFirstBazBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstBazBaseNamed.htm" />
+          <HelpTOCNode Title="ImportFirstFooBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstFooBase.htm" />
+          <HelpTOCNode Title="ImportFirstFooBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstFooBaseNamed.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactory Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactory.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryAllowNonPublicClasses Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryAllowNonPublicClasses.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryBadDependency Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryBadDependency.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryDisabled Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryDisabled.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryDuplicateExport Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryDuplicateExport.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryExportComparer Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryExportComparer.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryIncludeNamedExportsFromUnnamedImports Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryIncludeNamedExportsFromUnnamedImports.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryIncludeTypesFromThisAssembly Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryIncludeTypesFromThisAssembly.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryMultipleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryMultipleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryNamed.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryNonDefaultConstructor Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryNonDefaultConstructor.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactoryPreferTTargetType Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactoryPreferTTargetType.htm" />
+          <HelpTOCNode Title="ImportFirstIBarIBarFactorySingleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBarIBarFactorySingleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportFirstIBaz Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBaz.htm" />
+          <HelpTOCNode Title="ImportFirstIBazNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIBazNamed.htm" />
+          <HelpTOCNode Title="ImportFirstIFoo Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFoo.htm" />
+          <HelpTOCNode Title="ImportFirstIFooAllowNonPublicClasses Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooAllowNonPublicClasses.htm" />
+          <HelpTOCNode Title="ImportFirstIFooBadDependency Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooBadDependency.htm" />
+          <HelpTOCNode Title="ImportFirstIFooDisabled Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooDisabled.htm" />
+          <HelpTOCNode Title="ImportFirstIFooDuplicateExport Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooDuplicateExport.htm" />
+          <HelpTOCNode Title="ImportFirstIFooExportComparer Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooExportComparer.htm" />
+          <HelpTOCNode Title="ImportFirstIFooIncludeNamedExportsFromUnnamedImports Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooIncludeNamedExportsFromUnnamedImports.htm" />
+          <HelpTOCNode Title="ImportFirstIFooIncludeTypesFromThisAssembly Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooIncludeTypesFromThisAssembly.htm" />
+          <HelpTOCNode Title="ImportFirstIFooMultipleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooMultipleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportFirstIFooNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooNamed.htm" />
+          <HelpTOCNode Title="ImportFirstIFooNonDefaultConstructor Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooNonDefaultConstructor.htm" />
+          <HelpTOCNode Title="ImportFirstIFooSingleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIFooSingleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportFirstIQuxIQuxFactory Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIQuxIQuxFactory.htm" />
+          <HelpTOCNode Title="ImportFirstIQuxIQuxFactoryNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstIQuxIQuxFactoryNamed.htm" />
+          <HelpTOCNode Title="ImportFirstQuxBaseQuxFactoryBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstQuxBaseQuxFactoryBase.htm" />
+          <HelpTOCNode Title="ImportFirstQuxBaseQuxFactoryBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportFirstQuxBaseQuxFactoryBaseNamed.htm" />
+          <HelpTOCNode Title="ImportMultipleBarBaseBarFactoryBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleBarBaseBarFactoryBase.htm" />
+          <HelpTOCNode Title="ImportMultipleBarBaseBarFactoryBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleBarBaseBarFactoryBaseNamed.htm" />
+          <HelpTOCNode Title="ImportMultipleBazBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleBazBase.htm" />
+          <HelpTOCNode Title="ImportMultipleBazBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleBazBaseNamed.htm" />
+          <HelpTOCNode Title="ImportMultipleFooBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleFooBase.htm" />
+          <HelpTOCNode Title="ImportMultipleFooBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleFooBaseNamed.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactory Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactory.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryAllowNonPublicClasses Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryAllowNonPublicClasses.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryBadDependency Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryBadDependency.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryDisabled Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryDisabled.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryDuplicateExport Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryDuplicateExport.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryExportComparer Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryExportComparer.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryIncludeNamedExportsFromUnnamedImports Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryIncludeNamedExportsFromUnnamedImports.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryIncludeTypesFromThisAssembly Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryIncludeTypesFromThisAssembly.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryMultipleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryMultipleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryNamed.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryNonDefaultConstructor Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryNonDefaultConstructor.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactoryPreferTTargetType Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactoryPreferTTargetType.htm" />
+          <HelpTOCNode Title="ImportMultipleIBarIBarFactorySingleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBarIBarFactorySingleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportMultipleIBaz Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBaz.htm" />
+          <HelpTOCNode Title="ImportMultipleIBazNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIBazNamed.htm" />
+          <HelpTOCNode Title="ImportMultipleIFoo Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFoo.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooAllowNonPublicClasses Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooAllowNonPublicClasses.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooBadDependency Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooBadDependency.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooDisabled Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooDisabled.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooDuplicateExport Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooDuplicateExport.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooExportComparer Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooExportComparer.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooIncludeNamedExportsFromUnnamedImports Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooIncludeNamedExportsFromUnnamedImports.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooIncludeTypesFromThisAssembly Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooIncludeTypesFromThisAssembly.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooMultipleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooMultipleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooNamed.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooNonDefaultConstructor Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooNonDefaultConstructor.htm" />
+          <HelpTOCNode Title="ImportMultipleIFooSingleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIFooSingleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportMultipleIQuxIQuxFactory Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIQuxIQuxFactory.htm" />
+          <HelpTOCNode Title="ImportMultipleIQuxIQuxFactoryNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleIQuxIQuxFactoryNamed.htm" />
+          <HelpTOCNode Title="ImportMultipleQuxBaseQuxFactoryBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleQuxBaseQuxFactoryBase.htm" />
+          <HelpTOCNode Title="ImportMultipleQuxBaseQuxFactoryBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportMultipleQuxBaseQuxFactoryBaseNamed.htm" />
+          <HelpTOCNode Title="ImportSingleBarBaseBarFactoryBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleBarBaseBarFactoryBase.htm" />
+          <HelpTOCNode Title="ImportSingleBarBaseBarFactoryBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleBarBaseBarFactoryBaseNamed.htm" />
+          <HelpTOCNode Title="ImportSingleBazBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleBazBase.htm" />
+          <HelpTOCNode Title="ImportSingleBazBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleBazBaseNamed.htm" />
+          <HelpTOCNode Title="ImportSingleFooBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleFooBase.htm" />
+          <HelpTOCNode Title="ImportSingleFooBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleFooBaseNamed.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactory Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactory.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactoryAllowNonPublicClasses Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactoryAllowNonPublicClasses.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactoryBadDependency Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactoryBadDependency.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactoryDisabled Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactoryDisabled.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactoryDuplicateExport Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactoryDuplicateExport.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactoryIncludeNamedExportsFromUnnamedImports Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactoryIncludeNamedExportsFromUnnamedImports.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactoryIncludeTypesFromThisAssembly Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactoryIncludeTypesFromThisAssembly.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactoryMultipleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactoryMultipleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactoryNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactoryNamed.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactoryNonDefaultConstructor Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactoryNonDefaultConstructor.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactoryPreferTTargetType Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactoryPreferTTargetType.htm" />
+          <HelpTOCNode Title="ImportSingleIBarIBarFactorySingleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBarIBarFactorySingleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportSingleIBaz Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBaz.htm" />
+          <HelpTOCNode Title="ImportSingleIBazNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIBazNamed.htm" />
+          <HelpTOCNode Title="ImportSingleIFoo Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFoo.htm" />
+          <HelpTOCNode Title="ImportSingleIFooAllowNonPublicClasses Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFooAllowNonPublicClasses.htm" />
+          <HelpTOCNode Title="ImportSingleIFooBadDependency Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFooBadDependency.htm" />
+          <HelpTOCNode Title="ImportSingleIFooDisabled Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFooDisabled.htm" />
+          <HelpTOCNode Title="ImportSingleIFooDuplicateExport Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFooDuplicateExport.htm" />
+          <HelpTOCNode Title="ImportSingleIFooIncludeNamedExportsFromUnnamedImports Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFooIncludeNamedExportsFromUnnamedImports.htm" />
+          <HelpTOCNode Title="ImportSingleIFooIncludeTypesFromThisAssembly Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFooIncludeTypesFromThisAssembly.htm" />
+          <HelpTOCNode Title="ImportSingleIFooMultipleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFooMultipleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportSingleIFooNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFooNamed.htm" />
+          <HelpTOCNode Title="ImportSingleIFooNonDefaultConstructor Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFooNonDefaultConstructor.htm" />
+          <HelpTOCNode Title="ImportSingleIFooSingleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIFooSingleHighestPriority.htm" />
+          <HelpTOCNode Title="ImportSingleIQuxIQuxFactory Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIQuxIQuxFactory.htm" />
+          <HelpTOCNode Title="ImportSingleIQuxIQuxFactoryNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleIQuxIQuxFactoryNamed.htm" />
+          <HelpTOCNode Title="ImportSingleQuxBaseQuxFactoryBase Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleQuxBaseQuxFactoryBase.htm" />
+          <HelpTOCNode Title="ImportSingleQuxBaseQuxFactoryBaseNamed Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_ImportSingleQuxBaseQuxFactoryBaseNamed.htm" />
+          <HelpTOCNode Title="IncludeTypesFromThisAssembly Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_IncludeTypesFromThisAssembly.htm" />
+          <HelpTOCNode Title="MultipleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_MultipleHighestPriority.htm" />
+          <HelpTOCNode Title="MyName Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_MyName.htm" />
+          <HelpTOCNode Title="NonDefaultConstructor Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_NonDefaultConstructor.htm" />
+          <HelpTOCNode Title="PreferTTargetType Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_PreferTTargetType.htm" />
+          <HelpTOCNode Title="SingleHighestPriority Field" Url="html/F_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_SingleHighestPriority.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bfcb3e2d-f899-4cb5-a272-d2f3372b0d88" Title="DiscoveredDependency Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_DiscoveredDependency.htm">
+          <HelpTOCNode Title="Find Method " Url="html/M_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_Find.htm" />
+          <HelpTOCNode Title="Register(T) Method " Url="html/M_Rock_StaticDependencyInjection_Tests_DiscoveredDependency_Register__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f060cd93-3627-4eb1-9de0-74c7a61a0f8f" Title="FooBase Class" Url="html/T_Rock_StaticDependencyInjection_Tests_FooBase.htm">
+        <HelpTOCNode Title="FooBase Constructor " Url="html/M_Rock_StaticDependencyInjection_Tests_FooBase__ctor.htm" />
+        <HelpTOCNode Title="FooBase Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_FooBase.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="IBar Interface" Url="html/T_Rock_StaticDependencyInjection_Tests_IBar.htm" />
+      <HelpTOCNode Id="b1877c40-c573-4d41-941a-3b7996a7248b" Title="IBarFactory Interface" Url="html/T_Rock_StaticDependencyInjection_Tests_IBarFactory.htm">
+        <HelpTOCNode Id="2f2558b0-8765-4fcb-b445-f615ebe986f5" Title="IBarFactory Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_IBarFactory.htm">
+          <HelpTOCNode Title="GetBar Method " Url="html/M_Rock_StaticDependencyInjection_Tests_IBarFactory_GetBar.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="IBaz Interface" Url="html/T_Rock_StaticDependencyInjection_Tests_IBaz.htm" />
+      <HelpTOCNode Title="IFoo Interface" Url="html/T_Rock_StaticDependencyInjection_Tests_IFoo.htm" />
+      <HelpTOCNode Title="IQux Interface" Url="html/T_Rock_StaticDependencyInjection_Tests_IQux.htm" />
+      <HelpTOCNode Id="e3af9631-604a-426d-bb12-94ec458cb5fb" Title="IQuxFactory Interface" Url="html/T_Rock_StaticDependencyInjection_Tests_IQuxFactory.htm">
+        <HelpTOCNode Id="b5f4499e-632c-4721-8970-073e3f469107" Title="IQuxFactory Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_IQuxFactory.htm">
+          <HelpTOCNode Title="GetQux Method " Url="html/M_Rock_StaticDependencyInjection_Tests_IQuxFactory_GetQux.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2275910e-7589-448d-bb8a-669896048a90" Title="QuxBase Class" Url="html/T_Rock_StaticDependencyInjection_Tests_QuxBase.htm">
+        <HelpTOCNode Title="QuxBase Constructor " Url="html/M_Rock_StaticDependencyInjection_Tests_QuxBase__ctor.htm" />
+        <HelpTOCNode Title="QuxBase Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_QuxBase.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f9f1c39a-2710-4dd7-8553-6085d439a1c1" Title="QuxFactoryBase Class" Url="html/T_Rock_StaticDependencyInjection_Tests_QuxFactoryBase.htm">
+        <HelpTOCNode Title="QuxFactoryBase Constructor " Url="html/M_Rock_StaticDependencyInjection_Tests_QuxFactoryBase__ctor.htm" />
+        <HelpTOCNode Id="64dfd7f3-2c5f-4c19-86e1-d2afcaf88be3" Title="QuxFactoryBase Methods" Url="html/Methods_T_Rock_StaticDependencyInjection_Tests_QuxFactoryBase.htm">
+          <HelpTOCNode Title="GetQux Method " Url="html/M_Rock_StaticDependencyInjection_Tests_QuxFactoryBase_GetQux.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5ad621dc-5208-474d-940e-9e1014980d6b" Title="Rock.StringFormatting" Url="html/N_Rock_StringFormatting.htm">
+      <HelpTOCNode Id="20726872-1646-4e42-a634-d587d7cf6f61" Title="FormatToStringExtension Class" Url="html/T_Rock_StringFormatting_FormatToStringExtension.htm">
+        <HelpTOCNode Id="84c4af64-eee2-455d-9493-3481635aaa36" Title="FormatToStringExtension Methods" Url="html/Methods_T_Rock_StringFormatting_FormatToStringExtension.htm">
+          <HelpTOCNode Title="FormatToString Method " Url="html/M_Rock_StringFormatting_FormatToStringExtension_FormatToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="72eaf525-4d6f-4e1c-ab52-e5e7b70d5a7a" Title="ToHexStringExtensions Class" Url="html/T_Rock_StringFormatting_ToHexStringExtensions.htm">
+        <HelpTOCNode Id="4bb30142-934a-4a60-b473-d31e1c785bd5" Title="ToHexStringExtensions Methods" Url="html/Methods_T_Rock_StringFormatting_ToHexStringExtensions.htm">
+          <HelpTOCNode Title="ToHexString Method " Url="html/M_Rock_StringFormatting_ToHexStringExtensions_ToHexString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6acacd7a-3676-4ec9-8fd7-d60b558f57e9" Title="ToOctetStringExtension Class" Url="html/T_Rock_StringFormatting_ToOctetStringExtension.htm">
+        <HelpTOCNode Id="48a1edab-aa89-48f6-9634-62b06906930d" Title="ToOctetStringExtension Methods" Url="html/Methods_T_Rock_StringFormatting_ToOctetStringExtension.htm">
+          <HelpTOCNode Title="ToOctetString Method " Url="html/M_Rock_StringFormatting_ToOctetStringExtension_ToOctetString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4923d5d1-52c5-45bd-9360-ceca3a2b29af" Title="Rock.Threading" Url="html/N_Rock_Threading.htm">
+      <HelpTOCNode Id="21cc95f1-ddc7-4f63-b3a3-9e6daa3c9952" Title="SoftLock Class" Url="html/T_Rock_Threading_SoftLock.htm">
+        <HelpTOCNode Title="SoftLock Constructor " Url="html/M_Rock_Threading_SoftLock__ctor.htm" />
+        <HelpTOCNode Id="c738e96a-ab30-4b15-9488-8471b319d7e6" Title="SoftLock Methods" Url="html/Methods_T_Rock_Threading_SoftLock.htm">
+          <HelpTOCNode Title="Release Method " Url="html/M_Rock_Threading_SoftLock_Release.htm" />
+          <HelpTOCNode Title="TryAcquire Method " Url="html/M_Rock_Threading_SoftLock_TryAcquire.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="94c07daf-e43e-4fb6-a72e-3132a4a3dc2b" Title="Rock.Utilities" Url="html/N_Rock_Utilities.htm">
+      <HelpTOCNode Id="a46dbf16-f487-4389-9218-ffaa1fa462c5" Title="AttributeLocator Class" Url="html/T_Rock_Utilities_AttributeLocator.htm">
+        <HelpTOCNode Id="3d7db50b-064f-48a2-a42d-155f974785e8" Title="AttributeLocator Methods" Url="html/Methods_T_Rock_Utilities_AttributeLocator.htm">
+          <HelpTOCNode Title="FindMembersDecoratedWith(TAttribute) Method " Url="html/M_Rock_Utilities_AttributeLocator_FindMembersDecoratedWith__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
