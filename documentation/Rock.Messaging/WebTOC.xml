@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="c4fb7cfc-507e-4884-bfbb-9c5e7a8addff" Title="Rock.Messaging" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="8f1b4070-f0e9-4f1a-a9cc-f8db85371cb2" Title="Rock.Messaging" Url="html/N_Rock_Messaging.htm">
+      <HelpTOCNode Id="dd9892fa-aaf2-4731-9159-f5aec158ee46" Title="BinarySenderMessage Class" Url="html/T_Rock_Messaging_BinarySenderMessage.htm">
+        <HelpTOCNode Id="f6f984ac-dd27-4177-8a3e-e7df71e81cdc" Title="BinarySenderMessage Constructor " Url="html/Overload_Rock_Messaging_BinarySenderMessage__ctor.htm">
+          <HelpTOCNode Title="BinarySenderMessage Constructor (Byte[])" Url="html/M_Rock_Messaging_BinarySenderMessage__ctor.htm" />
+          <HelpTOCNode Title="BinarySenderMessage Constructor (Byte[], MessageFormat, Encoding)" Url="html/M_Rock_Messaging_BinarySenderMessage__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="BinarySenderMessage Methods" Url="html/Methods_T_Rock_Messaging_BinarySenderMessage.htm" />
+        <HelpTOCNode Id="29f39e37-cc28-4f92-8777-982f3ca7f42e" Title="BinarySenderMessage Properties" Url="html/Properties_T_Rock_Messaging_BinarySenderMessage.htm">
+          <HelpTOCNode Title="BinaryValue Property " Url="html/P_Rock_Messaging_BinarySenderMessage_BinaryValue.htm" />
+          <HelpTOCNode Title="Headers Property " Url="html/P_Rock_Messaging_BinarySenderMessage_Headers.htm" />
+          <HelpTOCNode Title="MessageFormat Property " Url="html/P_Rock_Messaging_BinarySenderMessage_MessageFormat.htm" />
+          <HelpTOCNode Title="StringValue Property " Url="html/P_Rock_Messaging_BinarySenderMessage_StringValue.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a0520a27-d85b-4dd6-9b84-215c5f3bdd80" Title="IMessagingScenarioFactory Interface" Url="html/T_Rock_Messaging_IMessagingScenarioFactory.htm">
+        <HelpTOCNode Id="011361bd-e2b1-4544-9023-babf2b60a843" Title="IMessagingScenarioFactory Methods" Url="html/Methods_T_Rock_Messaging_IMessagingScenarioFactory.htm">
+          <HelpTOCNode Title="CreateQueueConsumer Method " Url="html/M_Rock_Messaging_IMessagingScenarioFactory_CreateQueueConsumer.htm" />
+          <HelpTOCNode Title="CreateQueueProducer Method " Url="html/M_Rock_Messaging_IMessagingScenarioFactory_CreateQueueProducer.htm" />
+          <HelpTOCNode Title="CreateTopicPublisher Method " Url="html/M_Rock_Messaging_IMessagingScenarioFactory_CreateTopicPublisher.htm" />
+          <HelpTOCNode Title="CreateTopicSubscriber Method " Url="html/M_Rock_Messaging_IMessagingScenarioFactory_CreateTopicSubscriber.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="60b93076-8272-42e6-ac70-e2a4d63168e1" Title="IReceiver Interface" Url="html/T_Rock_Messaging_IReceiver.htm">
+        <HelpTOCNode Id="4455ab0a-794f-4c8d-bd00-cdffe9842fa9" Title="IReceiver Methods" Url="html/Methods_T_Rock_Messaging_IReceiver.htm">
+          <HelpTOCNode Title="Start Method " Url="html/M_Rock_Messaging_IReceiver_Start.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bfd547b8-82ba-46aa-8db1-068e3a42732e" Title="IReceiver Properties" Url="html/Properties_T_Rock_Messaging_IReceiver.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Messaging_IReceiver_Name.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a337b60d-a835-47e0-9cbf-2114ff75570c" Title="IReceiver Events" Url="html/Events_T_Rock_Messaging_IReceiver.htm">
+          <HelpTOCNode Title="MessageReceived Event" Url="html/E_Rock_Messaging_IReceiver_MessageReceived.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7618d464-cb85-478c-a2d1-4e2d8753cc84" Title="IReceiverMessage Interface" Url="html/T_Rock_Messaging_IReceiverMessage.htm">
+        <HelpTOCNode Id="b9f2159d-ad39-49e2-b998-19caba617737" Title="IReceiverMessage Methods" Url="html/Methods_T_Rock_Messaging_IReceiverMessage.htm">
+          <HelpTOCNode Title="Acknowledge Method " Url="html/M_Rock_Messaging_IReceiverMessage_Acknowledge.htm" />
+          <HelpTOCNode Title="GetBinaryValue Method " Url="html/M_Rock_Messaging_IReceiverMessage_GetBinaryValue.htm" />
+          <HelpTOCNode Title="GetHeaderValue Method " Url="html/M_Rock_Messaging_IReceiverMessage_GetHeaderValue.htm" />
+          <HelpTOCNode Title="GetStringValue Method " Url="html/M_Rock_Messaging_IReceiverMessage_GetStringValue.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fc5a2be6-01c2-43cf-8a00-8d729e0649df" Title="ISender Interface" Url="html/T_Rock_Messaging_ISender.htm">
+        <HelpTOCNode Id="b1469ba5-1170-448f-8fe9-7a7a2014c790" Title="ISender Methods" Url="html/Methods_T_Rock_Messaging_ISender.htm">
+          <HelpTOCNode Title="Send Method " Url="html/M_Rock_Messaging_ISender_Send.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="600a6cce-495e-4a38-bbdb-f5a694e504d5" Title="ISender Properties" Url="html/Properties_T_Rock_Messaging_ISender.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Messaging_ISender_Name.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0c1d2b64-a284-46d9-a910-231d5c259e4a" Title="ISenderMessage Interface" Url="html/T_Rock_Messaging_ISenderMessage.htm">
+        <HelpTOCNode Id="77ccfe5d-466b-42e7-8c80-69019480ae22" Title="ISenderMessage Properties" Url="html/Properties_T_Rock_Messaging_ISenderMessage.htm">
+          <HelpTOCNode Title="BinaryValue Property " Url="html/P_Rock_Messaging_ISenderMessage_BinaryValue.htm" />
+          <HelpTOCNode Title="Headers Property " Url="html/P_Rock_Messaging_ISenderMessage_Headers.htm" />
+          <HelpTOCNode Title="MessageFormat Property " Url="html/P_Rock_Messaging_ISenderMessage_MessageFormat.htm" />
+          <HelpTOCNode Title="StringValue Property " Url="html/P_Rock_Messaging_ISenderMessage_StringValue.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="MessageFormat Enumeration" Url="html/T_Rock_Messaging_MessageFormat.htm" />
+      <HelpTOCNode Id="67544ddd-139f-48f5-8eae-2b8fc38872c9" Title="MessageReceivedEventArgs Class" Url="html/T_Rock_Messaging_MessageReceivedEventArgs.htm">
+        <HelpTOCNode Title="MessageReceivedEventArgs Constructor " Url="html/M_Rock_Messaging_MessageReceivedEventArgs__ctor.htm" />
+        <HelpTOCNode Title="MessageReceivedEventArgs Methods" Url="html/Methods_T_Rock_Messaging_MessageReceivedEventArgs.htm" />
+        <HelpTOCNode Id="3736f11a-26bd-48c7-ac27-e9aefa2d43bb" Title="MessageReceivedEventArgs Properties" Url="html/Properties_T_Rock_Messaging_MessageReceivedEventArgs.htm">
+          <HelpTOCNode Title="Message Property " Url="html/P_Rock_Messaging_MessageReceivedEventArgs_Message.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f81a90c6-0eee-47e3-a71e-30a52234d5ab" Title="MessagingScenarioExtensions Class" Url="html/T_Rock_Messaging_MessagingScenarioExtensions.htm">
+        <HelpTOCNode Id="f0208639-df32-455a-b6e1-8141e4357a32" Title="MessagingScenarioExtensions Methods" Url="html/Methods_T_Rock_Messaging_MessagingScenarioExtensions.htm">
+          <HelpTOCNode Id="904caafa-a4d5-4941-9270-e9b47010a745" Title="Send Method " Url="html/Overload_Rock_Messaging_MessagingScenarioExtensions_Send.htm">
+            <HelpTOCNode Title="Send Method (ISender, Byte[])" Url="html/M_Rock_Messaging_MessagingScenarioExtensions_Send.htm" />
+            <HelpTOCNode Title="Send Method (ISender, String)" Url="html/M_Rock_Messaging_MessagingScenarioExtensions_Send_2.htm" />
+            <HelpTOCNode Title="Send Method (ISender, Byte[], MessageFormat)" Url="html/M_Rock_Messaging_MessagingScenarioExtensions_Send_1.htm" />
+            <HelpTOCNode Title="Send Method (ISender, String, MessageFormat)" Url="html/M_Rock_Messaging_MessagingScenarioExtensions_Send_3.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Start Method " Url="html/M_Rock_Messaging_MessagingScenarioExtensions_Start.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="37d32f2b-ed23-40a6-9281-3dd176bab24a" Title="MessagingScenarioFactory Class" Url="html/T_Rock_Messaging_MessagingScenarioFactory.htm">
+        <HelpTOCNode Id="3c17ceb6-45c4-4bbe-8e91-3f729e8d4d8f" Title="MessagingScenarioFactory Methods" Url="html/Methods_T_Rock_Messaging_MessagingScenarioFactory.htm">
+          <HelpTOCNode Title="CreateQueueConsumer Method " Url="html/M_Rock_Messaging_MessagingScenarioFactory_CreateQueueConsumer.htm" />
+          <HelpTOCNode Title="CreateQueueProducer Method " Url="html/M_Rock_Messaging_MessagingScenarioFactory_CreateQueueProducer.htm" />
+          <HelpTOCNode Title="CreateTopicPublisher Method " Url="html/M_Rock_Messaging_MessagingScenarioFactory_CreateTopicPublisher.htm" />
+          <HelpTOCNode Title="CreateTopicSubscriber Method " Url="html/M_Rock_Messaging_MessagingScenarioFactory_CreateTopicSubscriber.htm" />
+          <HelpTOCNode Title="SetCurrent Method " Url="html/M_Rock_Messaging_MessagingScenarioFactory_SetCurrent.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="007e87f8-d430-4d60-bb64-58892297fd06" Title="MessagingScenarioFactory Properties" Url="html/Properties_T_Rock_Messaging_MessagingScenarioFactory.htm">
+          <HelpTOCNode Title="Current Property " Url="html/P_Rock_Messaging_MessagingScenarioFactory_Current.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="026f7b93-90fb-465c-a730-fd77e9deea45" Title="MessagingScenarioFactoryProxy Class" Url="html/T_Rock_Messaging_MessagingScenarioFactoryProxy.htm">
+        <HelpTOCNode Title="MessagingScenarioFactoryProxy Constructor " Url="html/M_Rock_Messaging_MessagingScenarioFactoryProxy__ctor.htm" />
+        <HelpTOCNode Title="MessagingScenarioFactoryProxy Methods" Url="html/Methods_T_Rock_Messaging_MessagingScenarioFactoryProxy.htm" />
+        <HelpTOCNode Title="MessagingScenarioFactoryProxy Properties" Url="html/Properties_T_Rock_Messaging_MessagingScenarioFactoryProxy.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="17900df9-e45d-4570-9a94-df1f7deeef2d" Title="MessagingSectionHandler Class" Url="html/T_Rock_Messaging_MessagingSectionHandler.htm">
+        <HelpTOCNode Title="MessagingSectionHandler Constructor " Url="html/M_Rock_Messaging_MessagingSectionHandler__ctor.htm" />
+        <HelpTOCNode Title="MessagingSectionHandler Methods" Url="html/Methods_T_Rock_Messaging_MessagingSectionHandler.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="617f3b0f-df65-4a30-a0dc-e052ca91356d" Title="ReceiverMessageExtensions Class" Url="html/T_Rock_Messaging_ReceiverMessageExtensions.htm">
+        <HelpTOCNode Id="04ab734d-f07f-4a9a-bd5b-809dee324040" Title="ReceiverMessageExtensions Methods" Url="html/Methods_T_Rock_Messaging_ReceiverMessageExtensions.htm">
+          <HelpTOCNode Title="GetBinaryValue Method " Url="html/M_Rock_Messaging_ReceiverMessageExtensions_GetBinaryValue.htm" />
+          <HelpTOCNode Title="GetHeaderValue Method " Url="html/M_Rock_Messaging_ReceiverMessageExtensions_GetHeaderValue.htm" />
+          <HelpTOCNode Title="GetStringValue Method " Url="html/M_Rock_Messaging_ReceiverMessageExtensions_GetStringValue.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4c1d8717-e4f0-4e28-98de-0adfde750868" Title="StringSenderMessage Class" Url="html/T_Rock_Messaging_StringSenderMessage.htm">
+        <HelpTOCNode Id="57a4d01f-dd2c-414b-a13a-d73337de3984" Title="StringSenderMessage Constructor " Url="html/Overload_Rock_Messaging_StringSenderMessage__ctor.htm">
+          <HelpTOCNode Title="StringSenderMessage Constructor (String, Encoding)" Url="html/M_Rock_Messaging_StringSenderMessage__ctor_1.htm" />
+          <HelpTOCNode Title="StringSenderMessage Constructor (String, MessageFormat, Encoding)" Url="html/M_Rock_Messaging_StringSenderMessage__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="StringSenderMessage Methods" Url="html/Methods_T_Rock_Messaging_StringSenderMessage.htm" />
+        <HelpTOCNode Id="4e0ba54d-3da7-4618-8137-aa4ceef522b3" Title="StringSenderMessage Properties" Url="html/Properties_T_Rock_Messaging_StringSenderMessage.htm">
+          <HelpTOCNode Title="BinaryValue Property " Url="html/P_Rock_Messaging_StringSenderMessage_BinaryValue.htm" />
+          <HelpTOCNode Title="Headers Property " Url="html/P_Rock_Messaging_StringSenderMessage_Headers.htm" />
+          <HelpTOCNode Title="MessageFormat Property " Url="html/P_Rock_Messaging_StringSenderMessage_MessageFormat.htm" />
+          <HelpTOCNode Title="StringValue Property " Url="html/P_Rock_Messaging_StringSenderMessage_StringValue.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8c217601-79c8-4451-bed9-355c360485cd" Title="XmlSerializingRockMessagingConfiguration Class" Url="html/T_Rock_Messaging_XmlSerializingRockMessagingConfiguration.htm">
+        <HelpTOCNode Title="XmlSerializingRockMessagingConfiguration Constructor " Url="html/M_Rock_Messaging_XmlSerializingRockMessagingConfiguration__ctor.htm" />
+        <HelpTOCNode Title="XmlSerializingRockMessagingConfiguration Methods" Url="html/Methods_T_Rock_Messaging_XmlSerializingRockMessagingConfiguration.htm" />
+        <HelpTOCNode Id="6cf59d86-0dd1-4055-a7b9-5c628bf4a05b" Title="XmlSerializingRockMessagingConfiguration Properties" Url="html/Properties_T_Rock_Messaging_XmlSerializingRockMessagingConfiguration.htm">
+          <HelpTOCNode Title="FactoryProxy Property " Url="html/P_Rock_Messaging_XmlSerializingRockMessagingConfiguration_FactoryProxy.htm" />
+          <HelpTOCNode Title="MessagingScenarioFactory Property " Url="html/P_Rock_Messaging_XmlSerializingRockMessagingConfiguration_MessagingScenarioFactory.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4c802534-36c8-4f02-b7a5-933d4506eaae" Title="Rock.Messaging.Configuration" Url="html/N_Rock_Messaging_Configuration.htm">
+      <HelpTOCNode Id="ce3ea5ed-874e-4dfc-a850-07e685cfd0d7" Title="IRockMessagingConfiguration Interface" Url="html/T_Rock_Messaging_Configuration_IRockMessagingConfiguration.htm">
+        <HelpTOCNode Id="b1b48ad2-da3b-4c85-a1fe-9d1269929501" Title="IRockMessagingConfiguration Properties" Url="html/Properties_T_Rock_Messaging_Configuration_IRockMessagingConfiguration.htm">
+          <HelpTOCNode Title="MessagingScenarioFactory Property " Url="html/P_Rock_Messaging_Configuration_IRockMessagingConfiguration_MessagingScenarioFactory.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="761c29c7-3152-4296-aeed-86d7ce172a9f" Title="Rock.Messaging.NamedPipes" Url="html/N_Rock_Messaging_NamedPipes.htm">
+      <HelpTOCNode Id="21e1df0f-8c44-437d-9c33-2a742773e74c" Title="INamedPipeConfig Interface" Url="html/T_Rock_Messaging_NamedPipes_INamedPipeConfig.htm">
+        <HelpTOCNode Id="64e4dddc-4713-46c0-bbef-471521412c88" Title="INamedPipeConfig Properties" Url="html/Properties_T_Rock_Messaging_NamedPipes_INamedPipeConfig.htm">
+          <HelpTOCNode Title="PipeName Property " Url="html/P_Rock_Messaging_NamedPipes_INamedPipeConfig_PipeName.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a0ed5d3f-85ec-4b0c-ac48-9e0e396986cd" Title="INamedPipeConfigProvider Interface" Url="html/T_Rock_Messaging_NamedPipes_INamedPipeConfigProvider.htm">
+        <HelpTOCNode Id="b9dbf71c-7c0c-429e-9fbd-97076a371448" Title="INamedPipeConfigProvider Methods" Url="html/Methods_T_Rock_Messaging_NamedPipes_INamedPipeConfigProvider.htm">
+          <HelpTOCNode Title="GetConfig Method " Url="html/M_Rock_Messaging_NamedPipes_INamedPipeConfigProvider_GetConfig.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7538c5de-7905-43ba-9756-a8481b9ac769" Title="NamedPipeMessagingScenarioFactory Class" Url="html/T_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory.htm">
+        <HelpTOCNode Id="87f91e9b-4428-45d7-9568-c333bae39991" Title="NamedPipeMessagingScenarioFactory Constructor " Url="html/Overload_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory__ctor.htm">
+          <HelpTOCNode Title="NamedPipeMessagingScenarioFactory Constructor " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory__ctor.htm" />
+          <HelpTOCNode Title="NamedPipeMessagingScenarioFactory Constructor (INamedPipeConfigProvider, ISerializer)" Url="html/M_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="92a7534f-34ed-487a-a3db-a8f75830ed52" Title="NamedPipeMessagingScenarioFactory Methods" Url="html/Methods_T_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory.htm">
+          <HelpTOCNode Title="CreateQueueConsumer Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory_CreateQueueConsumer.htm" />
+          <HelpTOCNode Title="CreateQueueProducer Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory_CreateQueueProducer.htm" />
+          <HelpTOCNode Title="CreateTopicPublisher Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory_CreateTopicPublisher.htm" />
+          <HelpTOCNode Title="CreateTopicSubscriber Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory_CreateTopicSubscriber.htm" />
+          <HelpTOCNode Title="SetDefaultConfigProvider Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory_SetDefaultConfigProvider.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0b79421e-2b99-4fc3-9711-6ff6e02da7d0" Title="NamedPipeMessagingScenarioFactory Properties" Url="html/Properties_T_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory.htm">
+          <HelpTOCNode Title="DefaultConfigProvider Property " Url="html/P_Rock_Messaging_NamedPipes_NamedPipeMessagingScenarioFactory_DefaultConfigProvider.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5d21373d-e9ef-4b61-ba86-6434628c7ae1" Title="NamedPipeQueueConsumer Class" Url="html/T_Rock_Messaging_NamedPipes_NamedPipeQueueConsumer.htm">
+        <HelpTOCNode Title="NamedPipeQueueConsumer Constructor " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeQueueConsumer__ctor.htm" />
+        <HelpTOCNode Id="04152c1a-1ed7-40c8-82d7-4e57ff55d98b" Title="NamedPipeQueueConsumer Methods" Url="html/Methods_T_Rock_Messaging_NamedPipes_NamedPipeQueueConsumer.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeQueueConsumer_Dispose.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeQueueConsumer_Start.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="06393d6a-5135-432e-948f-c77f35d8c85e" Title="NamedPipeQueueConsumer Properties" Url="html/Properties_T_Rock_Messaging_NamedPipes_NamedPipeQueueConsumer.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Messaging_NamedPipes_NamedPipeQueueConsumer_Name.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="da3fce25-baec-4cbe-b40c-8a2d3a6faed9" Title="NamedPipeQueueConsumer Events" Url="html/Events_T_Rock_Messaging_NamedPipes_NamedPipeQueueConsumer.htm">
+          <HelpTOCNode Title="MessageReceived Event" Url="html/E_Rock_Messaging_NamedPipes_NamedPipeQueueConsumer_MessageReceived.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b5cf7728-7320-4c97-a3aa-ba537c9aff9b" Title="NamedPipeQueueProducer Class" Url="html/T_Rock_Messaging_NamedPipes_NamedPipeQueueProducer.htm">
+        <HelpTOCNode Title="NamedPipeQueueProducer Constructor " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeQueueProducer__ctor.htm" />
+        <HelpTOCNode Id="5525482c-3afd-4dae-b38d-1bed1fbb7319" Title="NamedPipeQueueProducer Methods" Url="html/Methods_T_Rock_Messaging_NamedPipes_NamedPipeQueueProducer.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeQueueProducer_Dispose.htm" />
+          <HelpTOCNode Title="Send Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeQueueProducer_Send.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ea3f7057-d51c-4606-a06c-60dbadeb26fe" Title="NamedPipeQueueProducer Properties" Url="html/Properties_T_Rock_Messaging_NamedPipes_NamedPipeQueueProducer.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Messaging_NamedPipes_NamedPipeQueueProducer_Name.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0cf6db14-3e66-43c3-9859-c65037fb3030" Title="NamedPipeReceiverMessage Class" Url="html/T_Rock_Messaging_NamedPipes_NamedPipeReceiverMessage.htm">
+        <HelpTOCNode Id="8dc383b5-6cb8-42e9-9324-0cafedddeae5" Title="NamedPipeReceiverMessage Methods" Url="html/Methods_T_Rock_Messaging_NamedPipes_NamedPipeReceiverMessage.htm">
+          <HelpTOCNode Title="Acknowledge Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeReceiverMessage_Acknowledge.htm" />
+          <HelpTOCNode Title="GetBinaryValue Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeReceiverMessage_GetBinaryValue.htm" />
+          <HelpTOCNode Title="GetHeaderValue Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeReceiverMessage_GetHeaderValue.htm" />
+          <HelpTOCNode Title="GetStringValue Method " Url="html/M_Rock_Messaging_NamedPipes_NamedPipeReceiverMessage_GetStringValue.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5a255193-845b-43a1-aa1d-78ebc684c404" Title="SimpleNamedPipeConfig Class" Url="html/T_Rock_Messaging_NamedPipes_SimpleNamedPipeConfig.htm">
+        <HelpTOCNode Title="SimpleNamedPipeConfig Constructor " Url="html/M_Rock_Messaging_NamedPipes_SimpleNamedPipeConfig__ctor.htm" />
+        <HelpTOCNode Title="SimpleNamedPipeConfig Methods" Url="html/Methods_T_Rock_Messaging_NamedPipes_SimpleNamedPipeConfig.htm" />
+        <HelpTOCNode Id="3721d442-15cf-4098-9087-f14d34d4c410" Title="SimpleNamedPipeConfig Properties" Url="html/Properties_T_Rock_Messaging_NamedPipes_SimpleNamedPipeConfig.htm">
+          <HelpTOCNode Title="PipeName Property " Url="html/P_Rock_Messaging_NamedPipes_SimpleNamedPipeConfig_PipeName.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="10fb4ae7-ce70-4b0b-8960-5ac5981e9b18" Title="SimpleNamedPipeConfigProvider Class" Url="html/T_Rock_Messaging_NamedPipes_SimpleNamedPipeConfigProvider.htm">
+        <HelpTOCNode Title="SimpleNamedPipeConfigProvider Constructor " Url="html/M_Rock_Messaging_NamedPipes_SimpleNamedPipeConfigProvider__ctor.htm" />
+        <HelpTOCNode Id="aa4860e7-4399-4ba0-8001-46be44598c36" Title="SimpleNamedPipeConfigProvider Methods" Url="html/Methods_T_Rock_Messaging_NamedPipes_SimpleNamedPipeConfigProvider.htm">
+          <HelpTOCNode Title="GetConfig Method " Url="html/M_Rock_Messaging_NamedPipes_SimpleNamedPipeConfigProvider_GetConfig.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ec587509-14a2-4b99-8b59-040b6dc6b03d" Title="Rock.Messaging.Routing" Url="html/N_Rock_Messaging_Routing.htm">
+      <HelpTOCNode Id="ead1ba2d-8f7c-4e6e-bc7b-935b8d5e1cce" Title="AppDomainTypeLocator Class" Url="html/T_Rock_Messaging_Routing_AppDomainTypeLocator.htm">
+        <HelpTOCNode Title="AppDomainTypeLocator Constructor " Url="html/M_Rock_Messaging_Routing_AppDomainTypeLocator__ctor.htm" />
+        <HelpTOCNode Id="0ab234a8-0bea-4321-859e-31dfcd248d52" Title="AppDomainTypeLocator Methods" Url="html/Methods_T_Rock_Messaging_Routing_AppDomainTypeLocator.htm">
+          <HelpTOCNode Title="GetMessageHandlerType Method " Url="html/M_Rock_Messaging_Routing_AppDomainTypeLocator_GetMessageHandlerType.htm" />
+          <HelpTOCNode Title="GetMessageType Method " Url="html/M_Rock_Messaging_Routing_AppDomainTypeLocator_GetMessageType.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f19fe3ae-cff0-49d4-9eb9-75440702c8d0" Title="DefaultMessageParser Class" Url="html/T_Rock_Messaging_Routing_DefaultMessageParser.htm">
+        <HelpTOCNode Id="d4a73c6c-70b0-4512-ba11-ed650205cc5c" Title="DefaultMessageParser Methods" Url="html/Methods_T_Rock_Messaging_Routing_DefaultMessageParser.htm">
+          <HelpTOCNode Title="SetCurrent Method " Url="html/M_Rock_Messaging_Routing_DefaultMessageParser_SetCurrent.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="45dec990-a7da-4a9d-b709-812d0837c62e" Title="DefaultMessageParser Properties" Url="html/Properties_T_Rock_Messaging_Routing_DefaultMessageParser.htm">
+          <HelpTOCNode Title="Current Property " Url="html/P_Rock_Messaging_Routing_DefaultMessageParser_Current.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="226664ca-5a40-40c3-9c88-e096b6faadbd" Title="DefaultTypeLocator Class" Url="html/T_Rock_Messaging_Routing_DefaultTypeLocator.htm">
+        <HelpTOCNode Id="34d5b9de-a330-41d3-8313-d317ca333708" Title="DefaultTypeLocator Methods" Url="html/Methods_T_Rock_Messaging_Routing_DefaultTypeLocator.htm">
+          <HelpTOCNode Title="SetCurrent Method " Url="html/M_Rock_Messaging_Routing_DefaultTypeLocator_SetCurrent.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fee8ba67-2335-41f4-a635-4c1789fa372f" Title="DefaultTypeLocator Properties" Url="html/Properties_T_Rock_Messaging_Routing_DefaultTypeLocator.htm">
+          <HelpTOCNode Title="Current Property " Url="html/P_Rock_Messaging_Routing_DefaultTypeLocator_Current.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ce851983-a953-4c33-a2af-0e5e0a62f18b" Title="IMessageHandler(TMessage) Interface" Url="html/T_Rock_Messaging_Routing_IMessageHandler_1.htm">
+        <HelpTOCNode Id="175f022e-ee7d-4005-b93e-ec6c6fb7b53c" Title="IMessageHandler(TMessage) Methods" Url="html/Methods_T_Rock_Messaging_Routing_IMessageHandler_1.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Rock_Messaging_Routing_IMessageHandler_1_Handle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="52e71198-39c4-4a88-82a6-f784122dff1d" Title="IMessageParser Interface" Url="html/T_Rock_Messaging_Routing_IMessageParser.htm">
+        <HelpTOCNode Id="842a2bbc-5350-4193-88ea-c241a49590a4" Title="IMessageParser Methods" Url="html/Methods_T_Rock_Messaging_Routing_IMessageParser.htm">
+          <HelpTOCNode Title="DeserializeMessage(TMessage) Method " Url="html/M_Rock_Messaging_Routing_IMessageParser_DeserializeMessage__1.htm" />
+          <HelpTOCNode Id="72827287-bbe9-41ec-850d-333233ba01bf" Title="GetTypeName Method " Url="html/Overload_Rock_Messaging_Routing_IMessageParser_GetTypeName.htm">
+            <HelpTOCNode Title="GetTypeName Method (String)" Url="html/M_Rock_Messaging_Routing_IMessageParser_GetTypeName.htm" />
+            <HelpTOCNode Title="GetTypeName Method (Type)" Url="html/M_Rock_Messaging_Routing_IMessageParser_GetTypeName_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0e5b6f40-f0c0-4aba-bbb8-ce589f23ed60" Title="IMessageRouter Interface" Url="html/T_Rock_Messaging_Routing_IMessageRouter.htm">
+        <HelpTOCNode Id="cc721def-0c5a-4635-9e99-9d92c5cd22b3" Title="IMessageRouter Methods" Url="html/Methods_T_Rock_Messaging_Routing_IMessageRouter.htm">
+          <HelpTOCNode Title="Route Method " Url="html/M_Rock_Messaging_Routing_IMessageRouter_Route.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fe6f4f1b-49d7-4483-ad75-a6f42d3c0185" Title="ITypeLocator Interface" Url="html/T_Rock_Messaging_Routing_ITypeLocator.htm">
+        <HelpTOCNode Id="af7714e0-466c-4a18-b6a7-5392bfad0b10" Title="ITypeLocator Methods" Url="html/Methods_T_Rock_Messaging_Routing_ITypeLocator.htm">
+          <HelpTOCNode Title="GetMessageHandlerType Method " Url="html/M_Rock_Messaging_Routing_ITypeLocator_GetMessageHandlerType.htm" />
+          <HelpTOCNode Title="GetMessageType Method " Url="html/M_Rock_Messaging_Routing_ITypeLocator_GetMessageType.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e1ce5e18-51d8-4ff8-ba86-65131f15f395" Title="MessageRouter Class" Url="html/T_Rock_Messaging_Routing_MessageRouter.htm">
+        <HelpTOCNode Id="d2282808-7481-4eae-8fb4-a1f0974da7d9" Title="MessageRouter Constructor " Url="html/Overload_Rock_Messaging_Routing_MessageRouter__ctor.htm">
+          <HelpTOCNode Title="MessageRouter Constructor " Url="html/M_Rock_Messaging_Routing_MessageRouter__ctor.htm" />
+          <HelpTOCNode Title="MessageRouter Constructor (IMessageParser, ITypeLocator, IResolver)" Url="html/M_Rock_Messaging_Routing_MessageRouter__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="03097fb2-5d51-476d-b2b2-dbd845519b46" Title="MessageRouter Methods" Url="html/Methods_T_Rock_Messaging_Routing_MessageRouter.htm">
+          <HelpTOCNode Title="Route Method " Url="html/M_Rock_Messaging_Routing_MessageRouter_Route.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c8b9aa86-7e72-4ae9-8755-172e47a3471c" Title="RouteResult Class" Url="html/T_Rock_Messaging_Routing_RouteResult.htm">
+        <HelpTOCNode Id="71b7e06d-cc30-43fd-ab33-3c17caf3a05f" Title="RouteResult Constructor " Url="html/Overload_Rock_Messaging_Routing_RouteResult__ctor.htm">
+          <HelpTOCNode Title="RouteResult Constructor (Exception)" Url="html/M_Rock_Messaging_Routing_RouteResult__ctor.htm" />
+          <HelpTOCNode Title="RouteResult Constructor (Object, Object)" Url="html/M_Rock_Messaging_Routing_RouteResult__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RouteResult Methods" Url="html/Methods_T_Rock_Messaging_Routing_RouteResult.htm" />
+        <HelpTOCNode Id="7dfc5ef7-dc61-4381-a8b8-d9a1d1cc0934" Title="RouteResult Properties" Url="html/Properties_T_Rock_Messaging_Routing_RouteResult.htm">
+          <HelpTOCNode Title="Exception Property " Url="html/P_Rock_Messaging_Routing_RouteResult_Exception.htm" />
+          <HelpTOCNode Title="Message Property " Url="html/P_Rock_Messaging_Routing_RouteResult_Message.htm" />
+          <HelpTOCNode Title="Result Property " Url="html/P_Rock_Messaging_Routing_RouteResult_Result.htm" />
+          <HelpTOCNode Title="Success Property " Url="html/P_Rock_Messaging_Routing_RouteResult_Success.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d3125f6b-695d-4d60-bd99-767942c0703e" Title="XmlMessageParser Class" Url="html/T_Rock_Messaging_Routing_XmlMessageParser.htm">
+        <HelpTOCNode Title="XmlMessageParser Constructor " Url="html/M_Rock_Messaging_Routing_XmlMessageParser__ctor.htm" />
+        <HelpTOCNode Id="e156bcbf-2977-4e27-bedd-56bb2b76e5ec" Title="XmlMessageParser Methods" Url="html/Methods_T_Rock_Messaging_Routing_XmlMessageParser.htm">
+          <HelpTOCNode Title="DeregisterXmlRoot Method " Url="html/M_Rock_Messaging_Routing_XmlMessageParser_DeregisterXmlRoot.htm" />
+          <HelpTOCNode Title="DeserializeMessage(TMessage) Method " Url="html/M_Rock_Messaging_Routing_XmlMessageParser_DeserializeMessage__1.htm" />
+          <HelpTOCNode Id="36ef60c2-4923-4db5-a150-65733980df2a" Title="GetTypeName Method " Url="html/Overload_Rock_Messaging_Routing_XmlMessageParser_GetTypeName.htm">
+            <HelpTOCNode Title="GetTypeName Method (String)" Url="html/M_Rock_Messaging_Routing_XmlMessageParser_GetTypeName.htm" />
+            <HelpTOCNode Title="GetTypeName Method (Type)" Url="html/M_Rock_Messaging_Routing_XmlMessageParser_GetTypeName_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="RegisterXmlRoot Method " Url="html/M_Rock_Messaging_Routing_XmlMessageParser_RegisterXmlRoot.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
