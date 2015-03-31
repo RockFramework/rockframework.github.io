@@ -129,7 +129,7 @@ p {
   color: #fff
 }
 
-a:hover, a:focus {text-decoration: underline;}
+a:hover, a:focus {text-decoration: none;}
 
 em {
   font-style: italic;
@@ -245,6 +245,10 @@ hr {
   margin-bottom: 5px;
   border: none;
   background: url('../images/bg_hr.png') repeat-x center;
+}
+
+a {
+	text-decoration: none;
 }
 
 table {

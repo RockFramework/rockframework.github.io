@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="17b36353-1601-4183-825f-56a9de687c18" Title="Rock.Logging" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="9df5ba57-407a-42d4-9a28-5c52e02f86a6" Title="Rock.Logging" Url="html/N_Rock_Logging.htm">
+      <HelpTOCNode Id="9b98e785-9d2f-4909-b469-557491ce81a4" Title="AddCallerInfoExtension Class" Url="html/T_Rock_Logging_AddCallerInfoExtension.htm">
+        <HelpTOCNode Id="34e67a01-4d86-4a2e-b792-857f18abd5b3" Title="AddCallerInfoExtension Methods" Url="html/Methods_T_Rock_Logging_AddCallerInfoExtension.htm">
+          <HelpTOCNode Title="AddCallerInfo Method " Url="html/M_Rock_Logging_AddCallerInfoExtension_AddCallerInfo.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5d79191b-9111-49e6-bbfd-86294f60f3cd" Title="ConsoleLogProvider Class" Url="html/T_Rock_Logging_ConsoleLogProvider.htm">
+        <HelpTOCNode Id="502d2a6f-6fc0-4963-9b51-121541847ab0" Title="ConsoleLogProvider Constructor " Url="html/Overload_Rock_Logging_ConsoleLogProvider__ctor.htm">
+          <HelpTOCNode Title="ConsoleLogProvider Constructor " Url="html/M_Rock_Logging_ConsoleLogProvider__ctor.htm" />
+          <HelpTOCNode Title="ConsoleLogProvider Constructor (ILogFormatter)" Url="html/M_Rock_Logging_ConsoleLogProvider__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="774fe1c6-a4fa-4e15-b4fc-acc307a4e793" Title="ConsoleLogProvider Methods" Url="html/Methods_T_Rock_Logging_ConsoleLogProvider.htm">
+          <HelpTOCNode Id="232d0b24-70a0-487a-bf02-f26c99f53f91" Title="WriteAsync Method " Url="html/Overload_Rock_Logging_ConsoleLogProvider_WriteAsync.htm">
+            <HelpTOCNode Title="WriteAsync Method (LogEntry, String)" Url="html/M_Rock_Logging_ConsoleLogProvider_WriteAsync.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b605ea59-41b4-4ba1-ae0c-0a3b74deac46" Title="ContextProvider(TLogEntry) Class" Url="html/T_Rock_Logging_ContextProvider_1.htm">
+        <HelpTOCNode Title="ContextProvider(TLogEntry) Constructor " Url="html/M_Rock_Logging_ContextProvider_1__ctor.htm" />
+        <HelpTOCNode Id="489a3bf2-ed46-4adc-83c9-9f60df64dd14" Title="ContextProvider(TLogEntry) Methods" Url="html/Methods_T_Rock_Logging_ContextProvider_1.htm">
+          <HelpTOCNode Id="90553cb1-3bbc-437a-9d74-2abc31720489" Title="AddContextData Method " Url="html/Overload_Rock_Logging_ContextProvider_1_AddContextData.htm">
+            <HelpTOCNode Title="AddContextData Method (TLogEntry)" Url="html/M_Rock_Logging_ContextProvider_1_AddContextData_1.htm" />
+            <HelpTOCNode Title="AddContextData Method (LogEntry)" Url="html/M_Rock_Logging_ContextProvider_1_AddContextData.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8cbdf9fc-bee2-4834-b1fe-59854e5be156" Title="EmailLogProvider Class" Url="html/T_Rock_Logging_EmailLogProvider.htm">
+        <HelpTOCNode Id="e6e14b75-6589-4371-9394-70acba05a694" Title="EmailLogProvider Constructor " Url="html/Overload_Rock_Logging_EmailLogProvider__ctor.htm">
+          <HelpTOCNode Title="EmailLogProvider Constructor " Url="html/M_Rock_Logging_EmailLogProvider__ctor.htm" />
+          <HelpTOCNode Title="EmailLogProvider Constructor (DeliveryMethod, ILogFormatter)" Url="html/M_Rock_Logging_EmailLogProvider__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="60cfa723-0004-449e-adfc-c88103ad0e86" Title="EmailLogProvider Methods" Url="html/Methods_T_Rock_Logging_EmailLogProvider.htm">
+          <HelpTOCNode Id="a92d2fb3-b598-4a92-9b61-53558096642c" Title="WriteAsync Method " Url="html/Overload_Rock_Logging_EmailLogProvider_WriteAsync.htm">
+            <HelpTOCNode Title="WriteAsync Method (LogEntry, String)" Url="html/M_Rock_Logging_EmailLogProvider_WriteAsync.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="6a867343-4bcc-4016-afba-6a205b3aad15" Title="EmailLogProvider Properties" Url="html/Properties_T_Rock_Logging_EmailLogProvider.htm">
+          <HelpTOCNode Title="FromEmail Property " Url="html/P_Rock_Logging_EmailLogProvider_FromEmail.htm" />
+          <HelpTOCNode Title="Subject Property " Url="html/P_Rock_Logging_EmailLogProvider_Subject.htm" />
+          <HelpTOCNode Title="ToEmail Property " Url="html/P_Rock_Logging_EmailLogProvider_ToEmail.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d1c6c2ce-616c-4bc6-9c42-4812beff90ba" Title="FileLogProvider Class" Url="html/T_Rock_Logging_FileLogProvider.htm">
+        <HelpTOCNode Id="f251af62-b84e-4ab5-ad1b-8ef07a97928e" Title="FileLogProvider Constructor " Url="html/Overload_Rock_Logging_FileLogProvider__ctor.htm">
+          <HelpTOCNode Title="FileLogProvider Constructor " Url="html/M_Rock_Logging_FileLogProvider__ctor.htm" />
+          <HelpTOCNode Title="FileLogProvider Constructor (String, ILogFormatter, IAsyncWaitHandle)" Url="html/M_Rock_Logging_FileLogProvider__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c5145468-d09a-445e-96ca-2ac5d09e21be" Title="FileLogProvider Fields" Url="html/Fields_T_Rock_Logging_FileLogProvider.htm">
+          <HelpTOCNode Title="_file Field" Url="html/F_Rock_Logging_FileLogProvider__file.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e30005bf-7131-41fd-8a29-5171262a8312" Title="FileLogProvider Methods" Url="html/Methods_T_Rock_Logging_FileLogProvider.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Rock_Logging_FileLogProvider_Dispose.htm" />
+          <HelpTOCNode Title="OnPostWriteAsync Method " Url="html/M_Rock_Logging_FileLogProvider_OnPostWriteAsync.htm" />
+          <HelpTOCNode Title="OnPreWriteAsync Method " Url="html/M_Rock_Logging_FileLogProvider_OnPreWriteAsync.htm" />
+          <HelpTOCNode Id="399c14ba-d6a4-4287-b32c-ea1e8534369e" Title="WriteAsync Method " Url="html/Overload_Rock_Logging_FileLogProvider_WriteAsync.htm">
+            <HelpTOCNode Title="WriteAsync Method (LogEntry, String)" Url="html/M_Rock_Logging_FileLogProvider_WriteAsync.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3b38f3c4-7e80-4976-ba07-e0a04696a461" Title="FormattableLogProvider Class" Url="html/T_Rock_Logging_FormattableLogProvider.htm">
+        <HelpTOCNode Title="FormattableLogProvider Constructor " Url="html/M_Rock_Logging_FormattableLogProvider__ctor.htm" />
+        <HelpTOCNode Id="ab2d6fc7-4975-4e1a-ba49-5b5c15a3692b" Title="FormattableLogProvider Fields" Url="html/Fields_T_Rock_Logging_FormattableLogProvider.htm">
+          <HelpTOCNode Title="_completedTask Field" Url="html/F_Rock_Logging_FormattableLogProvider__completedTask.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="35b72d26-7669-4210-9f15-9f0e28e1f526" Title="FormattableLogProvider Methods" Url="html/Methods_T_Rock_Logging_FormattableLogProvider.htm">
+          <HelpTOCNode Id="964d1e7e-436a-4d9d-94e8-2214301db8f7" Title="WriteAsync Method " Url="html/Overload_Rock_Logging_FormattableLogProvider_WriteAsync.htm">
+            <HelpTOCNode Title="WriteAsync Method (LogEntry)" Url="html/M_Rock_Logging_FormattableLogProvider_WriteAsync.htm" />
+            <HelpTOCNode Title="WriteAsync Method (LogEntry, String)" Url="html/M_Rock_Logging_FormattableLogProvider_WriteAsync_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c863cda9-132a-4b6e-862c-4953f543d785" Title="HttpEndpointLogProvider Class" Url="html/T_Rock_Logging_HttpEndpointLogProvider.htm">
+        <HelpTOCNode Title="HttpEndpointLogProvider Constructor " Url="html/M_Rock_Logging_HttpEndpointLogProvider__ctor.htm" />
+        <HelpTOCNode Id="f66cfa2f-f6c6-4d2a-9b31-6ac793dcd601" Title="HttpEndpointLogProvider Methods" Url="html/Methods_T_Rock_Logging_HttpEndpointLogProvider.htm">
+          <HelpTOCNode Title="OnResponseReceived Method " Url="html/M_Rock_Logging_HttpEndpointLogProvider_OnResponseReceived.htm" />
+          <HelpTOCNode Title="WriteAsync Method " Url="html/M_Rock_Logging_HttpEndpointLogProvider_WriteAsync.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ce0d1bc0-d969-4c8a-8bc6-21b89beb9cb4" Title="HttpEndpointLogProvider Events" Url="html/Events_T_Rock_Logging_HttpEndpointLogProvider.htm">
+          <HelpTOCNode Title="ResponseReceived Event" Url="html/E_Rock_Logging_HttpEndpointLogProvider_ResponseReceived.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cea42dd1-fc4e-4bfe-8957-7d4f054ca326" Title="IAsyncWaitHandle Interface" Url="html/T_Rock_Logging_IAsyncWaitHandle.htm">
+        <HelpTOCNode Id="e08d3484-3cb1-449f-bb21-bfc0d6b88ac7" Title="IAsyncWaitHandle Methods" Url="html/Methods_T_Rock_Logging_IAsyncWaitHandle.htm">
+          <HelpTOCNode Title="Release Method " Url="html/M_Rock_Logging_IAsyncWaitHandle_Release.htm" />
+          <HelpTOCNode Title="WaitAsync Method " Url="html/M_Rock_Logging_IAsyncWaitHandle_WaitAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f9ef7408-eb0b-4bb3-a544-0222fefd37ba" Title="IContextProvider Interface" Url="html/T_Rock_Logging_IContextProvider.htm">
+        <HelpTOCNode Id="70d9de14-5e3e-4850-a468-099232c6730d" Title="IContextProvider Methods" Url="html/Methods_T_Rock_Logging_IContextProvider.htm">
+          <HelpTOCNode Title="AddContextData Method " Url="html/M_Rock_Logging_IContextProvider_AddContextData.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9e3aaf6b-2a5f-4ab9-8679-1326e6f6bc1f" Title="ILogEntryFactory Interface" Url="html/T_Rock_Logging_ILogEntryFactory.htm">
+        <HelpTOCNode Id="d6e7efba-1ae2-48f5-aca7-cbe73abc16b9" Title="ILogEntryFactory Methods" Url="html/Methods_T_Rock_Logging_ILogEntryFactory.htm">
+          <HelpTOCNode Title="CreateLogEntry Method " Url="html/M_Rock_Logging_ILogEntryFactory_CreateLogEntry.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7fa49a19-e3be-466f-873c-73cfa8b44d61" Title="ILogFormatter Interface" Url="html/T_Rock_Logging_ILogFormatter.htm">
+        <HelpTOCNode Id="b6c1b28d-3098-4e16-b9e4-d770ef629316" Title="ILogFormatter Methods" Url="html/Methods_T_Rock_Logging_ILogFormatter.htm">
+          <HelpTOCNode Title="Format Method " Url="html/M_Rock_Logging_ILogFormatter_Format.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e5233c5e-fb7e-470b-ad71-d772ca1ecfb8" Title="ILogger Interface" Url="html/T_Rock_Logging_ILogger.htm">
+        <HelpTOCNode Id="b7226c63-fbca-48ae-b4ca-550f223d2283" Title="ILogger Methods" Url="html/Methods_T_Rock_Logging_ILogger.htm">
+          <HelpTOCNode Title="IsEnabled Method " Url="html/M_Rock_Logging_ILogger_IsEnabled.htm" />
+          <HelpTOCNode Title="LogAsync Method " Url="html/M_Rock_Logging_ILogger_LogAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0574afbf-16d2-4ef6-ba59-03e3dec825c2" Title="ILoggerConfiguration Interface" Url="html/T_Rock_Logging_ILoggerConfiguration.htm">
+        <HelpTOCNode Id="2f04e292-9409-4472-9ecc-8107587dc3bb" Title="ILoggerConfiguration Properties" Url="html/Properties_T_Rock_Logging_ILoggerConfiguration.htm">
+          <HelpTOCNode Title="IsLoggingEnabled Property " Url="html/P_Rock_Logging_ILoggerConfiguration_IsLoggingEnabled.htm" />
+          <HelpTOCNode Title="LoggingLevel Property " Url="html/P_Rock_Logging_ILoggerConfiguration_LoggingLevel.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b7380b8f-056a-4f5f-89cf-768819ee68c3" Title="ILoggerFactory Interface" Url="html/T_Rock_Logging_ILoggerFactory.htm">
+        <HelpTOCNode Id="a49cb69f-6480-44c0-8df9-4064d36973f8" Title="ILoggerFactory Methods" Url="html/Methods_T_Rock_Logging_ILoggerFactory.htm">
+          <HelpTOCNode Title="Get(TLogger) Method " Url="html/M_Rock_Logging_ILoggerFactory_Get__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="41be7461-0f30-459e-92df-9f4d58edc6c1" Title="ILogProvider Interface" Url="html/T_Rock_Logging_ILogProvider.htm">
+        <HelpTOCNode Id="bab42c8f-eace-408a-9be5-c03715410ba0" Title="ILogProvider Methods" Url="html/Methods_T_Rock_Logging_ILogProvider.htm">
+          <HelpTOCNode Title="WriteAsync Method " Url="html/M_Rock_Logging_ILogProvider_WriteAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="aed8ad96-4102-4e2b-9320-e9fec6364ccc" Title="IThrottlingRuleEvaluator Interface" Url="html/T_Rock_Logging_IThrottlingRuleEvaluator.htm">
+        <HelpTOCNode Id="3199b4b3-d614-4267-980f-2a2c3193e1bb" Title="IThrottlingRuleEvaluator Methods" Url="html/Methods_T_Rock_Logging_IThrottlingRuleEvaluator.htm">
+          <HelpTOCNode Title="ShouldLog Method " Url="html/M_Rock_Logging_IThrottlingRuleEvaluator_ShouldLog.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="42e5a138-f5d7-4935-b214-e7a918bfa61e" Title="LogEntry Class" Url="html/T_Rock_Logging_LogEntry.htm">
+        <HelpTOCNode Id="31540c67-627d-4c48-8b91-6422300171dc" Title="LogEntry Constructor " Url="html/Overload_Rock_Logging_LogEntry__ctor.htm">
+          <HelpTOCNode Title="LogEntry Constructor " Url="html/M_Rock_Logging_LogEntry__ctor.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String)" Url="html/M_Rock_Logging_LogEntry__ctor_1.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String, IDictionary(String, String))" Url="html/M_Rock_Logging_LogEntry__ctor_2.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String, Object)" Url="html/M_Rock_Logging_LogEntry__ctor_5.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String, Exception, String)" Url="html/M_Rock_Logging_LogEntry__ctor_4.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String, IDictionary(String, String), Exception, String)" Url="html/M_Rock_Logging_LogEntry__ctor_3.htm" />
+          <HelpTOCNode Title="LogEntry Constructor (String, Object, Exception, String)" Url="html/M_Rock_Logging_LogEntry__ctor_6.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="186c9bad-691f-48de-87fe-fc98932d967d" Title="LogEntry Fields" Url="html/Fields_T_Rock_Logging_LogEntry.htm">
+          <HelpTOCNode Title="XmlNamespace Field" Url="html/F_Rock_Logging_LogEntry_XmlNamespace.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="45a9ed54-9969-4d21-99ba-446c68393419" Title="LogEntry Methods" Url="html/Methods_T_Rock_Logging_LogEntry.htm">
+          <HelpTOCNode Title="GetThrottlingHashCode Method " Url="html/M_Rock_Logging_LogEntry_GetThrottlingHashCode.htm" />
+          <HelpTOCNode Title="SetException Method " Url="html/M_Rock_Logging_LogEntry_SetException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="539d89d2-2849-483b-b948-70f16ca845e9" Title="LogEntry Properties" Url="html/Properties_T_Rock_Logging_LogEntry.htm">
+          <HelpTOCNode Title="ApplicationId Property " Url="html/P_Rock_Logging_LogEntry_ApplicationId.htm" />
+          <HelpTOCNode Title="ApplicationUserId Property " Url="html/P_Rock_Logging_LogEntry_ApplicationUserId.htm" />
+          <HelpTOCNode Title="CreateTime Property " Url="html/P_Rock_Logging_LogEntry_CreateTime.htm" />
+          <HelpTOCNode Title="Environment Property " Url="html/P_Rock_Logging_LogEntry_Environment.htm" />
+          <HelpTOCNode Title="ExceptionContext Property " Url="html/P_Rock_Logging_LogEntry_ExceptionContext.htm" />
+          <HelpTOCNode Title="ExceptionDetails Property " Url="html/P_Rock_Logging_LogEntry_ExceptionDetails.htm" />
+          <HelpTOCNode Title="ExceptionType Property " Url="html/P_Rock_Logging_LogEntry_ExceptionType.htm" />
+          <HelpTOCNode Title="ExtendedProperties Property " Url="html/P_Rock_Logging_LogEntry_ExtendedProperties.htm" />
+          <HelpTOCNode Title="Level Property " Url="html/P_Rock_Logging_LogEntry_Level.htm" />
+          <HelpTOCNode Title="MachineName Property " Url="html/P_Rock_Logging_LogEntry_MachineName.htm" />
+          <HelpTOCNode Title="Message Property " Url="html/P_Rock_Logging_LogEntry_Message.htm" />
+          <HelpTOCNode Title="UniqueId Property " Url="html/P_Rock_Logging_LogEntry_UniqueId.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="56146895-a281-4d55-83d8-82ad97bba9e2" Title="LogEntryExtendedProperties Class" Url="html/T_Rock_Logging_LogEntryExtendedProperties.htm">
+        <HelpTOCNode Id="8234d839-e188-4106-9f6f-b0236ca925d9" Title="LogEntryExtendedProperties Constructor " Url="html/Overload_Rock_Logging_LogEntryExtendedProperties__ctor.htm">
+          <HelpTOCNode Title="LogEntryExtendedProperties Constructor " Url="html/M_Rock_Logging_LogEntryExtendedProperties__ctor.htm" />
+          <HelpTOCNode Title="LogEntryExtendedProperties Constructor (IEnumerable(KeyValuePair(String, String)))" Url="html/M_Rock_Logging_LogEntryExtendedProperties__ctor_1.htm" />
+          <HelpTOCNode Title="LogEntryExtendedProperties Constructor (SerializationInfo, StreamingContext)" Url="html/M_Rock_Logging_LogEntryExtendedProperties__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b3a20294-aa17-4709-9c02-1f723243f5ef" Title="LogEntryExtendedProperties Methods" Url="html/Methods_T_Rock_Logging_LogEntryExtendedProperties.htm">
+          <HelpTOCNode Id="07879644-69b0-4e6e-8988-d7e07fa139d3" Title="Add Method " Url="html/Overload_Rock_Logging_LogEntryExtendedProperties_Add.htm">
+            <HelpTOCNode Title="Add Method (String, Object)" Url="html/M_Rock_Logging_LogEntryExtendedProperties_Add.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Title="LogEntryExtendedProperties Properties" Url="html/Properties_T_Rock_Logging_LogEntryExtendedProperties.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="932ff053-e7aa-4125-9c5b-5888126ba16d" Title="LogEntryFactory Class" Url="html/T_Rock_Logging_LogEntryFactory.htm">
+        <HelpTOCNode Title="LogEntryFactory Constructor " Url="html/M_Rock_Logging_LogEntryFactory__ctor.htm" />
+        <HelpTOCNode Id="0e1faff8-4742-4b9f-9ad9-3ebdeba4e6e3" Title="LogEntryFactory Methods" Url="html/Methods_T_Rock_Logging_LogEntryFactory.htm">
+          <HelpTOCNode Title="CreateLogEntry Method " Url="html/M_Rock_Logging_LogEntryFactory_CreateLogEntry.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2ddffa47-4516-4cc8-89a1-cd16044b0275" Title="Logger Class" Url="html/T_Rock_Logging_Logger.htm">
+        <HelpTOCNode Title="Logger Constructor " Url="html/M_Rock_Logging_Logger__ctor.htm" />
+        <HelpTOCNode Id="a4d99121-bacc-446f-9b1e-d6a5e704b5f3" Title="Logger Methods" Url="html/Methods_T_Rock_Logging_Logger.htm">
+          <HelpTOCNode Title="IsEnabled Method " Url="html/M_Rock_Logging_Logger_IsEnabled.htm" />
+          <HelpTOCNode Title="LogAsync Method " Url="html/M_Rock_Logging_Logger_LogAsync.htm" />
+          <HelpTOCNode Title="OnPreLog Method " Url="html/M_Rock_Logging_Logger_OnPreLog.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e8adced4-fbe2-4285-910b-1556df167406" Title="LoggerConfiguration Class" Url="html/T_Rock_Logging_LoggerConfiguration.htm">
+        <HelpTOCNode Title="LoggerConfiguration Constructor " Url="html/M_Rock_Logging_LoggerConfiguration__ctor.htm" />
+        <HelpTOCNode Title="LoggerConfiguration Methods" Url="html/Methods_T_Rock_Logging_LoggerConfiguration.htm" />
+        <HelpTOCNode Id="544e0ca3-1a82-4694-bd59-fc68ef241a04" Title="LoggerConfiguration Properties" Url="html/Properties_T_Rock_Logging_LoggerConfiguration.htm">
+          <HelpTOCNode Title="IsLoggingEnabled Property " Url="html/P_Rock_Logging_LoggerConfiguration_IsLoggingEnabled.htm" />
+          <HelpTOCNode Title="LoggingLevel Property " Url="html/P_Rock_Logging_LoggerConfiguration_LoggingLevel.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9b0caa1a-921e-4258-89da-7d1b245f9475" Title="LoggerExtensions Class" Url="html/T_Rock_Logging_LoggerExtensions.htm">
+        <HelpTOCNode Id="aab82837-f2b0-47e7-b208-0d61dee195fa" Title="LoggerExtensions Methods" Url="html/Methods_T_Rock_Logging_LoggerExtensions.htm">
+          <HelpTOCNode Title="AsAsync Method " Url="html/M_Rock_Logging_LoggerExtensions_AsAsync.htm" />
+          <HelpTOCNode Title="AsSync Method " Url="html/M_Rock_Logging_LoggerExtensions_AsSync.htm" />
+          <HelpTOCNode Id="7d97d8b1-db63-4e53-a843-1667efcac513" Title="Audit Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Audit.htm">
+            <HelpTOCNode Title="Audit Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Audit.htm" />
+            <HelpTOCNode Title="Audit Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Audit_2.htm" />
+            <HelpTOCNode Title="Audit Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Audit_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="4fdb6f21-0144-48a3-9d2b-92cf0c8800e7" Title="Debug Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Debug.htm">
+            <HelpTOCNode Title="Debug Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Debug.htm" />
+            <HelpTOCNode Title="Debug Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Debug_2.htm" />
+            <HelpTOCNode Title="Debug Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Debug_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="31cd15b7-da48-4015-a1bc-6c90f2048e99" Title="Error Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Error.htm">
+            <HelpTOCNode Title="Error Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Error.htm" />
+            <HelpTOCNode Title="Error Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Error_2.htm" />
+            <HelpTOCNode Title="Error Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Error_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="6af05905-adab-4acf-9995-3efde781f30c" Title="Fatal Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Fatal.htm">
+            <HelpTOCNode Title="Fatal Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Fatal.htm" />
+            <HelpTOCNode Title="Fatal Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Fatal_2.htm" />
+            <HelpTOCNode Title="Fatal Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Fatal_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetExceptionHandler Method " Url="html/M_Rock_Logging_LoggerExtensions_GetExceptionHandler.htm" />
+          <HelpTOCNode Id="837e2661-cd04-4916-8bbb-510a1ad93171" Title="Info Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Info.htm">
+            <HelpTOCNode Title="Info Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Info.htm" />
+            <HelpTOCNode Title="Info Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Info_2.htm" />
+            <HelpTOCNode Title="Info Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Info_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="IsAuditEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsAuditEnabled.htm" />
+          <HelpTOCNode Title="IsDebugEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsDebugEnabled.htm" />
+          <HelpTOCNode Title="IsErrorEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsErrorEnabled.htm" />
+          <HelpTOCNode Title="IsFatalEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsFatalEnabled.htm" />
+          <HelpTOCNode Title="IsInfoEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsInfoEnabled.htm" />
+          <HelpTOCNode Title="IsWarnEnabled Method " Url="html/M_Rock_Logging_LoggerExtensions_IsWarnEnabled.htm" />
+          <HelpTOCNode Id="a400334b-85ff-478e-98b0-4c49a98d0cce" Title="Log Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Log.htm">
+            <HelpTOCNode Title="Log Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Log.htm" />
+            <HelpTOCNode Title="Log Method (ILogger, LogLevel, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Log_2.htm" />
+            <HelpTOCNode Title="Log Method (ILogger, LogLevel, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Log_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="e23e28a8-2964-4e7f-8e21-e5f162c443a7" Title="Warn Method " Url="html/Overload_Rock_Logging_LoggerExtensions_Warn.htm">
+            <HelpTOCNode Title="Warn Method (ILogger, LogEntry, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Warn.htm" />
+            <HelpTOCNode Title="Warn Method (ILogger, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Warn_2.htm" />
+            <HelpTOCNode Title="Warn Method (ILogger, Exception, String, String, String, Int32)" Url="html/M_Rock_Logging_LoggerExtensions_Warn_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="17a6adee-211a-477d-aff4-4317d367b067" Title="LoggerFactory Class" Url="html/T_Rock_Logging_LoggerFactory.htm">
+        <HelpTOCNode Id="0dd6477d-3b90-40b7-9188-44bece026c2f" Title="LoggerFactory Methods" Url="html/Methods_T_Rock_Logging_LoggerFactory.htm">
+          <HelpTOCNode Id="ae927c34-028b-493c-8c4b-0dc8a88c91d3" Title="GetInstance Method " Url="html/Overload_Rock_Logging_LoggerFactory_GetInstance.htm">
+            <HelpTOCNode Title="GetInstance Method (String)" Url="html/M_Rock_Logging_LoggerFactory_GetInstance.htm" />
+            <HelpTOCNode Title="GetInstance(TLogger) Method (String)" Url="html/M_Rock_Logging_LoggerFactory_GetInstance__1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c45fc245-7091-47fb-ad51-9fdb07427ea0" Title="LoggerSectionHandler Class" Url="html/T_Rock_Logging_LoggerSectionHandler.htm">
+        <HelpTOCNode Title="LoggerSectionHandler Constructor " Url="html/M_Rock_Logging_LoggerSectionHandler__ctor.htm" />
+        <HelpTOCNode Title="LoggerSectionHandler Methods" Url="html/Methods_T_Rock_Logging_LoggerSectionHandler.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="LogLevel Enumeration" Url="html/T_Rock_Logging_LogLevel.htm" />
+      <HelpTOCNode Id="9639238e-5fcd-4157-bd76-c85e49b0eaf5" Title="NullLogger Class" Url="html/T_Rock_Logging_NullLogger.htm">
+        <HelpTOCNode Title="NullLogger Constructor " Url="html/M_Rock_Logging_NullLogger__ctor.htm" />
+        <HelpTOCNode Id="742133fc-4955-4a55-991a-e2bb11e737af" Title="NullLogger Methods" Url="html/Methods_T_Rock_Logging_NullLogger.htm">
+          <HelpTOCNode Title="IsEnabled Method " Url="html/M_Rock_Logging_NullLogger_IsEnabled.htm" />
+          <HelpTOCNode Title="LogAsync Method " Url="html/M_Rock_Logging_NullLogger_LogAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5cd798ee-86ff-4b23-8a68-ed23e47f313c" Title="NullThrottlingRuleEvaluator Class" Url="html/T_Rock_Logging_NullThrottlingRuleEvaluator.htm">
+        <HelpTOCNode Title="NullThrottlingRuleEvaluator Constructor " Url="html/M_Rock_Logging_NullThrottlingRuleEvaluator__ctor.htm" />
+        <HelpTOCNode Id="a9fc3f24-de25-4ebd-8d5b-6226c574a7d5" Title="NullThrottlingRuleEvaluator Methods" Url="html/Methods_T_Rock_Logging_NullThrottlingRuleEvaluator.htm">
+          <HelpTOCNode Title="ShouldLog Method " Url="html/M_Rock_Logging_NullThrottlingRuleEvaluator_ShouldLog.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f7c60dbf-5e0d-4015-8b4f-175d97f83295" Title="ResponseReceivedEventArgs Class" Url="html/T_Rock_Logging_ResponseReceivedEventArgs.htm">
+        <HelpTOCNode Title="ResponseReceivedEventArgs Constructor " Url="html/M_Rock_Logging_ResponseReceivedEventArgs__ctor.htm" />
+        <HelpTOCNode Title="ResponseReceivedEventArgs Methods" Url="html/Methods_T_Rock_Logging_ResponseReceivedEventArgs.htm" />
+        <HelpTOCNode Id="1a57f7f6-b8f8-436c-ac15-f921633133a3" Title="ResponseReceivedEventArgs Properties" Url="html/Properties_T_Rock_Logging_ResponseReceivedEventArgs.htm">
+          <HelpTOCNode Title="Response Property " Url="html/P_Rock_Logging_ResponseReceivedEventArgs_Response.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6fa600fd-4ba6-4c17-b391-ee31e910a7e4" Title="RollingFileLogProvider Class" Url="html/T_Rock_Logging_RollingFileLogProvider.htm">
+        <HelpTOCNode Id="3ad85a19-f0f7-4aac-9d71-57b848014a29" Title="RollingFileLogProvider Constructor " Url="html/Overload_Rock_Logging_RollingFileLogProvider__ctor.htm">
+          <HelpTOCNode Title="RollingFileLogProvider Constructor " Url="html/M_Rock_Logging_RollingFileLogProvider__ctor.htm" />
+          <HelpTOCNode Title="RollingFileLogProvider Constructor (String, Int32, Int32, RolloverPeriod, ILogFormatter, IAsyncWaitHandle)" Url="html/M_Rock_Logging_RollingFileLogProvider__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RollingFileLogProvider Fields" Url="html/Fields_T_Rock_Logging_RollingFileLogProvider.htm" />
+        <HelpTOCNode Id="4fd3a3f7-d77c-4052-955b-38b96ac09b57" Title="RollingFileLogProvider Methods" Url="html/Methods_T_Rock_Logging_RollingFileLogProvider.htm">
+          <HelpTOCNode Title="OnPreWriteAsync Method " Url="html/M_Rock_Logging_RollingFileLogProvider_OnPreWriteAsync.htm" />
+          <HelpTOCNode Title="SetTimes Method " Url="html/M_Rock_Logging_RollingFileLogProvider_SetTimes.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="RolloverPeriod Enumeration" Url="html/T_Rock_Logging_RolloverPeriod.htm" />
+      <HelpTOCNode Id="69a58643-1f7f-402f-b454-cfe494840483" Title="SemaphoreSlimAsyncWaitHandle Class" Url="html/T_Rock_Logging_SemaphoreSlimAsyncWaitHandle.htm">
+        <HelpTOCNode Title="SemaphoreSlimAsyncWaitHandle Constructor " Url="html/M_Rock_Logging_SemaphoreSlimAsyncWaitHandle__ctor.htm" />
+        <HelpTOCNode Title="SemaphoreSlimAsyncWaitHandle Methods" Url="html/Methods_T_Rock_Logging_SemaphoreSlimAsyncWaitHandle.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bd3a6e99-6e14-4f3f-bfec-b97061d6d080" Title="SerializingLogFormatter Class" Url="html/T_Rock_Logging_SerializingLogFormatter.htm">
+        <HelpTOCNode Title="SerializingLogFormatter Constructor " Url="html/M_Rock_Logging_SerializingLogFormatter__ctor.htm" />
+        <HelpTOCNode Id="f9c766af-7e72-4731-9576-5efb0568d0e5" Title="SerializingLogFormatter Methods" Url="html/Methods_T_Rock_Logging_SerializingLogFormatter.htm">
+          <HelpTOCNode Title="Format Method " Url="html/M_Rock_Logging_SerializingLogFormatter_Format.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="251c6e11-067c-47f7-9a2a-ee6909b9c507" Title="SimpleLoggerFactory(TLogProvider) Class" Url="html/T_Rock_Logging_SimpleLoggerFactory_1.htm">
+        <HelpTOCNode Id="d6c16a5a-edf3-4f51-b016-16b9d980c16c" Title="SimpleLoggerFactory(TLogProvider) Constructor " Url="html/Overload_Rock_Logging_SimpleLoggerFactory_1__ctor.htm">
+          <HelpTOCNode Title="SimpleLoggerFactory(TLogProvider) Constructor " Url="html/M_Rock_Logging_SimpleLoggerFactory_1__ctor.htm" />
+          <HelpTOCNode Title="SimpleLoggerFactory(TLogProvider) Constructor (LogLevel, IResolver)" Url="html/M_Rock_Logging_SimpleLoggerFactory_1__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="818ccfed-db33-4fa3-bfe6-1469ed3d5238" Title="SimpleLoggerFactory(TLogProvider) Methods" Url="html/Methods_T_Rock_Logging_SimpleLoggerFactory_1.htm">
+          <HelpTOCNode Title="Get(TLogger) Method " Url="html/M_Rock_Logging_SimpleLoggerFactory_1_Get__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7778cef5-1dcc-4fd9-a51d-7c0b5bee2887" Title="TemplateLogFormatter Class" Url="html/T_Rock_Logging_TemplateLogFormatter.htm">
+        <HelpTOCNode Title="TemplateLogFormatter Constructor " Url="html/M_Rock_Logging_TemplateLogFormatter__ctor.htm" />
+        <HelpTOCNode Id="34efd33a-7589-4e4b-a7d1-ad349abcce14" Title="TemplateLogFormatter Methods" Url="html/Methods_T_Rock_Logging_TemplateLogFormatter.htm">
+          <HelpTOCNode Id="50b882d3-b948-400e-b1ba-0d018bcef2f9" Title="AddDateTimeTokenHandler Method " Url="html/Overload_Rock_Logging_TemplateLogFormatter_AddDateTimeTokenHandler.htm">
+            <HelpTOCNode Title="AddDateTimeTokenHandler Method (String, Func(LogEntry, DateTime))" Url="html/M_Rock_Logging_TemplateLogFormatter_AddDateTimeTokenHandler.htm" />
+            <HelpTOCNode Title="AddDateTimeTokenHandler(TLogEntry) Method (String, Func(TLogEntry, DateTime))" Url="html/M_Rock_Logging_TemplateLogFormatter_AddDateTimeTokenHandler__1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="a02d696f-59f3-4931-9908-c4399bc2f631" Title="AddSimpleTokenHandler Method " Url="html/Overload_Rock_Logging_TemplateLogFormatter_AddSimpleTokenHandler.htm">
+            <HelpTOCNode Title="AddSimpleTokenHandler Method (String, Func(LogEntry, String))" Url="html/M_Rock_Logging_TemplateLogFormatter_AddSimpleTokenHandler.htm" />
+            <HelpTOCNode Title="AddSimpleTokenHandler(TLogEntry) Method (String, Func(TLogEntry, String))" Url="html/M_Rock_Logging_TemplateLogFormatter_AddSimpleTokenHandler__1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Format Method " Url="html/M_Rock_Logging_TemplateLogFormatter_Format.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="837c9f8e-5800-4149-851f-3d5460868e3c" Title="ThrottlingRuleEvaluator Class" Url="html/T_Rock_Logging_ThrottlingRuleEvaluator.htm">
+        <HelpTOCNode Title="ThrottlingRuleEvaluator Constructor " Url="html/M_Rock_Logging_ThrottlingRuleEvaluator__ctor.htm" />
+        <HelpTOCNode Id="61a153b5-dd97-4995-beaa-cd3070068795" Title="ThrottlingRuleEvaluator Methods" Url="html/Methods_T_Rock_Logging_ThrottlingRuleEvaluator.htm">
+          <HelpTOCNode Title="ShouldLog Method " Url="html/M_Rock_Logging_ThrottlingRuleEvaluator_ShouldLog.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="660c7a39-e40e-4ca6-9581-ded71880aff2" Title="WithCachingExtension Class" Url="html/T_Rock_Logging_WithCachingExtension.htm">
+        <HelpTOCNode Id="592fdf31-e953-47a3-8fb8-6406a3bc0d46" Title="WithCachingExtension Methods" Url="html/Methods_T_Rock_Logging_WithCachingExtension.htm">
+          <HelpTOCNode Title="WithCaching Method " Url="html/M_Rock_Logging_WithCachingExtension_WithCaching.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cf58c9f1-0d0f-47a9-b833-60914e391af8" Title="Rock.Logging.Configuration" Url="html/N_Rock_Logging_Configuration.htm">
+      <HelpTOCNode Id="b4d0202c-ef64-49cd-84f7-71bc689f1184" Title="Category Class" Url="html/T_Rock_Logging_Configuration_Category.htm">
+        <HelpTOCNode Title="Category Constructor " Url="html/M_Rock_Logging_Configuration_Category__ctor.htm" />
+        <HelpTOCNode Title="Category Methods" Url="html/Methods_T_Rock_Logging_Configuration_Category.htm" />
+        <HelpTOCNode Id="e3f6e8bd-c278-486c-a8ee-97050028cce4" Title="Category Properties" Url="html/Properties_T_Rock_Logging_Configuration_Category.htm">
+          <HelpTOCNode Title="LogProviders Property " Url="html/P_Rock_Logging_Configuration_Category_LogProviders.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Logging_Configuration_Category_Name.htm" />
+          <HelpTOCNode Title="ThrottlingRule Property " Url="html/P_Rock_Logging_Configuration_Category_ThrottlingRule.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0344b517-041a-4368-8be5-f2f4085559c0" Title="ContextProviderProxy Class" Url="html/T_Rock_Logging_Configuration_ContextProviderProxy.htm">
+        <HelpTOCNode Title="ContextProviderProxy Constructor " Url="html/M_Rock_Logging_Configuration_ContextProviderProxy__ctor.htm" />
+        <HelpTOCNode Title="ContextProviderProxy Methods" Url="html/Methods_T_Rock_Logging_Configuration_ContextProviderProxy.htm" />
+        <HelpTOCNode Title="ContextProviderProxy Properties" Url="html/Properties_T_Rock_Logging_Configuration_ContextProviderProxy.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7a712665-f90c-4eed-825f-90bf930c1870" Title="LogFormatterProxy Class" Url="html/T_Rock_Logging_Configuration_LogFormatterProxy.htm">
+        <HelpTOCNode Title="LogFormatterProxy Constructor " Url="html/M_Rock_Logging_Configuration_LogFormatterProxy__ctor.htm" />
+        <HelpTOCNode Title="LogFormatterProxy Methods" Url="html/Methods_T_Rock_Logging_Configuration_LogFormatterProxy.htm" />
+        <HelpTOCNode Id="37482392-89fa-41ce-afe7-3b43fdfe9a32" Title="LogFormatterProxy Properties" Url="html/Properties_T_Rock_Logging_Configuration_LogFormatterProxy.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Logging_Configuration_LogFormatterProxy_Name.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="deaba45b-e408-412b-9fb6-7d3d5dc05794" Title="LogProviderProxy Class" Url="html/T_Rock_Logging_Configuration_LogProviderProxy.htm">
+        <HelpTOCNode Title="LogProviderProxy Constructor " Url="html/M_Rock_Logging_Configuration_LogProviderProxy__ctor.htm" />
+        <HelpTOCNode Id="86035738-1715-4c64-b955-9d3c5c2b5ce0" Title="LogProviderProxy Methods" Url="html/Methods_T_Rock_Logging_Configuration_LogProviderProxy.htm">
+          <HelpTOCNode Id="ae670b89-1845-4632-a734-c63aad2f5e07" Title="CreateInstance Method " Url="html/Overload_Rock_Logging_Configuration_LogProviderProxy_CreateInstance.htm">
+            <HelpTOCNode Title="CreateInstance Method (IKeyedEnumerable`2(String, LogFormatterProxy), IResolver)" Url="html/M_Rock_Logging_Configuration_LogProviderProxy_CreateInstance.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="826d4167-c472-4b22-960d-ca3087537867" Title="LogProviderProxy Properties" Url="html/Properties_T_Rock_Logging_Configuration_LogProviderProxy.htm">
+          <HelpTOCNode Title="Formatter Property " Url="html/P_Rock_Logging_Configuration_LogProviderProxy_Formatter.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b23c8881-ca64-4e83-9054-ebd856622ff2" Title="ThrottlingRuleEvaluatorProxy Class" Url="html/T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm">
+        <HelpTOCNode Title="ThrottlingRuleEvaluatorProxy Constructor " Url="html/M_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy__ctor.htm" />
+        <HelpTOCNode Title="ThrottlingRuleEvaluatorProxy Methods" Url="html/Methods_T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm" />
+        <HelpTOCNode Id="aafd12e9-d2da-41d6-9819-71066fdefe93" Title="ThrottlingRuleEvaluatorProxy Properties" Url="html/Properties_T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy_Name.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ff7a9e18-6ce0-46b5-b679-91e8c4bb64a4" Title="XmlDeserializingLoggerFactory Class" Url="html/T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm">
+        <HelpTOCNode Title="XmlDeserializingLoggerFactory Constructor " Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory__ctor.htm" />
+        <HelpTOCNode Id="8e380c24-c8c4-4e13-ab82-61f6ad78e0dc" Title="XmlDeserializingLoggerFactory Methods" Url="html/Methods_T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm">
+          <HelpTOCNode Title="Get(TLogger) Method " Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Get__1.htm" />
+          <HelpTOCNode Title="SetApplicationInfo Method " Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_SetApplicationInfo.htm" />
+          <HelpTOCNode Title="SetSupplementaryContainer Method " Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_SetSupplementaryContainer.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0569f828-bfb0-4f64-9535-435a119ff204" Title="XmlDeserializingLoggerFactory Properties" Url="html/Properties_T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm">
+          <HelpTOCNode Title="AuditLogProvider Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_AuditLogProvider.htm" />
+          <HelpTOCNode Title="Categories Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Categories.htm" />
+          <HelpTOCNode Title="ContextProviders Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_ContextProviders.htm" />
+          <HelpTOCNode Title="Formatters Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Formatters.htm" />
+          <HelpTOCNode Title="IsLoggingEnabled Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_IsLoggingEnabled.htm" />
+          <HelpTOCNode Title="LoggingLevel Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_LoggingLevel.htm" />
+          <HelpTOCNode Title="ThrottlingRules Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_ThrottlingRules.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1a9d7648-cf79-4321-8947-3edbed4c34ec" Title="Rock.Logging.Defaults.Implementation" Url="html/N_Rock_Logging_Defaults_Implementation.htm">
+      <HelpTOCNode Id="4f525207-f369-4303-8b84-3620b74ae84d" Title="Default Class" Url="html/T_Rock_Logging_Defaults_Implementation_Default.htm">
+        <HelpTOCNode Id="ed8c56ef-b7f8-4168-b996-6c92681a612c" Title="Default Methods" Url="html/Methods_T_Rock_Logging_Defaults_Implementation_Default.htm">
+          <HelpTOCNode Title="RestoreEmailLogFormatter Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreEmailLogFormatter.htm" />
+          <HelpTOCNode Title="RestoreFileLogFormatter Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreFileLogFormatter.htm" />
+          <HelpTOCNode Title="RestoreLogEntryFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreLogEntryFactory.htm" />
+          <HelpTOCNode Title="RestoreLoggerFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreLoggerFactory.htm" />
+          <HelpTOCNode Title="RestoreStepLoggerFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreStepLoggerFactory.htm" />
+          <HelpTOCNode Title="SetEmailLogFormatter Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetEmailLogFormatter.htm" />
+          <HelpTOCNode Title="SetFileLogFormatter Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetFileLogFormatter.htm" />
+          <HelpTOCNode Title="SetLogEntryFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetLogEntryFactory.htm" />
+          <HelpTOCNode Title="SetLoggerFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetLoggerFactory.htm" />
+          <HelpTOCNode Title="SetStepLoggerFactory Method " Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetStepLoggerFactory.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a70bf51c-12bc-48c3-8c69-9840cf205906" Title="Default Properties" Url="html/Properties_T_Rock_Logging_Defaults_Implementation_Default.htm">
+          <HelpTOCNode Title="DefaultEmailLogFormatter Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultEmailLogFormatter.htm" />
+          <HelpTOCNode Title="DefaultFileLogFormatter Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultFileLogFormatter.htm" />
+          <HelpTOCNode Title="DefaultLogEntryFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultLogEntryFactory.htm" />
+          <HelpTOCNode Title="DefaultLoggerFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultLoggerFactory.htm" />
+          <HelpTOCNode Title="DefaultStepLoggerFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultStepLoggerFactory.htm" />
+          <HelpTOCNode Title="EmailLogFormatter Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_EmailLogFormatter.htm" />
+          <HelpTOCNode Title="FileLogFormatter Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_FileLogFormatter.htm" />
+          <HelpTOCNode Title="LogEntryFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_LogEntryFactory.htm" />
+          <HelpTOCNode Title="LoggerFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_LoggerFactory.htm" />
+          <HelpTOCNode Title="StepLoggerFactory Property " Url="html/P_Rock_Logging_Defaults_Implementation_Default_StepLoggerFactory.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="99b93a6f-6451-40e4-a4bf-28662dd7d99d" Title="Rock.Logging.Diagnostics" Url="html/N_Rock_Logging_Diagnostics.htm">
+      <HelpTOCNode Id="2be57bb3-304d-413d-964e-41d7a48a56be" Title="DefaultStepLoggerFactory Class" Url="html/T_Rock_Logging_Diagnostics_DefaultStepLoggerFactory.htm">
+        <HelpTOCNode Title="DefaultStepLoggerFactory Constructor " Url="html/M_Rock_Logging_Diagnostics_DefaultStepLoggerFactory__ctor.htm" />
+        <HelpTOCNode Id="9ebed505-e736-4002-92bc-3201b0ccc83e" Title="DefaultStepLoggerFactory Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_DefaultStepLoggerFactory.htm">
+          <HelpTOCNode Title="CreateStepLogger Method " Url="html/M_Rock_Logging_Diagnostics_DefaultStepLoggerFactory_CreateStepLogger.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1c731a86-4133-4e48-b4c0-2be72b60351f" Title="IStep Interface" Url="html/T_Rock_Logging_Diagnostics_IStep.htm">
+        <HelpTOCNode Id="0ced05e0-0d7d-40ee-80cc-8a7181cd3d7e" Title="IStep Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStep.htm">
+          <HelpTOCNode Title="AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_IStep_AddToReport.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="02dc2712-f3f6-40ac-9fd9-4b43943edf10" Title="IStepLogger Interface" Url="html/T_Rock_Logging_Diagnostics_IStepLogger.htm">
+        <HelpTOCNode Id="b59ceb03-c33b-4693-9213-98fe33132de5" Title="IStepLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStepLogger.htm">
+          <HelpTOCNode Title="AddStep Method " Url="html/M_Rock_Logging_Diagnostics_IStepLogger_AddStep.htm" />
+          <HelpTOCNode Title="Flush Method " Url="html/M_Rock_Logging_Diagnostics_IStepLogger_Flush.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="37787c8d-0d7d-4387-908c-0471b3f1c992" Title="IStepLoggerFactory Interface" Url="html/T_Rock_Logging_Diagnostics_IStepLoggerFactory.htm">
+        <HelpTOCNode Id="eac09d00-df23-456f-98d1-f2b8ebde7c91" Title="IStepLoggerFactory Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStepLoggerFactory.htm">
+          <HelpTOCNode Title="CreateStepLogger Method " Url="html/M_Rock_Logging_Diagnostics_IStepLoggerFactory_CreateStepLogger.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="604fac4f-ab50-40c9-a5b5-5e18c97f90f7" Title="IStopwatchLogger Interface" Url="html/T_Rock_Logging_Diagnostics_IStopwatchLogger.htm">
+        <HelpTOCNode Id="29a5c33b-9d51-4692-b8c6-e31f4aff8d1b" Title="IStopwatchLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStopwatchLogger.htm">
+          <HelpTOCNode Title="RecordElapsed Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_RecordElapsed.htm" />
+          <HelpTOCNode Title="Reset Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Reset.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Stop.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c8520bb2-f3bf-4936-be0a-344b66f692a3" Title="LogValueStep Class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep.htm">
+        <HelpTOCNode Title="LogValueStep Constructor " Url="html/M_Rock_Logging_Diagnostics_LogValueStep__ctor.htm" />
+        <HelpTOCNode Id="2dc94b80-3b68-4fd0-9cb5-b1f741150a2c" Title="LogValueStep Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_LogValueStep.htm">
+          <HelpTOCNode Title="AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_LogValueStep_AddToReport.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c8be2027-5889-42c6-86f4-0df00aefef2e" Title="LogValueStep(T) Class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep_1.htm">
+        <HelpTOCNode Title="LogValueStep(T) Constructor " Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1__ctor.htm" />
+        <HelpTOCNode Id="6bb1ca67-067e-468a-95cd-06e26c7fcd1b" Title="LogValueStep(T) Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_LogValueStep_1.htm">
+          <HelpTOCNode Title="AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1_AddToReport.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="242e031a-1a08-44a8-bc38-a81bec303a25" Title="MessageStep Class" Url="html/T_Rock_Logging_Diagnostics_MessageStep.htm">
+        <HelpTOCNode Title="MessageStep Constructor " Url="html/M_Rock_Logging_Diagnostics_MessageStep__ctor.htm" />
+        <HelpTOCNode Id="5ce05e6d-419d-4d8f-8657-868936ba403a" Title="MessageStep Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_MessageStep.htm">
+          <HelpTOCNode Title="AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_MessageStep_AddToReport.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a186a9f3-33e2-44b7-84bc-f60ce22b861d" Title="NullStepLogger Class" Url="html/T_Rock_Logging_Diagnostics_NullStepLogger.htm">
+        <HelpTOCNode Id="a375ccb9-3cd7-4fa2-a3f8-cb53f9ebaca3" Title="NullStepLogger Fields" Url="html/Fields_T_Rock_Logging_Diagnostics_NullStepLogger.htm">
+          <HelpTOCNode Title="Instance Field" Url="html/F_Rock_Logging_Diagnostics_NullStepLogger_Instance.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6c8e3554-b57c-4fe2-b350-679b3bf7a8b5" Title="NullStepLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_NullStepLogger.htm">
+          <HelpTOCNode Title="AddStep Method " Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_AddStep.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_Dispose.htm" />
+          <HelpTOCNode Title="Flush Method " Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_Flush.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fc7f381a-dea2-4dd6-af8f-4904579c3c62" Title="NullStopwatchLogger Class" Url="html/T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm">
+        <HelpTOCNode Id="5f19bd84-62aa-4dda-bc3c-b259a47ebca1" Title="NullStopwatchLogger Fields" Url="html/Fields_T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm">
+          <HelpTOCNode Title="Instance Field" Url="html/F_Rock_Logging_Diagnostics_NullStopwatchLogger_Instance.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="77fbf98c-f523-4e6a-8a33-c76100e7f2af" Title="NullStopwatchLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm">
+          <HelpTOCNode Title="RecordElapsed Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_RecordElapsed.htm" />
+          <HelpTOCNode Title="Reset Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Reset.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Stop.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="50535734-094d-4c45-9ebd-7c3a4e797813" Title="StepLogger Class" Url="html/T_Rock_Logging_Diagnostics_StepLogger.htm">
+        <HelpTOCNode Title="StepLogger Constructor " Url="html/M_Rock_Logging_Diagnostics_StepLogger__ctor.htm" />
+        <HelpTOCNode Id="2790c724-8ca1-4e80-bddc-7ccab7abceb4" Title="StepLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_StepLogger.htm">
+          <HelpTOCNode Title="AddStep Method " Url="html/M_Rock_Logging_Diagnostics_StepLogger_AddStep.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Rock_Logging_Diagnostics_StepLogger_Dispose.htm" />
+          <HelpTOCNode Title="Flush Method " Url="html/M_Rock_Logging_Diagnostics_StepLogger_Flush.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="377fa2aa-8ded-4f5b-85dd-8c68c73f574c" Title="StepLoggingExtensions Class" Url="html/T_Rock_Logging_Diagnostics_StepLoggingExtensions.htm">
+        <HelpTOCNode Id="24f1e49f-d0e4-4745-abd9-0c47d3c2f93f" Title="StepLoggingExtensions Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_StepLoggingExtensions.htm">
+          <HelpTOCNode Title="AddMessage Method " Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_AddMessage.htm" />
+          <HelpTOCNode Title="AddValueTo(T) Method " Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_AddValueTo__1.htm" />
+          <HelpTOCNode Title="CreateStepLogger Method " Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_CreateStepLogger.htm" />
+          <HelpTOCNode Title="GetStopwatch Method " Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_GetStopwatch.htm" />
+          <HelpTOCNode Id="ceebde0b-7bcf-43d4-95e2-1c19bdcd4ff1" Title="LogValue Method " Url="html/Overload_Rock_Logging_Diagnostics_StepLoggingExtensions_LogValue.htm">
+            <HelpTOCNode Title="LogValue Method (String, IStepLogger, String)" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_LogValue.htm" />
+            <HelpTOCNode Title="LogValue(T) Method (T, IStepLogger, Func(T, String), String)" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_LogValue__1.htm" />
+            <HelpTOCNode Title="LogValue(T, TValue) Method (T, IStepLogger, Func(T, TValue), String)" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_LogValue__2.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3e317e50-7774-4e74-b080-682048644d44" Title="StopwatchLogger Class" Url="html/T_Rock_Logging_Diagnostics_StopwatchLogger.htm">
+        <HelpTOCNode Title="StopwatchLogger Constructor " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger__ctor.htm" />
+        <HelpTOCNode Id="b32e6ec2-6d1c-4ee4-975a-346954c9ec60" Title="StopwatchLogger Methods" Url="html/Methods_T_Rock_Logging_Diagnostics_StopwatchLogger.htm">
+          <HelpTOCNode Title="RecordElapsed Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_RecordElapsed.htm" />
+          <HelpTOCNode Title="Reset Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Reset.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Stop.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

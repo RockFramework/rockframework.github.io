@@ -1,0 +1,1320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AdditionalAttributes property" Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_AdditionalAttributes.htm" />
+  <HelpKINode Title="AdditionalElements property" Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_AdditionalElements.htm" />
+  <HelpKINode Title="AddSafely(Of TKey, TValue) method" Url="html/M_Rock_Collections_AddSafelyExtension_AddSafely__2.htm" />
+  <HelpKINode Title="AddSafely&lt;TKey, TValue&gt; method" Url="html/M_Rock_Collections_AddSafelyExtension_AddSafely__2.htm" />
+  <HelpKINode Title="AddSafelyExtension class">
+    <HelpKINode Title="AddSafelyExtension Class" Url="html/T_Rock_Collections_AddSafelyExtension.htm" />
+    <HelpKINode Title="about AddSafelyExtension class" Url="html/T_Rock_Collections_AddSafelyExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_AddSafelyExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddSafelyExtension.AddSafely(Of TKey, TValue) method" Url="html/M_Rock_Collections_AddSafelyExtension_AddSafely__2.htm" />
+  <HelpKINode Title="AddSafelyExtension.AddSafely&lt;TKey, TValue&gt; method" Url="html/M_Rock_Collections_AddSafelyExtension_AddSafely__2.htm" />
+  <HelpKINode Title="AllParametersHaveDefaultValue method" Url="html/M_Rock_Reflection_SlowFactory_AllParametersHaveDefaultValue.htm" />
+  <HelpKINode Title="ApplicationId class">
+    <HelpKINode Title="ApplicationId Class" Url="html/T_Rock_ApplicationId.htm" />
+    <HelpKINode Title="about ApplicationId class" Url="html/T_Rock_ApplicationId.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_ApplicationId.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_ApplicationId.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationId.Current property" Url="html/P_Rock_ApplicationId_Current.htm" />
+  <HelpKINode Title="ApplicationId.SetCurrent method" Url="html/Overload_Rock_ApplicationId_SetCurrent.htm" />
+  <HelpKINode Title="AppSettingsApplicationIdProvider class">
+    <HelpKINode Title="AppSettingsApplicationIdProvider Class" Url="html/T_Rock_AppSettingsApplicationIdProvider.htm" />
+    <HelpKINode Title="about AppSettingsApplicationIdProvider class" Url="html/T_Rock_AppSettingsApplicationIdProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_AppSettingsApplicationIdProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_AppSettingsApplicationIdProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AppSettingsApplicationIdProvider.AppSettingsApplicationIdProvider constructor" Url="html/Overload_Rock_AppSettingsApplicationIdProvider__ctor.htm" />
+  <HelpKINode Title="AppSettingsApplicationIdProvider.GetApplicationId method" Url="html/M_Rock_AppSettingsApplicationIdProvider_GetApplicationId.htm" />
+  <HelpKINode Title="AsKeyed(Of TKey, TItem) method" Url="html/M_Rock_Collections_AsKeyedExtension_AsKeyed__2.htm" />
+  <HelpKINode Title="AsKeyed&lt;TKey, TItem&gt; method" Url="html/M_Rock_Collections_AsKeyedExtension_AsKeyed__2.htm" />
+  <HelpKINode Title="AsKeyedExtension class">
+    <HelpKINode Title="AsKeyedExtension Class" Url="html/T_Rock_Collections_AsKeyedExtension.htm" />
+    <HelpKINode Title="about AsKeyedExtension class" Url="html/T_Rock_Collections_AsKeyedExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_AsKeyedExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsKeyedExtension.AsKeyed(Of TKey, TItem) method" Url="html/M_Rock_Collections_AsKeyedExtension_AsKeyed__2.htm" />
+  <HelpKINode Title="AsKeyedExtension.AsKeyed&lt;TKey, TItem&gt; method" Url="html/M_Rock_Collections_AsKeyedExtension_AsKeyed__2.htm" />
+  <HelpKINode Title="AttributeLocator class">
+    <HelpKINode Title="AttributeLocator Class" Url="html/T_Rock_Utilities_AttributeLocator.htm" />
+    <HelpKINode Title="about AttributeLocator class" Url="html/T_Rock_Utilities_AttributeLocator.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Utilities_AttributeLocator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AttributeLocator.FindMembersDecoratedWith(Of TAttribute) method" Url="html/M_Rock_Utilities_AttributeLocator_FindMembersDecoratedWith__1.htm" />
+  <HelpKINode Title="AttributeLocator.FindMembersDecoratedWith&lt;TAttribute&gt; method" Url="html/M_Rock_Utilities_AttributeLocator_FindMembersDecoratedWith__1.htm" />
+  <HelpKINode Title="AutoContainer class">
+    <HelpKINode Title="AutoContainer Class" Url="html/T_Rock_DependencyInjection_AutoContainer.htm" />
+    <HelpKINode Title="about AutoContainer class" Url="html/T_Rock_DependencyInjection_AutoContainer.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_DependencyInjection_AutoContainer__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_DependencyInjection_AutoContainer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_DependencyInjection_AutoContainer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AutoContainer.AutoContainer constructor" Url="html/Overload_Rock_DependencyInjection_AutoContainer__ctor.htm" />
+  <HelpKINode Title="AutoContainer.CanGet method" Url="html/M_Rock_DependencyInjection_AutoContainer_CanGet.htm" />
+  <HelpKINode Title="AutoContainer.DefaultResolverConstructorSelector property" Url="html/P_Rock_DependencyInjection_AutoContainer_DefaultResolverConstructorSelector.htm" />
+  <HelpKINode Title="AutoContainer.Get method" Url="html/Overload_Rock_DependencyInjection_AutoContainer_Get.htm" />
+  <HelpKINode Title="AutoContainer.MergeWith method" Url="html/M_Rock_DependencyInjection_AutoContainer_MergeWith.htm" />
+  <HelpKINode Title="AutoContainer.SetBinding method" Url="html/M_Rock_DependencyInjection_AutoContainer_SetBinding.htm" />
+  <HelpKINode Title="AutoContainer.SetDefaultResolverConstructorSelector method" Url="html/M_Rock_DependencyInjection_AutoContainer_SetDefaultResolverConstructorSelector.htm" />
+  <HelpKINode Title="BinaryFormatterSerializer class">
+    <HelpKINode Title="BinaryFormatterSerializer Class" Url="html/T_Rock_Serialization_BinaryFormatterSerializer.htm" />
+    <HelpKINode Title="about BinaryFormatterSerializer class" Url="html/T_Rock_Serialization_BinaryFormatterSerializer.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Serialization_BinaryFormatterSerializer__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_BinaryFormatterSerializer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryFormatterSerializer.BinaryFormatterSerializer constructor" Url="html/M_Rock_Serialization_BinaryFormatterSerializer__ctor.htm" />
+  <HelpKINode Title="BinaryFormatterSerializer.DeserializeFromStream method" Url="html/M_Rock_Serialization_BinaryFormatterSerializer_DeserializeFromStream.htm" />
+  <HelpKINode Title="BinaryFormatterSerializer.DeserializeFromString method" Url="html/M_Rock_Serialization_BinaryFormatterSerializer_DeserializeFromString.htm" />
+  <HelpKINode Title="BinaryFormatterSerializer.SerializeToStream method" Url="html/M_Rock_Serialization_BinaryFormatterSerializer_SerializeToStream.htm" />
+  <HelpKINode Title="BinaryFormatterSerializer.SerializeToString method" Url="html/M_Rock_Serialization_BinaryFormatterSerializer_SerializeToString.htm" />
+  <HelpKINode Title="BucketName property">
+    <HelpKINode Title="FileBucketItem.BucketName Property " Url="html/P_Rock_KeyValueStores_FileBucketItem_BucketName.htm" />
+    <HelpKINode Title="IBucketItem.BucketName Property " Url="html/P_Rock_KeyValueStores_IBucketItem_BucketName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CanGet method">
+    <HelpKINode Title="AutoContainer.CanGet Method " Url="html/M_Rock_DependencyInjection_AutoContainer_CanGet.htm" />
+    <HelpKINode Title="IResolver.CanGet Method " Url="html/M_Rock_DependencyInjection_IResolver_CanGet.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CanGetConstructor method" Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions_CanGetConstructor.htm" />
+  <HelpKINode Title="CanUnlock property" Url="html/P_Rock_Immutable_Semimutable_1_CanUnlock.htm" />
+  <HelpKINode Title="ComputeHash method" Url="html/Overload_Rock_Cryptography_HashTypeExtensions_ComputeHash.htm" />
+  <HelpKINode Title="Concat method" Url="html/Overload_Rock_Collections_ConcatExtensions_Concat.htm" />
+  <HelpKINode Title="ConcatExtensions class">
+    <HelpKINode Title="ConcatExtensions Class" Url="html/T_Rock_Collections_ConcatExtensions.htm" />
+    <HelpKINode Title="about ConcatExtensions class" Url="html/T_Rock_Collections_ConcatExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_ConcatExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConcatExtensions.Concat method" Url="html/Overload_Rock_Collections_ConcatExtensions_Concat.htm" />
+  <HelpKINode Title="ConfigureSmtpClient method" Url="html/M_Rock_Mail_DeliveryMethod_ConfigureSmtpClient.htm" />
+  <HelpKINode Title="Contains method" Url="html/M_Rock_Collections_IKeyedEnumerable_2_Contains.htm" />
+  <HelpKINode Title="Convert method">
+    <HelpKINode Title="ConvertsToDictionaryOfStringTo(TValue).Convert Method " Url="html/M_Rock_Conversion_ConvertsToDictionaryOfStringTo_1_Convert.htm" />
+    <HelpKINode Title="ConvertsToExpandoObject.Convert Method " Url="html/M_Rock_Conversion_ConvertsToExpandoObject_Convert.htm" />
+    <HelpKINode Title="IConvertsTo(TTarget).Convert Method " Url="html/M_Rock_Conversion_IConvertsTo_1_Convert.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Converter property">
+    <HelpKINode Title="ToDictionaryOfStringToStringExtension.Converter Property " Url="html/P_Rock_Conversion_ToDictionaryOfStringToStringExtension_Converter.htm" />
+    <HelpKINode Title="ToExpandoObjectExtension.Converter Property " Url="html/P_Rock_Conversion_ToExpandoObjectExtension_Converter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvertsToDictionaryOfStringTo(Of TValue) class">
+    <HelpKINode Title="ConvertsToDictionaryOfStringTo(TValue) Class" Url="html/T_Rock_Conversion_ConvertsToDictionaryOfStringTo_1.htm" />
+    <HelpKINode Title="about ConvertsToDictionaryOfStringTo(Of TValue) class" Url="html/T_Rock_Conversion_ConvertsToDictionaryOfStringTo_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Conversion_ConvertsToDictionaryOfStringTo_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Conversion_ConvertsToDictionaryOfStringTo_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvertsToDictionaryOfStringTo(Of TValue).Convert method" Url="html/M_Rock_Conversion_ConvertsToDictionaryOfStringTo_1_Convert.htm" />
+  <HelpKINode Title="ConvertsToDictionaryOfStringTo(Of TValue).ConvertsToDictionaryOfStringTo constructor" Url="html/M_Rock_Conversion_ConvertsToDictionaryOfStringTo_1__ctor.htm" />
+  <HelpKINode Title="ConvertsToDictionaryOfStringTo&lt;TValue&gt; class">
+    <HelpKINode Title="ConvertsToDictionaryOfStringTo(TValue) Class" Url="html/T_Rock_Conversion_ConvertsToDictionaryOfStringTo_1.htm" />
+    <HelpKINode Title="about ConvertsToDictionaryOfStringTo&lt;TValue&gt; class" Url="html/T_Rock_Conversion_ConvertsToDictionaryOfStringTo_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Conversion_ConvertsToDictionaryOfStringTo_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Conversion_ConvertsToDictionaryOfStringTo_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvertsToDictionaryOfStringTo&lt;TValue&gt;.Convert method" Url="html/M_Rock_Conversion_ConvertsToDictionaryOfStringTo_1_Convert.htm" />
+  <HelpKINode Title="ConvertsToDictionaryOfStringTo&lt;TValue&gt;.ConvertsToDictionaryOfStringTo constructor" Url="html/M_Rock_Conversion_ConvertsToDictionaryOfStringTo_1__ctor.htm" />
+  <HelpKINode Title="ConvertsToExpandoObject class">
+    <HelpKINode Title="ConvertsToExpandoObject Class" Url="html/T_Rock_Conversion_ConvertsToExpandoObject.htm" />
+    <HelpKINode Title="about ConvertsToExpandoObject class" Url="html/T_Rock_Conversion_ConvertsToExpandoObject.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Conversion_ConvertsToExpandoObject__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Conversion_ConvertsToExpandoObject.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvertsToExpandoObject.Convert method" Url="html/M_Rock_Conversion_ConvertsToExpandoObject_Convert.htm" />
+  <HelpKINode Title="ConvertsToExpandoObject.ConvertsToExpandoObject constructor" Url="html/M_Rock_Conversion_ConvertsToExpandoObject__ctor.htm" />
+  <HelpKINode Title="Create method" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_Create.htm" />
+  <HelpKINode Title="CreateHttpClient method">
+    <HelpKINode Title="HttpClientFactory.CreateHttpClient Method " Url="html/M_Rock_Net_Http_HttpClientFactory_CreateHttpClient.htm" />
+    <HelpKINode Title="IHttpClientFactory.CreateHttpClient Method " Url="html/M_Rock_Net_Http_IHttpClientFactory_CreateHttpClient.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateInstance method" Url="html/Overload_Rock_Serialization_XmlDeserializationProxy_1_CreateInstance.htm" />
+  <HelpKINode Title="CreateInstance(Of T) method" Url="html/M_Rock_Reflection_SlowFactory_CreateInstance__1.htm" />
+  <HelpKINode Title="CreateInstance&lt;T&gt; method" Url="html/M_Rock_Reflection_SlowFactory_CreateInstance__1.htm" />
+  <HelpKINode Title="Current property">
+    <HelpKINode Title="ApplicationId.Current Property " Url="html/P_Rock_ApplicationId_Current.htm" />
+    <HelpKINode Title="DefaultBinarySerializer.Current Property " Url="html/P_Rock_Serialization_DefaultBinarySerializer_Current.htm" />
+    <HelpKINode Title="DefaultEndpointDetector.Current Property " Url="html/P_Rock_Net_DefaultEndpointDetector_Current.htm" />
+    <HelpKINode Title="DefaultEndpointSelector.Current Property " Url="html/P_Rock_Net_DefaultEndpointSelector_Current.htm" />
+    <HelpKINode Title="DefaultHttpClientFactory.Current Property " Url="html/P_Rock_Net_Http_DefaultHttpClientFactory_Current.htm" />
+    <HelpKINode Title="DefaultJsonSerializer.Current Property " Url="html/P_Rock_Serialization_DefaultJsonSerializer_Current.htm" />
+    <HelpKINode Title="DefaultXmlSerializer.Current Property " Url="html/P_Rock_Serialization_DefaultXmlSerializer_Current.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataContractJsonSerializerSerializer class">
+    <HelpKINode Title="DataContractJsonSerializerSerializer Class" Url="html/T_Rock_Serialization_DataContractJsonSerializerSerializer.htm" />
+    <HelpKINode Title="about DataContractJsonSerializerSerializer class" Url="html/T_Rock_Serialization_DataContractJsonSerializerSerializer.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Serialization_DataContractJsonSerializerSerializer__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_DataContractJsonSerializerSerializer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataContractJsonSerializerSerializer.DataContractJsonSerializerSerializer constructor" Url="html/Overload_Rock_Serialization_DataContractJsonSerializerSerializer__ctor.htm" />
+  <HelpKINode Title="DataContractJsonSerializerSerializer.DeserializeFromStream method" Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_DeserializeFromStream.htm" />
+  <HelpKINode Title="DataContractJsonSerializerSerializer.DeserializeFromString method" Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_DeserializeFromString.htm" />
+  <HelpKINode Title="DataContractJsonSerializerSerializer.SerializeToStream method" Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_SerializeToStream.htm" />
+  <HelpKINode Title="DataContractJsonSerializerSerializer.SerializeToString method" Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_SerializeToString.htm" />
+  <HelpKINode Title="DataContractSerializerSerializer class">
+    <HelpKINode Title="DataContractSerializerSerializer Class" Url="html/T_Rock_Serialization_DataContractSerializerSerializer.htm" />
+    <HelpKINode Title="about DataContractSerializerSerializer class" Url="html/T_Rock_Serialization_DataContractSerializerSerializer.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Serialization_DataContractSerializerSerializer__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_DataContractSerializerSerializer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataContractSerializerSerializer.DataContractSerializerSerializer constructor" Url="html/Overload_Rock_Serialization_DataContractSerializerSerializer__ctor.htm" />
+  <HelpKINode Title="DataContractSerializerSerializer.DeserializeFromStream method" Url="html/M_Rock_Serialization_DataContractSerializerSerializer_DeserializeFromStream.htm" />
+  <HelpKINode Title="DataContractSerializerSerializer.DeserializeFromString method" Url="html/M_Rock_Serialization_DataContractSerializerSerializer_DeserializeFromString.htm" />
+  <HelpKINode Title="DataContractSerializerSerializer.SerializeToStream method" Url="html/M_Rock_Serialization_DataContractSerializerSerializer_SerializeToStream.htm" />
+  <HelpKINode Title="DataContractSerializerSerializer.SerializeToString method" Url="html/M_Rock_Serialization_DataContractSerializerSerializer_SerializeToString.htm" />
+  <HelpKINode Title="DateTimeTruncateExtension class">
+    <HelpKINode Title="DateTimeTruncateExtension Class" Url="html/T_Rock_DateTimeTruncateExtension.htm" />
+    <HelpKINode Title="about DateTimeTruncateExtension class" Url="html/T_Rock_DateTimeTruncateExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_DateTimeTruncateExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateTimeTruncateExtension.Truncate method" Url="html/M_Rock_DateTimeTruncateExtension_Truncate.htm" />
+  <HelpKINode Title="DeepEqualityComparer class">
+    <HelpKINode Title="DeepEqualityComparer Class" Url="html/T_Rock_Collections_DeepEqualityComparer.htm" />
+    <HelpKINode Title="about DeepEqualityComparer class" Url="html/T_Rock_Collections_DeepEqualityComparer.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Collections_DeepEqualityComparer__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeepEqualityComparer(Of T) class">
+    <HelpKINode Title="DeepEqualityComparer(T) Class" Url="html/T_Rock_Collections_DeepEqualityComparer_1.htm" />
+    <HelpKINode Title="about DeepEqualityComparer(Of T) class" Url="html/T_Rock_Collections_DeepEqualityComparer_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Collections_DeepEqualityComparer_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparer_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeepEqualityComparer(Of T).DeepEqualityComparer constructor" Url="html/Overload_Rock_Collections_DeepEqualityComparer_1__ctor.htm" />
+  <HelpKINode Title="DeepEqualityComparer(Of T).Equals method" Url="html/Overload_Rock_Collections_DeepEqualityComparer_1_Equals.htm" />
+  <HelpKINode Title="DeepEqualityComparer(Of T).GetHashCode method" Url="html/Overload_Rock_Collections_DeepEqualityComparer_1_GetHashCode.htm" />
+  <HelpKINode Title="DeepEqualityComparer.DeepEqualityComparer constructor" Url="html/Overload_Rock_Collections_DeepEqualityComparer__ctor.htm" />
+  <HelpKINode Title="DeepEqualityComparer.Equals method" Url="html/Overload_Rock_Collections_DeepEqualityComparer_Equals.htm" />
+  <HelpKINode Title="DeepEqualityComparer.GetHashCode method" Url="html/Overload_Rock_Collections_DeepEqualityComparer_GetHashCode.htm" />
+  <HelpKINode Title="DeepEqualityComparer.IConfiguration interface">
+    <HelpKINode Title="DeepEqualityComparer.IConfiguration Interface" Url="html/T_Rock_Collections_DeepEqualityComparer_IConfiguration.htm" />
+    <HelpKINode Title="about DeepEqualityComparer.IConfiguration interface" Url="html/T_Rock_Collections_DeepEqualityComparer_IConfiguration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeepEqualityComparer.IConfiguration.MemberLocator property" Url="html/P_Rock_Collections_DeepEqualityComparer_IConfiguration_MemberLocator.htm" />
+  <HelpKINode Title="DeepEqualityComparer.IConfiguration.StringComparison property" Url="html/P_Rock_Collections_DeepEqualityComparer_IConfiguration_StringComparison.htm" />
+  <HelpKINode Title="DeepEqualityComparer.IMemberLocator interface">
+    <HelpKINode Title="DeepEqualityComparer.IMemberLocator Interface" Url="html/T_Rock_Collections_DeepEqualityComparer_IMemberLocator.htm" />
+    <HelpKINode Title="about DeepEqualityComparer.IMemberLocator interface" Url="html/T_Rock_Collections_DeepEqualityComparer_IMemberLocator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeepEqualityComparer.IMemberLocator.GetFieldsAndProperties method" Url="html/M_Rock_Collections_DeepEqualityComparer_IMemberLocator_GetFieldsAndProperties.htm" />
+  <HelpKINode Title="DeepEqualityComparer.PropertyOrField class">
+    <HelpKINode Title="DeepEqualityComparer.PropertyOrField Class" Url="html/T_Rock_Collections_DeepEqualityComparer_PropertyOrField.htm" />
+    <HelpKINode Title="about DeepEqualityComparer.PropertyOrField class" Url="html/T_Rock_Collections_DeepEqualityComparer_PropertyOrField.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Collections_DeepEqualityComparer_PropertyOrField__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeepEqualityComparer.PropertyOrField.Name property" Url="html/P_Rock_Collections_DeepEqualityComparer_PropertyOrField_Name.htm" />
+  <HelpKINode Title="DeepEqualityComparer.PropertyOrField.PropertyOrField constructor" Url="html/M_Rock_Collections_DeepEqualityComparer_PropertyOrField__ctor.htm" />
+  <HelpKINode Title="DeepEqualityComparer.PropertyOrField.PropertyOrFieldType property" Url="html/P_Rock_Collections_DeepEqualityComparer_PropertyOrField_PropertyOrFieldType.htm" />
+  <HelpKINode Title="DeepEqualityComparer&lt;T&gt; class">
+    <HelpKINode Title="DeepEqualityComparer(T) Class" Url="html/T_Rock_Collections_DeepEqualityComparer_1.htm" />
+    <HelpKINode Title="about DeepEqualityComparer&lt;T&gt; class" Url="html/T_Rock_Collections_DeepEqualityComparer_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Collections_DeepEqualityComparer_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparer_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeepEqualityComparer&lt;T&gt;.DeepEqualityComparer constructor" Url="html/Overload_Rock_Collections_DeepEqualityComparer_1__ctor.htm" />
+  <HelpKINode Title="DeepEqualityComparer&lt;T&gt;.Equals method" Url="html/Overload_Rock_Collections_DeepEqualityComparer_1_Equals.htm" />
+  <HelpKINode Title="DeepEqualityComparer&lt;T&gt;.GetHashCode method" Url="html/Overload_Rock_Collections_DeepEqualityComparer_1_GetHashCode.htm" />
+  <HelpKINode Title="DeepEqualityComparerConfiguration class">
+    <HelpKINode Title="DeepEqualityComparerConfiguration Class" Url="html/T_Rock_Collections_DeepEqualityComparerConfiguration.htm" />
+    <HelpKINode Title="about DeepEqualityComparerConfiguration class" Url="html/T_Rock_Collections_DeepEqualityComparerConfiguration.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Collections_DeepEqualityComparerConfiguration__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparerConfiguration.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_DeepEqualityComparerConfiguration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeepEqualityComparerConfiguration.DeepEqualityComparerConfiguration constructor" Url="html/M_Rock_Collections_DeepEqualityComparerConfiguration__ctor.htm" />
+  <HelpKINode Title="DeepEqualityComparerConfiguration.MemberLocator property" Url="html/P_Rock_Collections_DeepEqualityComparerConfiguration_MemberLocator.htm" />
+  <HelpKINode Title="DeepEqualityComparerConfiguration.StringComparison property" Url="html/P_Rock_Collections_DeepEqualityComparerConfiguration_StringComparison.htm" />
+  <HelpKINode Title="Default property" Url="html/P_Rock_Mail_DeliveryMethod_Default.htm" />
+  <HelpKINode Title="DefaultBinarySerializer class">
+    <HelpKINode Title="DefaultBinarySerializer Class" Url="html/T_Rock_Serialization_DefaultBinarySerializer.htm" />
+    <HelpKINode Title="about DefaultBinarySerializer class" Url="html/T_Rock_Serialization_DefaultBinarySerializer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_DefaultBinarySerializer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Serialization_DefaultBinarySerializer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultBinarySerializer.Current property" Url="html/P_Rock_Serialization_DefaultBinarySerializer_Current.htm" />
+  <HelpKINode Title="DefaultBinarySerializer.SetCurrent method" Url="html/M_Rock_Serialization_DefaultBinarySerializer_SetCurrent.htm" />
+  <HelpKINode Title="DefaultEndpointDetector class">
+    <HelpKINode Title="DefaultEndpointDetector Class" Url="html/T_Rock_Net_DefaultEndpointDetector.htm" />
+    <HelpKINode Title="about DefaultEndpointDetector class" Url="html/T_Rock_Net_DefaultEndpointDetector.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_DefaultEndpointDetector.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Net_DefaultEndpointDetector.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultEndpointDetector.Current property" Url="html/P_Rock_Net_DefaultEndpointDetector_Current.htm" />
+  <HelpKINode Title="DefaultEndpointDetector.SetCurrent method" Url="html/M_Rock_Net_DefaultEndpointDetector_SetCurrent.htm" />
+  <HelpKINode Title="DefaultEndpointSelector class">
+    <HelpKINode Title="DefaultEndpointSelector Class" Url="html/T_Rock_Net_DefaultEndpointSelector.htm" />
+    <HelpKINode Title="about DefaultEndpointSelector class" Url="html/T_Rock_Net_DefaultEndpointSelector.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_DefaultEndpointSelector.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Net_DefaultEndpointSelector.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultEndpointSelector.Current property" Url="html/P_Rock_Net_DefaultEndpointSelector_Current.htm" />
+  <HelpKINode Title="DefaultEndpointSelector.SetCurrent method" Url="html/M_Rock_Net_DefaultEndpointSelector_SetCurrent.htm" />
+  <HelpKINode Title="DefaultHttpClientFactory class">
+    <HelpKINode Title="DefaultHttpClientFactory Class" Url="html/T_Rock_Net_Http_DefaultHttpClientFactory.htm" />
+    <HelpKINode Title="about DefaultHttpClientFactory class" Url="html/T_Rock_Net_Http_DefaultHttpClientFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_Http_DefaultHttpClientFactory.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Net_Http_DefaultHttpClientFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultHttpClientFactory.Current property" Url="html/P_Rock_Net_Http_DefaultHttpClientFactory_Current.htm" />
+  <HelpKINode Title="DefaultHttpClientFactory.SetCurrent method" Url="html/M_Rock_Net_Http_DefaultHttpClientFactory_SetCurrent.htm" />
+  <HelpKINode Title="DefaultJsonSerializer class">
+    <HelpKINode Title="DefaultJsonSerializer Class" Url="html/T_Rock_Serialization_DefaultJsonSerializer.htm" />
+    <HelpKINode Title="about DefaultJsonSerializer class" Url="html/T_Rock_Serialization_DefaultJsonSerializer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_DefaultJsonSerializer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Serialization_DefaultJsonSerializer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultJsonSerializer.Current property" Url="html/P_Rock_Serialization_DefaultJsonSerializer_Current.htm" />
+  <HelpKINode Title="DefaultJsonSerializer.SetCurrent method" Url="html/M_Rock_Serialization_DefaultJsonSerializer_SetCurrent.htm" />
+  <HelpKINode Title="DefaultResolverConstructorSelector property" Url="html/P_Rock_DependencyInjection_AutoContainer_DefaultResolverConstructorSelector.htm" />
+  <HelpKINode Title="DefaultXmlSerializer class">
+    <HelpKINode Title="DefaultXmlSerializer Class" Url="html/T_Rock_Serialization_DefaultXmlSerializer.htm" />
+    <HelpKINode Title="about DefaultXmlSerializer class" Url="html/T_Rock_Serialization_DefaultXmlSerializer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_DefaultXmlSerializer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Serialization_DefaultXmlSerializer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultXmlSerializer.Current property" Url="html/P_Rock_Serialization_DefaultXmlSerializer_Current.htm" />
+  <HelpKINode Title="DefaultXmlSerializer.SetCurrent method" Url="html/M_Rock_Serialization_DefaultXmlSerializer_SetCurrent.htm" />
+  <HelpKINode Title="Delete method">
+    <HelpKINode Title="DeleteExtensions.Delete Method " Url="html/Overload_Rock_KeyValueStores_DeleteExtensions_Delete.htm" />
+    <HelpKINode Title="FileBucketItem.Delete Method " Url="html/M_Rock_KeyValueStores_FileBucketItem_Delete.htm" />
+    <HelpKINode Title="IBucketItem.Delete Method " Url="html/M_Rock_KeyValueStores_IBucketItem_Delete.htm" />
+    <HelpKINode Title="TempStorage.Delete Method " Url="html/M_Rock_IO_TempStorage_Delete.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteExtensions class">
+    <HelpKINode Title="DeleteExtensions Class" Url="html/T_Rock_KeyValueStores_DeleteExtensions.htm" />
+    <HelpKINode Title="about DeleteExtensions class" Url="html/T_Rock_KeyValueStores_DeleteExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_DeleteExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteExtensions.Delete method" Url="html/Overload_Rock_KeyValueStores_DeleteExtensions_Delete.htm" />
+  <HelpKINode Title="DeliveryMethod class">
+    <HelpKINode Title="DeliveryMethod Class" Url="html/T_Rock_Mail_DeliveryMethod.htm" />
+    <HelpKINode Title="about DeliveryMethod class" Url="html/T_Rock_Mail_DeliveryMethod.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Mail_DeliveryMethod__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Mail_DeliveryMethod.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Mail_DeliveryMethod.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeliveryMethod.ConfigureSmtpClient method" Url="html/M_Rock_Mail_DeliveryMethod_ConfigureSmtpClient.htm" />
+  <HelpKINode Title="DeliveryMethod.Default property" Url="html/P_Rock_Mail_DeliveryMethod_Default.htm" />
+  <HelpKINode Title="DeliveryMethod.DeliveryMethod constructor" Url="html/M_Rock_Mail_DeliveryMethod__ctor.htm" />
+  <HelpKINode Title="DeliveryMethod.Network method" Url="html/M_Rock_Mail_DeliveryMethod_Network.htm" />
+  <HelpKINode Title="DeliveryMethod.SpecifiedPickupDirectory method" Url="html/M_Rock_Mail_DeliveryMethod_SpecifiedPickupDirectory.htm" />
+  <HelpKINode Title="Deserialize method" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_Deserialize.htm" />
+  <HelpKINode Title="DeserializeFromByteArray method" Url="html/Overload_Rock_Serialization_SerializerExtensions_DeserializeFromByteArray.htm" />
+  <HelpKINode Title="DeserializeFromStream method">
+    <HelpKINode Title="BinaryFormatterSerializer.DeserializeFromStream Method " Url="html/M_Rock_Serialization_BinaryFormatterSerializer_DeserializeFromStream.htm" />
+    <HelpKINode Title="DataContractJsonSerializerSerializer.DeserializeFromStream Method " Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_DeserializeFromStream.htm" />
+    <HelpKINode Title="DataContractSerializerSerializer.DeserializeFromStream Method " Url="html/M_Rock_Serialization_DataContractSerializerSerializer_DeserializeFromStream.htm" />
+    <HelpKINode Title="ISerializer.DeserializeFromStream Method " Url="html/M_Rock_Serialization_ISerializer_DeserializeFromStream.htm" />
+    <HelpKINode Title="XmlSerializerSerializer.DeserializeFromStream Method " Url="html/M_Rock_Serialization_XmlSerializerSerializer_DeserializeFromStream.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeserializeFromStream(Of T) method" Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromStream__1.htm" />
+  <HelpKINode Title="DeserializeFromStream&lt;T&gt; method" Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromStream__1.htm" />
+  <HelpKINode Title="DeserializeFromString method">
+    <HelpKINode Title="BinaryFormatterSerializer.DeserializeFromString Method " Url="html/M_Rock_Serialization_BinaryFormatterSerializer_DeserializeFromString.htm" />
+    <HelpKINode Title="DataContractJsonSerializerSerializer.DeserializeFromString Method " Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_DeserializeFromString.htm" />
+    <HelpKINode Title="DataContractSerializerSerializer.DeserializeFromString Method " Url="html/M_Rock_Serialization_DataContractSerializerSerializer_DeserializeFromString.htm" />
+    <HelpKINode Title="ISerializer.DeserializeFromString Method " Url="html/M_Rock_Serialization_ISerializer_DeserializeFromString.htm" />
+    <HelpKINode Title="XmlSerializerSerializer.DeserializeFromString Method " Url="html/M_Rock_Serialization_XmlSerializerSerializer_DeserializeFromString.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeserializeFromString(Of T) method" Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromString__1.htm" />
+  <HelpKINode Title="DeserializeFromString&lt;T&gt; method" Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromString__1.htm" />
+  <HelpKINode Title="DirectoryBucket class">
+    <HelpKINode Title="DirectoryBucket Class" Url="html/T_Rock_KeyValueStores_DirectoryBucket.htm" />
+    <HelpKINode Title="about DirectoryBucket class" Url="html/T_Rock_KeyValueStores_DirectoryBucket.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_KeyValueStores_DirectoryBucket__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_DirectoryBucket.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_KeyValueStores_DirectoryBucket.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DirectoryBucket.DirectoryBucket constructor" Url="html/M_Rock_KeyValueStores_DirectoryBucket__ctor.htm" />
+  <HelpKINode Title="DirectoryBucket.GetItem method" Url="html/M_Rock_KeyValueStores_DirectoryBucket_GetItem.htm" />
+  <HelpKINode Title="DirectoryBucket.GetItems method" Url="html/M_Rock_KeyValueStores_DirectoryBucket_GetItems.htm" />
+  <HelpKINode Title="DirectoryBucket.Name property" Url="html/P_Rock_KeyValueStores_DirectoryBucket_Name.htm" />
+  <HelpKINode Title="Disabled property" Url="html/P_Rock_StaticDependencyInjection_ExportAttribute_Disabled.htm" />
+  <HelpKINode Title="DocumentFragment property" Url="html/P_Rock_Configuration_InvalidConfigurationException_DocumentFragment.htm" />
+  <HelpKINode Title="EncodedStringWriter class">
+    <HelpKINode Title="EncodedStringWriter Class" Url="html/T_Rock_IO_EncodedStringWriter.htm" />
+    <HelpKINode Title="about EncodedStringWriter class" Url="html/T_Rock_IO_EncodedStringWriter.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_IO_EncodedStringWriter__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Rock_IO_EncodedStringWriter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_IO_EncodedStringWriter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_IO_EncodedStringWriter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EncodedStringWriter.EncodedStringWriter constructor" Url="html/Overload_Rock_IO_EncodedStringWriter__ctor.htm" />
+  <HelpKINode Title="EncodedStringWriter.Encoding property" Url="html/P_Rock_IO_EncodedStringWriter_Encoding.htm" />
+  <HelpKINode Title="Encoding property" Url="html/P_Rock_IO_EncodedStringWriter_Encoding.htm" />
+  <HelpKINode Title="Endpoint property" Url="html/P_Rock_Net_EndpointStatus_Endpoint.htm" />
+  <HelpKINode Title="EndpointDetector class">
+    <HelpKINode Title="EndpointDetector Class" Url="html/T_Rock_Net_EndpointDetector.htm" />
+    <HelpKINode Title="about EndpointDetector class" Url="html/T_Rock_Net_EndpointDetector.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Net_EndpointDetector__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_EndpointDetector.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EndpointDetector.EndpointDetector constructor" Url="html/M_Rock_Net_EndpointDetector__ctor.htm" />
+  <HelpKINode Title="EndpointDetector.GetEndpointStatus method" Url="html/M_Rock_Net_EndpointDetector_GetEndpointStatus.htm" />
+  <HelpKINode Title="EndpointSelector class">
+    <HelpKINode Title="EndpointSelector Class" Url="html/T_Rock_Net_EndpointSelector.htm" />
+    <HelpKINode Title="about EndpointSelector class" Url="html/T_Rock_Net_EndpointSelector.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Net_EndpointSelector__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_EndpointSelector.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EndpointSelector.EndpointSelector constructor" Url="html/M_Rock_Net_EndpointSelector__ctor.htm" />
+  <HelpKINode Title="EndpointSelector.GetFirstToRespond method" Url="html/M_Rock_Net_EndpointSelector_GetFirstToRespond.htm" />
+  <HelpKINode Title="EndpointSelectorExtensions class">
+    <HelpKINode Title="EndpointSelectorExtensions Class" Url="html/T_Rock_Net_EndpointSelectorExtensions.htm" />
+    <HelpKINode Title="about EndpointSelectorExtensions class" Url="html/T_Rock_Net_EndpointSelectorExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_EndpointSelectorExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EndpointSelectorExtensions.GetFirstToRespond method" Url="html/M_Rock_Net_EndpointSelectorExtensions_GetFirstToRespond.htm" />
+  <HelpKINode Title="EndpointStatus class">
+    <HelpKINode Title="EndpointStatus Class" Url="html/T_Rock_Net_EndpointStatus.htm" />
+    <HelpKINode Title="about EndpointStatus class" Url="html/T_Rock_Net_EndpointStatus.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Net_EndpointStatus__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_EndpointStatus.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Net_EndpointStatus.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EndpointStatus.Endpoint property" Url="html/P_Rock_Net_EndpointStatus_Endpoint.htm" />
+  <HelpKINode Title="EndpointStatus.EndpointStatus constructor" Url="html/M_Rock_Net_EndpointStatus__ctor.htm" />
+  <HelpKINode Title="EndpointStatus.StatusCode property" Url="html/P_Rock_Net_EndpointStatus_StatusCode.htm" />
+  <HelpKINode Title="EndpointStatus.Success property" Url="html/P_Rock_Net_EndpointStatus_Success.htm" />
+  <HelpKINode Title="EntryAssemblyApplicationIdProvider class">
+    <HelpKINode Title="EntryAssemblyApplicationIdProvider Class" Url="html/T_Rock_EntryAssemblyApplicationIdProvider.htm" />
+    <HelpKINode Title="about EntryAssemblyApplicationIdProvider class" Url="html/T_Rock_EntryAssemblyApplicationIdProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_EntryAssemblyApplicationIdProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_EntryAssemblyApplicationIdProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EntryAssemblyApplicationIdProvider.EntryAssemblyApplicationIdProvider constructor" Url="html/M_Rock_EntryAssemblyApplicationIdProvider__ctor.htm" />
+  <HelpKINode Title="EntryAssemblyApplicationIdProvider.GetApplicationId method" Url="html/M_Rock_EntryAssemblyApplicationIdProvider_GetApplicationId.htm" />
+  <HelpKINode Title="EnumGetDescriptionExtension class">
+    <HelpKINode Title="EnumGetDescriptionExtension Class" Url="html/T_Rock_EnumGetDescriptionExtension.htm" />
+    <HelpKINode Title="about EnumGetDescriptionExtension class" Url="html/T_Rock_EnumGetDescriptionExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_EnumGetDescriptionExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumGetDescriptionExtension.GetDescription method" Url="html/M_Rock_EnumGetDescriptionExtension_GetDescription.htm" />
+  <HelpKINode Title="Equals method">
+    <HelpKINode Title="DeepEqualityComparer(T).Equals Method " Url="html/Overload_Rock_Collections_DeepEqualityComparer_1_Equals.htm" />
+    <HelpKINode Title="DeepEqualityComparer.Equals Method " Url="html/Overload_Rock_Collections_DeepEqualityComparer_Equals.htm" />
+    <HelpKINode Title="MemberLocator.Equals Method " Url="html/M_Rock_Collections_MemberLocator_Equals.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExportAttribute class">
+    <HelpKINode Title="ExportAttribute Class" Url="html/T_Rock_StaticDependencyInjection_ExportAttribute.htm" />
+    <HelpKINode Title="about ExportAttribute class" Url="html/T_Rock_StaticDependencyInjection_ExportAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_StaticDependencyInjection_ExportAttribute__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_StaticDependencyInjection_ExportAttribute.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_StaticDependencyInjection_ExportAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExportAttribute.Disabled property" Url="html/P_Rock_StaticDependencyInjection_ExportAttribute_Disabled.htm" />
+  <HelpKINode Title="ExportAttribute.ExportAttribute constructor" Url="html/Overload_Rock_StaticDependencyInjection_ExportAttribute__ctor.htm" />
+  <HelpKINode Title="ExportAttribute.Name property" Url="html/P_Rock_StaticDependencyInjection_ExportAttribute_Name.htm" />
+  <HelpKINode Title="ExportAttribute.Priority property" Url="html/P_Rock_StaticDependencyInjection_ExportAttribute_Priority.htm" />
+  <HelpKINode Title="ExtraPrimitivishTypes property" Url="html/P_Rock_Reflection_IsPrimitivishExtension_ExtraPrimitivishTypes.htm" />
+  <HelpKINode Title="FileBucketItem class">
+    <HelpKINode Title="FileBucketItem Class" Url="html/T_Rock_KeyValueStores_FileBucketItem.htm" />
+    <HelpKINode Title="about FileBucketItem class" Url="html/T_Rock_KeyValueStores_FileBucketItem.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_KeyValueStores_FileBucketItem__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_FileBucketItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_KeyValueStores_FileBucketItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileBucketItem.BucketName property" Url="html/P_Rock_KeyValueStores_FileBucketItem_BucketName.htm" />
+  <HelpKINode Title="FileBucketItem.Delete method" Url="html/M_Rock_KeyValueStores_FileBucketItem_Delete.htm" />
+  <HelpKINode Title="FileBucketItem.FileBucketItem constructor" Url="html/M_Rock_KeyValueStores_FileBucketItem__ctor.htm" />
+  <HelpKINode Title="FileBucketItem.Key property" Url="html/P_Rock_KeyValueStores_FileBucketItem_Key.htm" />
+  <HelpKINode Title="FileBucketItem.Put(Of T) method" Url="html/M_Rock_KeyValueStores_FileBucketItem_Put__1.htm" />
+  <HelpKINode Title="FileBucketItem.Put&lt;T&gt; method" Url="html/M_Rock_KeyValueStores_FileBucketItem_Put__1.htm" />
+  <HelpKINode Title="FileBucketItem.TryGet(Of T) method" Url="html/M_Rock_KeyValueStores_FileBucketItem_TryGet__1.htm" />
+  <HelpKINode Title="FileBucketItem.TryGet&lt;T&gt; method" Url="html/M_Rock_KeyValueStores_FileBucketItem_TryGet__1.htm" />
+  <HelpKINode Title="FileKeyValueStore class">
+    <HelpKINode Title="FileKeyValueStore Class" Url="html/T_Rock_KeyValueStores_FileKeyValueStore.htm" />
+    <HelpKINode Title="about FileKeyValueStore class" Url="html/T_Rock_KeyValueStores_FileKeyValueStore.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_KeyValueStores_FileKeyValueStore__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_FileKeyValueStore.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileKeyValueStore.FileKeyValueStore constructor" Url="html/M_Rock_KeyValueStores_FileKeyValueStore__ctor.htm" />
+  <HelpKINode Title="FileKeyValueStore.GetBucket method" Url="html/M_Rock_KeyValueStores_FileKeyValueStore_GetBucket.htm" />
+  <HelpKINode Title="FileKeyValueStore.GetBuckets method" Url="html/M_Rock_KeyValueStores_FileKeyValueStore_GetBuckets.htm" />
+  <HelpKINode Title="FindMembersDecoratedWith(Of TAttribute) method" Url="html/M_Rock_Utilities_AttributeLocator_FindMembersDecoratedWith__1.htm" />
+  <HelpKINode Title="FindMembersDecoratedWith&lt;TAttribute&gt; method" Url="html/M_Rock_Utilities_AttributeLocator_FindMembersDecoratedWith__1.htm" />
+  <HelpKINode Title="ForEach(Of TSource) method" Url="html/M_Rock_Collections_ForEachExtension_ForEach__1.htm" />
+  <HelpKINode Title="ForEach&lt;TSource&gt; method" Url="html/M_Rock_Collections_ForEachExtension_ForEach__1.htm" />
+  <HelpKINode Title="ForEachExtension class">
+    <HelpKINode Title="ForEachExtension Class" Url="html/T_Rock_Collections_ForEachExtension.htm" />
+    <HelpKINode Title="about ForEachExtension class" Url="html/T_Rock_Collections_ForEachExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_ForEachExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ForEachExtension.ForEach(Of TSource) method" Url="html/M_Rock_Collections_ForEachExtension_ForEach__1.htm" />
+  <HelpKINode Title="ForEachExtension.ForEach&lt;TSource&gt; method" Url="html/M_Rock_Collections_ForEachExtension_ForEach__1.htm" />
+  <HelpKINode Title="FormatToString method" Url="html/M_Rock_StringFormatting_FormatToStringExtension_FormatToString.htm" />
+  <HelpKINode Title="FormatToStringExtension class">
+    <HelpKINode Title="FormatToStringExtension Class" Url="html/T_Rock_StringFormatting_FormatToStringExtension.htm" />
+    <HelpKINode Title="about FormatToStringExtension class" Url="html/T_Rock_StringFormatting_FormatToStringExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_StringFormatting_FormatToStringExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormatToStringExtension.FormatToString method" Url="html/M_Rock_StringFormatting_FormatToStringExtension_FormatToString.htm" />
+  <HelpKINode Title="FunctionalKeyedCollection(Of TKey, TItem) class">
+    <HelpKINode Title="FunctionalKeyedCollection(TKey, TItem) Class" Url="html/T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+    <HelpKINode Title="about FunctionalKeyedCollection(Of TKey, TItem) class" Url="html/T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Collections_FunctionalKeyedCollection_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FunctionalKeyedCollection(Of TKey, TItem).FunctionalKeyedCollection constructor" Url="html/M_Rock_Collections_FunctionalKeyedCollection_2__ctor.htm" />
+  <HelpKINode Title="FunctionalKeyedCollection(Of TKey, TItem).GetKeyForItem method" Url="html/M_Rock_Collections_FunctionalKeyedCollection_2_GetKeyForItem.htm" />
+  <HelpKINode Title="FunctionalKeyedCollection&lt;TKey, TItem&gt; class">
+    <HelpKINode Title="FunctionalKeyedCollection(TKey, TItem) Class" Url="html/T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+    <HelpKINode Title="about FunctionalKeyedCollection&lt;TKey, TItem&gt; class" Url="html/T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Collections_FunctionalKeyedCollection_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FunctionalKeyedCollection&lt;TKey, TItem&gt;.FunctionalKeyedCollection constructor" Url="html/M_Rock_Collections_FunctionalKeyedCollection_2__ctor.htm" />
+  <HelpKINode Title="FunctionalKeyedCollection&lt;TKey, TItem&gt;.GetKeyForItem method" Url="html/M_Rock_Collections_FunctionalKeyedCollection_2_GetKeyForItem.htm" />
+  <HelpKINode Title="Get method">
+    <HelpKINode Title="AutoContainer.Get Method " Url="html/Overload_Rock_DependencyInjection_AutoContainer_Get.htm" />
+    <HelpKINode Title="GetExtensions.Get Method " Url="html/Overload_Rock_KeyValueStores_GetExtensions_Get.htm" />
+    <HelpKINode Title="IResolver.Get Method " Url="html/Overload_Rock_DependencyInjection_IResolver_Get.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Get(Of T) method" Url="html/M_Rock_IO_TempStorage_Get__1.htm" />
+  <HelpKINode Title="Get&lt;T&gt; method" Url="html/M_Rock_IO_TempStorage_Get__1.htm" />
+  <HelpKINode Title="GetApplicationId method">
+    <HelpKINode Title="AppSettingsApplicationIdProvider.GetApplicationId Method " Url="html/M_Rock_AppSettingsApplicationIdProvider_GetApplicationId.htm" />
+    <HelpKINode Title="EntryAssemblyApplicationIdProvider.GetApplicationId Method " Url="html/M_Rock_EntryAssemblyApplicationIdProvider_GetApplicationId.htm" />
+    <HelpKINode Title="IApplicationIdProvider.GetApplicationId Method " Url="html/M_Rock_IApplicationIdProvider_GetApplicationId.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetBucket method">
+    <HelpKINode Title="FileKeyValueStore.GetBucket Method " Url="html/M_Rock_KeyValueStores_FileKeyValueStore_GetBucket.htm" />
+    <HelpKINode Title="IKeyValueStore.GetBucket Method " Url="html/M_Rock_KeyValueStores_IKeyValueStore_GetBucket.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetBuckets method">
+    <HelpKINode Title="FileKeyValueStore.GetBuckets Method " Url="html/M_Rock_KeyValueStores_FileKeyValueStore_GetBuckets.htm" />
+    <HelpKINode Title="IKeyValueStore.GetBuckets Method " Url="html/M_Rock_KeyValueStores_IKeyValueStore_GetBuckets.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetClosedGenericType method" Url="html/M_Rock_Reflection_GetClosedGenericTypeExtension_GetClosedGenericType.htm" />
+  <HelpKINode Title="GetClosedGenericTypeExtension class">
+    <HelpKINode Title="GetClosedGenericTypeExtension Class" Url="html/T_Rock_Reflection_GetClosedGenericTypeExtension.htm" />
+    <HelpKINode Title="about GetClosedGenericTypeExtension class" Url="html/T_Rock_Reflection_GetClosedGenericTypeExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Reflection_GetClosedGenericTypeExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetClosedGenericTypeExtension.GetClosedGenericType method" Url="html/M_Rock_Reflection_GetClosedGenericTypeExtension_GetClosedGenericType.htm" />
+  <HelpKINode Title="GetConfigType method">
+    <HelpKINode Title="XmlSerializerSectionHandler(TConfiguration).GetConfigType Method " Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_1_GetConfigType.htm" />
+    <HelpKINode Title="XmlSerializerSectionHandler.GetConfigType Method " Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_GetConfigType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetConstructor method" Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions_GetConstructor.htm" />
+  <HelpKINode Title="GetDescription method" Url="html/M_Rock_EnumGetDescriptionExtension_GetDescription.htm" />
+  <HelpKINode Title="GetEndpointStatus method">
+    <HelpKINode Title="EndpointDetector.GetEndpointStatus Method " Url="html/M_Rock_Net_EndpointDetector_GetEndpointStatus.htm" />
+    <HelpKINode Title="IEndpointDetector.GetEndpointStatus Method " Url="html/M_Rock_Net_IEndpointDetector_GetEndpointStatus.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetEnumValue(Of T) method" Url="html/M_Rock_Conversion_GetEnumValueExtension_GetEnumValue__1.htm" />
+  <HelpKINode Title="GetEnumValue&lt;T&gt; method" Url="html/M_Rock_Conversion_GetEnumValueExtension_GetEnumValue__1.htm" />
+  <HelpKINode Title="GetEnumValueExtension class">
+    <HelpKINode Title="GetEnumValueExtension Class" Url="html/T_Rock_Conversion_GetEnumValueExtension.htm" />
+    <HelpKINode Title="about GetEnumValueExtension class" Url="html/T_Rock_Conversion_GetEnumValueExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Conversion_GetEnumValueExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetEnumValueExtension.GetEnumValue(Of T) method" Url="html/M_Rock_Conversion_GetEnumValueExtension_GetEnumValue__1.htm" />
+  <HelpKINode Title="GetEnumValueExtension.GetEnumValue&lt;T&gt; method" Url="html/M_Rock_Conversion_GetEnumValueExtension_GetEnumValue__1.htm" />
+  <HelpKINode Title="GetExtensions class">
+    <HelpKINode Title="GetExtensions Class" Url="html/T_Rock_KeyValueStores_GetExtensions.htm" />
+    <HelpKINode Title="about GetExtensions class" Url="html/T_Rock_KeyValueStores_GetExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_GetExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetExtensions.Get method" Url="html/Overload_Rock_KeyValueStores_GetExtensions_Get.htm" />
+  <HelpKINode Title="GetFieldsAndProperties method">
+    <HelpKINode Title="DeepEqualityComparer.IMemberLocator.GetFieldsAndProperties Method " Url="html/M_Rock_Collections_DeepEqualityComparer_IMemberLocator_GetFieldsAndProperties.htm" />
+    <HelpKINode Title="MemberLocator.GetFieldsAndProperties Method " Url="html/M_Rock_Collections_MemberLocator_GetFieldsAndProperties.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetFirstToRespond method">
+    <HelpKINode Title="EndpointSelector.GetFirstToRespond Method " Url="html/M_Rock_Net_EndpointSelector_GetFirstToRespond.htm" />
+    <HelpKINode Title="EndpointSelectorExtensions.GetFirstToRespond Method " Url="html/M_Rock_Net_EndpointSelectorExtensions_GetFirstToRespond.htm" />
+    <HelpKINode Title="IEndpointSelector.GetFirstToRespond Method " Url="html/M_Rock_Net_IEndpointSelector_GetFirstToRespond.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetGetFunc method" Url="html/Overload_Rock_Reflection_GetGetFuncExtension_GetGetFunc.htm" />
+  <HelpKINode Title="GetGetFuncExtension class">
+    <HelpKINode Title="GetGetFuncExtension Class" Url="html/T_Rock_Reflection_GetGetFuncExtension.htm" />
+    <HelpKINode Title="about GetGetFuncExtension class" Url="html/T_Rock_Reflection_GetGetFuncExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Reflection_GetGetFuncExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetGetFuncExtension.GetGetFunc method" Url="html/Overload_Rock_Reflection_GetGetFuncExtension_GetGetFunc.htm" />
+  <HelpKINode Title="GetHashCode method">
+    <HelpKINode Title="DeepEqualityComparer(T).GetHashCode Method " Url="html/Overload_Rock_Collections_DeepEqualityComparer_1_GetHashCode.htm" />
+    <HelpKINode Title="DeepEqualityComparer.GetHashCode Method " Url="html/Overload_Rock_Collections_DeepEqualityComparer_GetHashCode.htm" />
+    <HelpKINode Title="MemberLocator.GetHashCode Method " Url="html/M_Rock_Collections_MemberLocator_GetHashCode.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetItem method">
+    <HelpKINode Title="DirectoryBucket.GetItem Method " Url="html/M_Rock_KeyValueStores_DirectoryBucket_GetItem.htm" />
+    <HelpKINode Title="GetItemExtension.GetItem Method " Url="html/M_Rock_KeyValueStores_GetItemExtension_GetItem.htm" />
+    <HelpKINode Title="IBucket.GetItem Method " Url="html/M_Rock_KeyValueStores_IBucket_GetItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetItemExtension class">
+    <HelpKINode Title="GetItemExtension Class" Url="html/T_Rock_KeyValueStores_GetItemExtension.htm" />
+    <HelpKINode Title="about GetItemExtension class" Url="html/T_Rock_KeyValueStores_GetItemExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_GetItemExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetItemExtension.GetItem method" Url="html/M_Rock_KeyValueStores_GetItemExtension_GetItem.htm" />
+  <HelpKINode Title="GetItems method">
+    <HelpKINode Title="DirectoryBucket.GetItems Method " Url="html/M_Rock_KeyValueStores_DirectoryBucket_GetItems.htm" />
+    <HelpKINode Title="GetItemsExtension.GetItems Method " Url="html/M_Rock_KeyValueStores_GetItemsExtension_GetItems.htm" />
+    <HelpKINode Title="IBucket.GetItems Method " Url="html/M_Rock_KeyValueStores_IBucket_GetItems.htm" />
+    <HelpKINode Title="TempStorage.GetItems Method " Url="html/M_Rock_IO_TempStorage_GetItems.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetItemsExtension class">
+    <HelpKINode Title="GetItemsExtension Class" Url="html/T_Rock_KeyValueStores_GetItemsExtension.htm" />
+    <HelpKINode Title="about GetItemsExtension class" Url="html/T_Rock_KeyValueStores_GetItemsExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_GetItemsExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetItemsExtension.GetItems method" Url="html/M_Rock_KeyValueStores_GetItemsExtension_GetItems.htm" />
+  <HelpKINode Title="GetKeyForItem method" Url="html/M_Rock_Collections_FunctionalKeyedCollection_2_GetKeyForItem.htm" />
+  <HelpKINode Title="GetObjectData method" Url="html/M_Rock_Configuration_InvalidConfigurationException_GetObjectData.htm" />
+  <HelpKINode Title="HandleException method">
+    <HelpKINode Title="IExceptionHandler.HandleException Method " Url="html/M_Rock_IExceptionHandler_HandleException.htm" />
+    <HelpKINode Title="NullExceptionHandler.HandleException Method " Url="html/M_Rock_NullExceptionHandler_HandleException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HasDefaultValue property" Url="html/P_Rock_Immutable_Semimutable_1_HasDefaultValue.htm" />
+  <HelpKINode Title="HashType enumeration" Url="html/T_Rock_Cryptography_HashType.htm" />
+  <HelpKINode Title="HashTypeExtensions class">
+    <HelpKINode Title="HashTypeExtensions Class" Url="html/T_Rock_Cryptography_HashTypeExtensions.htm" />
+    <HelpKINode Title="about HashTypeExtensions class" Url="html/T_Rock_Cryptography_HashTypeExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Cryptography_HashTypeExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HashTypeExtensions.ComputeHash method" Url="html/Overload_Rock_Cryptography_HashTypeExtensions_ComputeHash.htm" />
+  <HelpKINode Title="HashTypeExtensions.ToHash method" Url="html/Overload_Rock_Cryptography_HashTypeExtensions_ToHash.htm" />
+  <HelpKINode Title="Hour enumeration member" Url="html/T_Rock_TimeSection.htm" />
+  <HelpKINode Title="HttpClientFactory class">
+    <HelpKINode Title="HttpClientFactory Class" Url="html/T_Rock_Net_Http_HttpClientFactory.htm" />
+    <HelpKINode Title="about HttpClientFactory class" Url="html/T_Rock_Net_Http_HttpClientFactory.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Net_Http_HttpClientFactory__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_Http_HttpClientFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HttpClientFactory.CreateHttpClient method" Url="html/M_Rock_Net_Http_HttpClientFactory_CreateHttpClient.htm" />
+  <HelpKINode Title="HttpClientFactory.HttpClientFactory constructor" Url="html/M_Rock_Net_Http_HttpClientFactory__ctor.htm" />
+  <HelpKINode Title="IApplicationIdProvider interface">
+    <HelpKINode Title="IApplicationIdProvider Interface" Url="html/T_Rock_IApplicationIdProvider.htm" />
+    <HelpKINode Title="about IApplicationIdProvider interface" Url="html/T_Rock_IApplicationIdProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_IApplicationIdProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IApplicationIdProvider.GetApplicationId method" Url="html/M_Rock_IApplicationIdProvider_GetApplicationId.htm" />
+  <HelpKINode Title="IBucket interface">
+    <HelpKINode Title="IBucket Interface" Url="html/T_Rock_KeyValueStores_IBucket.htm" />
+    <HelpKINode Title="about IBucket interface" Url="html/T_Rock_KeyValueStores_IBucket.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_IBucket.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_KeyValueStores_IBucket.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBucket.GetItem method" Url="html/M_Rock_KeyValueStores_IBucket_GetItem.htm" />
+  <HelpKINode Title="IBucket.GetItems method" Url="html/M_Rock_KeyValueStores_IBucket_GetItems.htm" />
+  <HelpKINode Title="IBucket.Name property" Url="html/P_Rock_KeyValueStores_IBucket_Name.htm" />
+  <HelpKINode Title="IBucketItem interface">
+    <HelpKINode Title="IBucketItem Interface" Url="html/T_Rock_KeyValueStores_IBucketItem.htm" />
+    <HelpKINode Title="about IBucketItem interface" Url="html/T_Rock_KeyValueStores_IBucketItem.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_IBucketItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_KeyValueStores_IBucketItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBucketItem.BucketName property" Url="html/P_Rock_KeyValueStores_IBucketItem_BucketName.htm" />
+  <HelpKINode Title="IBucketItem.Delete method" Url="html/M_Rock_KeyValueStores_IBucketItem_Delete.htm" />
+  <HelpKINode Title="IBucketItem.Key property" Url="html/P_Rock_KeyValueStores_IBucketItem_Key.htm" />
+  <HelpKINode Title="IBucketItem.Put(Of T) method" Url="html/M_Rock_KeyValueStores_IBucketItem_Put__1.htm" />
+  <HelpKINode Title="IBucketItem.Put&lt;T&gt; method" Url="html/M_Rock_KeyValueStores_IBucketItem_Put__1.htm" />
+  <HelpKINode Title="IBucketItem.TryGet(Of T) method" Url="html/M_Rock_KeyValueStores_IBucketItem_TryGet__1.htm" />
+  <HelpKINode Title="IBucketItem.TryGet&lt;T&gt; method" Url="html/M_Rock_KeyValueStores_IBucketItem_TryGet__1.htm" />
+  <HelpKINode Title="IConfiguration interface">
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_DeepEqualityComparer_IConfiguration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IConvertsTo(Of TTarget) interface">
+    <HelpKINode Title="IConvertsTo(TTarget) Interface" Url="html/T_Rock_Conversion_IConvertsTo_1.htm" />
+    <HelpKINode Title="about IConvertsTo(Of TTarget) interface" Url="html/T_Rock_Conversion_IConvertsTo_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Conversion_IConvertsTo_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IConvertsTo(Of TTarget).Convert method" Url="html/M_Rock_Conversion_IConvertsTo_1_Convert.htm" />
+  <HelpKINode Title="IConvertsTo&lt;TTarget&gt; interface">
+    <HelpKINode Title="IConvertsTo(TTarget) Interface" Url="html/T_Rock_Conversion_IConvertsTo_1.htm" />
+    <HelpKINode Title="about IConvertsTo&lt;TTarget&gt; interface" Url="html/T_Rock_Conversion_IConvertsTo_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Conversion_IConvertsTo_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IConvertsTo&lt;TTarget&gt;.Convert method" Url="html/M_Rock_Conversion_IConvertsTo_1_Convert.htm" />
+  <HelpKINode Title="IEndpointDetector interface">
+    <HelpKINode Title="IEndpointDetector Interface" Url="html/T_Rock_Net_IEndpointDetector.htm" />
+    <HelpKINode Title="about IEndpointDetector interface" Url="html/T_Rock_Net_IEndpointDetector.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_IEndpointDetector.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEndpointDetector.GetEndpointStatus method" Url="html/M_Rock_Net_IEndpointDetector_GetEndpointStatus.htm" />
+  <HelpKINode Title="IEndpointSelector interface">
+    <HelpKINode Title="IEndpointSelector Interface" Url="html/T_Rock_Net_IEndpointSelector.htm" />
+    <HelpKINode Title="about IEndpointSelector interface" Url="html/T_Rock_Net_IEndpointSelector.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_IEndpointSelector.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEndpointSelector.GetFirstToRespond method" Url="html/M_Rock_Net_IEndpointSelector_GetFirstToRespond.htm" />
+  <HelpKINode Title="IExceptionHandler interface">
+    <HelpKINode Title="IExceptionHandler Interface" Url="html/T_Rock_IExceptionHandler.htm" />
+    <HelpKINode Title="about IExceptionHandler interface" Url="html/T_Rock_IExceptionHandler.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_IExceptionHandler.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IExceptionHandler.HandleException method" Url="html/M_Rock_IExceptionHandler_HandleException.htm" />
+  <HelpKINode Title="IHttpClientFactory interface">
+    <HelpKINode Title="IHttpClientFactory Interface" Url="html/T_Rock_Net_Http_IHttpClientFactory.htm" />
+    <HelpKINode Title="about IHttpClientFactory interface" Url="html/T_Rock_Net_Http_IHttpClientFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Net_Http_IHttpClientFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IHttpClientFactory.CreateHttpClient method" Url="html/M_Rock_Net_Http_IHttpClientFactory_CreateHttpClient.htm" />
+  <HelpKINode Title="IKeyedEnumerable(Of TKey, TItem) interface">
+    <HelpKINode Title="IKeyedEnumerable(TKey, TItem) Interface" Url="html/T_Rock_Collections_IKeyedEnumerable_2.htm" />
+    <HelpKINode Title="about IKeyedEnumerable(Of TKey, TItem) interface" Url="html/T_Rock_Collections_IKeyedEnumerable_2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_IKeyedEnumerable_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_IKeyedEnumerable_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IKeyedEnumerable(Of TKey, TItem).Contains method" Url="html/M_Rock_Collections_IKeyedEnumerable_2_Contains.htm" />
+  <HelpKINode Title="IKeyedEnumerable(Of TKey, TItem).Item property" Url="html/P_Rock_Collections_IKeyedEnumerable_2_Item.htm" />
+  <HelpKINode Title="IKeyedEnumerable&lt;TKey, TItem&gt; interface">
+    <HelpKINode Title="IKeyedEnumerable(TKey, TItem) Interface" Url="html/T_Rock_Collections_IKeyedEnumerable_2.htm" />
+    <HelpKINode Title="about IKeyedEnumerable&lt;TKey, TItem&gt; interface" Url="html/T_Rock_Collections_IKeyedEnumerable_2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_IKeyedEnumerable_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_IKeyedEnumerable_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IKeyedEnumerable&lt;TKey, TItem&gt;.Contains method" Url="html/M_Rock_Collections_IKeyedEnumerable_2_Contains.htm" />
+  <HelpKINode Title="IKeyedEnumerable&lt;TKey, TItem&gt;.Item property" Url="html/P_Rock_Collections_IKeyedEnumerable_2_Item.htm" />
+  <HelpKINode Title="IKeyValueStore interface">
+    <HelpKINode Title="IKeyValueStore Interface" Url="html/T_Rock_KeyValueStores_IKeyValueStore.htm" />
+    <HelpKINode Title="about IKeyValueStore interface" Url="html/T_Rock_KeyValueStores_IKeyValueStore.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_IKeyValueStore.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IKeyValueStore.GetBucket method" Url="html/M_Rock_KeyValueStores_IKeyValueStore_GetBucket.htm" />
+  <HelpKINode Title="IKeyValueStore.GetBuckets method" Url="html/M_Rock_KeyValueStores_IKeyValueStore_GetBuckets.htm" />
+  <HelpKINode Title="IMemberLocator interface">
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparer_IMemberLocator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Instance property" Url="html/P_Rock_NullExceptionHandler_Instance.htm" />
+  <HelpKINode Title="InvalidConfigurationException class">
+    <HelpKINode Title="InvalidConfigurationException Class" Url="html/T_Rock_Configuration_InvalidConfigurationException.htm" />
+    <HelpKINode Title="about InvalidConfigurationException class" Url="html/T_Rock_Configuration_InvalidConfigurationException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Configuration_InvalidConfigurationException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Rock_Configuration_InvalidConfigurationException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Configuration_InvalidConfigurationException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Configuration_InvalidConfigurationException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InvalidConfigurationException.DocumentFragment property" Url="html/P_Rock_Configuration_InvalidConfigurationException_DocumentFragment.htm" />
+  <HelpKINode Title="InvalidConfigurationException.GetObjectData method" Url="html/M_Rock_Configuration_InvalidConfigurationException_GetObjectData.htm" />
+  <HelpKINode Title="InvalidConfigurationException.InvalidConfigurationException constructor" Url="html/Overload_Rock_Configuration_InvalidConfigurationException__ctor.htm" />
+  <HelpKINode Title="IResolver interface">
+    <HelpKINode Title="IResolver Interface" Url="html/T_Rock_DependencyInjection_IResolver.htm" />
+    <HelpKINode Title="about IResolver interface" Url="html/T_Rock_DependencyInjection_IResolver.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_DependencyInjection_IResolver.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IResolver.CanGet method" Url="html/M_Rock_DependencyInjection_IResolver_CanGet.htm" />
+  <HelpKINode Title="IResolver.Get method" Url="html/Overload_Rock_DependencyInjection_IResolver_Get.htm" />
+  <HelpKINode Title="IResolver.MergeWith method" Url="html/M_Rock_DependencyInjection_IResolver_MergeWith.htm" />
+  <HelpKINode Title="IResolverConstructorSelector interface">
+    <HelpKINode Title="IResolverConstructorSelector Interface" Url="html/T_Rock_DependencyInjection_Heuristics_IResolverConstructorSelector.htm" />
+    <HelpKINode Title="about IResolverConstructorSelector interface" Url="html/T_Rock_DependencyInjection_Heuristics_IResolverConstructorSelector.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_DependencyInjection_Heuristics_IResolverConstructorSelector.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IResolverConstructorSelector.TryGetConstructor method" Url="html/M_Rock_DependencyInjection_Heuristics_IResolverConstructorSelector_TryGetConstructor.htm" />
+  <HelpKINode Title="ISerializer interface">
+    <HelpKINode Title="ISerializer Interface" Url="html/T_Rock_Serialization_ISerializer.htm" />
+    <HelpKINode Title="about ISerializer interface" Url="html/T_Rock_Serialization_ISerializer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_ISerializer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISerializer.DeserializeFromStream method" Url="html/M_Rock_Serialization_ISerializer_DeserializeFromStream.htm" />
+  <HelpKINode Title="ISerializer.DeserializeFromString method" Url="html/M_Rock_Serialization_ISerializer_DeserializeFromString.htm" />
+  <HelpKINode Title="ISerializer.SerializeToStream method" Url="html/M_Rock_Serialization_ISerializer_SerializeToStream.htm" />
+  <HelpKINode Title="ISerializer.SerializeToString method" Url="html/M_Rock_Serialization_ISerializer_SerializeToString.htm" />
+  <HelpKINode Title="IsIDictionaryOfTToAnything(Of TKey) method" Url="html/M_Rock_Reflection_IsIDictionryOfTToAnythingExtension_IsIDictionaryOfTToAnything__1.htm" />
+  <HelpKINode Title="IsIDictionaryOfTToAnything&lt;TKey&gt; method" Url="html/M_Rock_Reflection_IsIDictionryOfTToAnythingExtension_IsIDictionaryOfTToAnything__1.htm" />
+  <HelpKINode Title="IsIDictionryOfTToAnythingExtension class">
+    <HelpKINode Title="IsIDictionryOfTToAnythingExtension Class" Url="html/T_Rock_Reflection_IsIDictionryOfTToAnythingExtension.htm" />
+    <HelpKINode Title="about IsIDictionryOfTToAnythingExtension class" Url="html/T_Rock_Reflection_IsIDictionryOfTToAnythingExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Reflection_IsIDictionryOfTToAnythingExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsIDictionryOfTToAnythingExtension.IsIDictionaryOfTToAnything(Of TKey) method" Url="html/M_Rock_Reflection_IsIDictionryOfTToAnythingExtension_IsIDictionaryOfTToAnything__1.htm" />
+  <HelpKINode Title="IsIDictionryOfTToAnythingExtension.IsIDictionaryOfTToAnything&lt;TKey&gt; method" Url="html/M_Rock_Reflection_IsIDictionryOfTToAnythingExtension_IsIDictionaryOfTToAnything__1.htm" />
+  <HelpKINode Title="IsLessSpecificThan method" Url="html/M_Rock_Reflection_IsLessSpecificThanExtension_IsLessSpecificThan.htm" />
+  <HelpKINode Title="IsLessSpecificThanExtension class">
+    <HelpKINode Title="IsLessSpecificThanExtension Class" Url="html/T_Rock_Reflection_IsLessSpecificThanExtension.htm" />
+    <HelpKINode Title="about IsLessSpecificThanExtension class" Url="html/T_Rock_Reflection_IsLessSpecificThanExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Reflection_IsLessSpecificThanExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsLessSpecificThanExtension.IsLessSpecificThan method" Url="html/M_Rock_Reflection_IsLessSpecificThanExtension_IsLessSpecificThan.htm" />
+  <HelpKINode Title="IsLocked property" Url="html/P_Rock_Immutable_Semimutable_1_IsLocked.htm" />
+  <HelpKINode Title="IsNullOrEmpty method" Url="html/M_Rock_StringIsNullExtensions_IsNullOrEmpty.htm" />
+  <HelpKINode Title="IsNullOrWhiteSpace method" Url="html/M_Rock_StringIsNullExtensions_IsNullOrWhiteSpace.htm" />
+  <HelpKINode Title="IsPrimitivish method" Url="html/M_Rock_Reflection_IsPrimitivishExtension_IsPrimitivish.htm" />
+  <HelpKINode Title="IsPrimitivishExtension class">
+    <HelpKINode Title="IsPrimitivishExtension Class" Url="html/T_Rock_Reflection_IsPrimitivishExtension.htm" />
+    <HelpKINode Title="about IsPrimitivishExtension class" Url="html/T_Rock_Reflection_IsPrimitivishExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Reflection_IsPrimitivishExtension.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Reflection_IsPrimitivishExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsPrimitivishExtension.ExtraPrimitivishTypes property" Url="html/P_Rock_Reflection_IsPrimitivishExtension_ExtraPrimitivishTypes.htm" />
+  <HelpKINode Title="IsPrimitivishExtension.IsPrimitivish method" Url="html/M_Rock_Reflection_IsPrimitivishExtension_IsPrimitivish.htm" />
+  <HelpKINode Title="IsPrimitivishExtension.SetExtraPrimitivishTypes method" Url="html/M_Rock_Reflection_IsPrimitivishExtension_SetExtraPrimitivishTypes.htm" />
+  <HelpKINode Title="IsPublic method" Url="html/M_Rock_Reflection_IsPublicExtension_IsPublic.htm" />
+  <HelpKINode Title="IsPublicExtension class">
+    <HelpKINode Title="IsPublicExtension Class" Url="html/T_Rock_Reflection_IsPublicExtension.htm" />
+    <HelpKINode Title="about IsPublicExtension class" Url="html/T_Rock_Reflection_IsPublicExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Reflection_IsPublicExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsPublicExtension.IsPublic method" Url="html/M_Rock_Reflection_IsPublicExtension_IsPublic.htm" />
+  <HelpKINode Title="IsStatic method" Url="html/M_Rock_Reflection_IsStaticExtension_IsStatic.htm" />
+  <HelpKINode Title="IsStaticExtension class">
+    <HelpKINode Title="IsStaticExtension Class" Url="html/T_Rock_Reflection_IsStaticExtension.htm" />
+    <HelpKINode Title="about IsStaticExtension class" Url="html/T_Rock_Reflection_IsStaticExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Reflection_IsStaticExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsStaticExtension.IsStatic method" Url="html/M_Rock_Reflection_IsStaticExtension_IsStatic.htm" />
+  <HelpKINode Title="Item property" Url="html/P_Rock_Collections_IKeyedEnumerable_2_Item.htm" />
+  <HelpKINode Title="Key property">
+    <HelpKINode Title="FileBucketItem.Key Property " Url="html/P_Rock_KeyValueStores_FileBucketItem_Key.htm" />
+    <HelpKINode Title="IBucketItem.Key Property " Url="html/P_Rock_KeyValueStores_IBucketItem_Key.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeyedCollection(Of TKey, TItem) class">
+    <HelpKINode Title="KeyedCollection(TKey, TItem) Class" Url="html/T_Rock_Collections_KeyedCollection_2.htm" />
+    <HelpKINode Title="about KeyedCollection(Of TKey, TItem) class" Url="html/T_Rock_Collections_KeyedCollection_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Collections_KeyedCollection_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_KeyedCollection_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_KeyedCollection_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeyedCollection(Of TKey, TItem).KeyedCollection constructor" Url="html/M_Rock_Collections_KeyedCollection_2__ctor.htm" />
+  <HelpKINode Title="KeyedCollection&lt;TKey, TItem&gt; class">
+    <HelpKINode Title="KeyedCollection(TKey, TItem) Class" Url="html/T_Rock_Collections_KeyedCollection_2.htm" />
+    <HelpKINode Title="about KeyedCollection&lt;TKey, TItem&gt; class" Url="html/T_Rock_Collections_KeyedCollection_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Collections_KeyedCollection_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_KeyedCollection_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_KeyedCollection_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeyedCollection&lt;TKey, TItem&gt;.KeyedCollection constructor" Url="html/M_Rock_Collections_KeyedCollection_2__ctor.htm" />
+  <HelpKINode Title="KeyValueStore property" Url="html/P_Rock_IO_TempStorage_KeyValueStore.htm" />
+  <HelpKINode Title="LockValue method" Url="html/M_Rock_Immutable_Semimutable_1_LockValue.htm" />
+  <HelpKINode Title="MD5 enumeration member" Url="html/T_Rock_Cryptography_HashType.htm" />
+  <HelpKINode Title="MemberLocator class">
+    <HelpKINode Title="MemberLocator Class" Url="html/T_Rock_Collections_MemberLocator.htm" />
+    <HelpKINode Title="about MemberLocator class" Url="html/T_Rock_Collections_MemberLocator.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Collections_MemberLocator__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_MemberLocator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MemberLocator property">
+    <HelpKINode Title="DeepEqualityComparer.IConfiguration.MemberLocator Property " Url="html/P_Rock_Collections_DeepEqualityComparer_IConfiguration_MemberLocator.htm" />
+    <HelpKINode Title="DeepEqualityComparerConfiguration.MemberLocator Property " Url="html/P_Rock_Collections_DeepEqualityComparerConfiguration_MemberLocator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MemberLocator.Equals method" Url="html/M_Rock_Collections_MemberLocator_Equals.htm" />
+  <HelpKINode Title="MemberLocator.GetFieldsAndProperties method" Url="html/M_Rock_Collections_MemberLocator_GetFieldsAndProperties.htm" />
+  <HelpKINode Title="MemberLocator.GetHashCode method" Url="html/M_Rock_Collections_MemberLocator_GetHashCode.htm" />
+  <HelpKINode Title="MemberLocator.MemberLocator constructor" Url="html/M_Rock_Collections_MemberLocator__ctor.htm" />
+  <HelpKINode Title="MergeWith method">
+    <HelpKINode Title="AutoContainer.MergeWith Method " Url="html/M_Rock_DependencyInjection_AutoContainer_MergeWith.htm" />
+    <HelpKINode Title="IResolver.MergeWith Method " Url="html/M_Rock_DependencyInjection_IResolver_MergeWith.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Millisecond enumeration member" Url="html/T_Rock_TimeSection.htm" />
+  <HelpKINode Title="Minute enumeration member" Url="html/T_Rock_TimeSection.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="DeepEqualityComparer.PropertyOrField.Name Property " Url="html/P_Rock_Collections_DeepEqualityComparer_PropertyOrField_Name.htm" />
+    <HelpKINode Title="DirectoryBucket.Name Property " Url="html/P_Rock_KeyValueStores_DirectoryBucket_Name.htm" />
+    <HelpKINode Title="ExportAttribute.Name Property " Url="html/P_Rock_StaticDependencyInjection_ExportAttribute_Name.htm" />
+    <HelpKINode Title="IBucket.Name Property " Url="html/P_Rock_KeyValueStores_IBucket_Name.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Network method" Url="html/M_Rock_Mail_DeliveryMethod_Network.htm" />
+  <HelpKINode Title="NullExceptionHandler class">
+    <HelpKINode Title="NullExceptionHandler Class" Url="html/T_Rock_NullExceptionHandler.htm" />
+    <HelpKINode Title="about NullExceptionHandler class" Url="html/T_Rock_NullExceptionHandler.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_NullExceptionHandler.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_NullExceptionHandler.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NullExceptionHandler.HandleException method" Url="html/M_Rock_NullExceptionHandler_HandleException.htm" />
+  <HelpKINode Title="NullExceptionHandler.Instance property" Url="html/P_Rock_NullExceptionHandler_Instance.htm" />
+  <HelpKINode Title="Priority property" Url="html/P_Rock_StaticDependencyInjection_ExportAttribute_Priority.htm" />
+  <HelpKINode Title="PropertyOrField class">
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_DeepEqualityComparer_PropertyOrField.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_DeepEqualityComparer_PropertyOrField.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyOrFieldType property" Url="html/P_Rock_Collections_DeepEqualityComparer_PropertyOrField_PropertyOrFieldType.htm" />
+  <HelpKINode Title="Put method" Url="html/Overload_Rock_KeyValueStores_PutExtensions_Put.htm" />
+  <HelpKINode Title="Put(Of T) method">
+    <HelpKINode Title="FileBucketItem.Put(T) Method " Url="html/M_Rock_KeyValueStores_FileBucketItem_Put__1.htm" />
+    <HelpKINode Title="IBucketItem.Put(T) Method " Url="html/M_Rock_KeyValueStores_IBucketItem_Put__1.htm" />
+    <HelpKINode Title="TempStorage.Put(T) Method " Url="html/M_Rock_IO_TempStorage_Put__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Put&lt;T&gt; method">
+    <HelpKINode Title="FileBucketItem.Put(T) Method " Url="html/M_Rock_KeyValueStores_FileBucketItem_Put__1.htm" />
+    <HelpKINode Title="IBucketItem.Put(T) Method " Url="html/M_Rock_KeyValueStores_IBucketItem_Put__1.htm" />
+    <HelpKINode Title="TempStorage.Put(T) Method " Url="html/M_Rock_IO_TempStorage_Put__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PutExtensions class">
+    <HelpKINode Title="PutExtensions Class" Url="html/T_Rock_KeyValueStores_PutExtensions.htm" />
+    <HelpKINode Title="about PutExtensions class" Url="html/T_Rock_KeyValueStores_PutExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_PutExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PutExtensions.Put method" Url="html/Overload_Rock_KeyValueStores_PutExtensions_Put.htm" />
+  <HelpKINode Title="Release method" Url="html/M_Rock_Threading_SoftLock_Release.htm" />
+  <HelpKINode Title="ResetValue method" Url="html/M_Rock_Immutable_Semimutable_1_ResetValue.htm" />
+  <HelpKINode Title="ResolveException class">
+    <HelpKINode Title="ResolveException Class" Url="html/T_Rock_DependencyInjection_ResolveException.htm" />
+    <HelpKINode Title="about ResolveException class" Url="html/T_Rock_DependencyInjection_ResolveException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_DependencyInjection_ResolveException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Rock_DependencyInjection_ResolveException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_DependencyInjection_ResolveException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_DependencyInjection_ResolveException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResolveException.ResolveException constructor" Url="html/Overload_Rock_DependencyInjection_ResolveException__ctor.htm" />
+  <HelpKINode Title="ResolverConstructorSelector class">
+    <HelpKINode Title="ResolverConstructorSelector Class" Url="html/T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector.htm" />
+    <HelpKINode Title="about ResolverConstructorSelector class" Url="html/T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResolverConstructorSelector.ResolverConstructorSelector constructor" Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector__ctor.htm" />
+  <HelpKINode Title="ResolverConstructorSelector.TryGetConstructor method" Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector_TryGetConstructor.htm" />
+  <HelpKINode Title="ResolverConstructorSelectorExtensions class">
+    <HelpKINode Title="ResolverConstructorSelectorExtensions Class" Url="html/T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions.htm" />
+    <HelpKINode Title="about ResolverConstructorSelectorExtensions class" Url="html/T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResolverConstructorSelectorExtensions.CanGetConstructor method" Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions_CanGetConstructor.htm" />
+  <HelpKINode Title="ResolverConstructorSelectorExtensions.GetConstructor method" Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions_GetConstructor.htm" />
+  <HelpKINode Title="Rock namespace" Url="html/N_Rock.htm" />
+  <HelpKINode Title="Rock.ApplicationId class" Url="html/T_Rock_ApplicationId.htm" />
+  <HelpKINode Title="Rock.AppSettingsApplicationIdProvider class" Url="html/T_Rock_AppSettingsApplicationIdProvider.htm" />
+  <HelpKINode Title="Rock.Collections namespace" Url="html/N_Rock_Collections.htm" />
+  <HelpKINode Title="Rock.Collections.AddSafelyExtension class" Url="html/T_Rock_Collections_AddSafelyExtension.htm" />
+  <HelpKINode Title="Rock.Collections.AsKeyedExtension class" Url="html/T_Rock_Collections_AsKeyedExtension.htm" />
+  <HelpKINode Title="Rock.Collections.ConcatExtensions class" Url="html/T_Rock_Collections_ConcatExtensions.htm" />
+  <HelpKINode Title="Rock.Collections.DeepEqualityComparer class" Url="html/T_Rock_Collections_DeepEqualityComparer.htm" />
+  <HelpKINode Title="Rock.Collections.DeepEqualityComparer(Of T) class" Url="html/T_Rock_Collections_DeepEqualityComparer_1.htm" />
+  <HelpKINode Title="Rock.Collections.DeepEqualityComparer.IConfiguration interface" Url="html/T_Rock_Collections_DeepEqualityComparer_IConfiguration.htm" />
+  <HelpKINode Title="Rock.Collections.DeepEqualityComparer.IMemberLocator interface" Url="html/T_Rock_Collections_DeepEqualityComparer_IMemberLocator.htm" />
+  <HelpKINode Title="Rock.Collections.DeepEqualityComparer.PropertyOrField class" Url="html/T_Rock_Collections_DeepEqualityComparer_PropertyOrField.htm" />
+  <HelpKINode Title="Rock.Collections.DeepEqualityComparer&lt;T&gt; class" Url="html/T_Rock_Collections_DeepEqualityComparer_1.htm" />
+  <HelpKINode Title="Rock.Collections.DeepEqualityComparerConfiguration class" Url="html/T_Rock_Collections_DeepEqualityComparerConfiguration.htm" />
+  <HelpKINode Title="Rock.Collections.ForEachExtension class" Url="html/T_Rock_Collections_ForEachExtension.htm" />
+  <HelpKINode Title="Rock.Collections.FunctionalKeyedCollection(Of TKey, TItem) class" Url="html/T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+  <HelpKINode Title="Rock.Collections.FunctionalKeyedCollection&lt;TKey, TItem&gt; class" Url="html/T_Rock_Collections_FunctionalKeyedCollection_2.htm" />
+  <HelpKINode Title="Rock.Collections.IKeyedEnumerable(Of TKey, TItem) interface" Url="html/T_Rock_Collections_IKeyedEnumerable_2.htm" />
+  <HelpKINode Title="Rock.Collections.IKeyedEnumerable&lt;TKey, TItem&gt; interface" Url="html/T_Rock_Collections_IKeyedEnumerable_2.htm" />
+  <HelpKINode Title="Rock.Collections.KeyedCollection(Of TKey, TItem) class" Url="html/T_Rock_Collections_KeyedCollection_2.htm" />
+  <HelpKINode Title="Rock.Collections.KeyedCollection&lt;TKey, TItem&gt; class" Url="html/T_Rock_Collections_KeyedCollection_2.htm" />
+  <HelpKINode Title="Rock.Collections.MemberLocator class" Url="html/T_Rock_Collections_MemberLocator.htm" />
+  <HelpKINode Title="Rock.Collections.SerializableDictionary(Of TKey, TValue) class" Url="html/T_Rock_Collections_SerializableDictionary_2.htm" />
+  <HelpKINode Title="Rock.Collections.SerializableDictionary&lt;TKey, TValue&gt; class" Url="html/T_Rock_Collections_SerializableDictionary_2.htm" />
+  <HelpKINode Title="Rock.Configuration namespace" Url="html/N_Rock_Configuration.htm" />
+  <HelpKINode Title="Rock.Configuration.InvalidConfigurationException class" Url="html/T_Rock_Configuration_InvalidConfigurationException.htm" />
+  <HelpKINode Title="Rock.Configuration.XmlSerializerSectionHandler class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler.htm" />
+  <HelpKINode Title="Rock.Configuration.XmlSerializerSectionHandler(Of TConfiguration) class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler_1.htm" />
+  <HelpKINode Title="Rock.Configuration.XmlSerializerSectionHandler&lt;TConfiguration&gt; class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler_1.htm" />
+  <HelpKINode Title="Rock.Conversion namespace" Url="html/N_Rock_Conversion.htm" />
+  <HelpKINode Title="Rock.Conversion.ConvertsToDictionaryOfStringTo(Of TValue) class" Url="html/T_Rock_Conversion_ConvertsToDictionaryOfStringTo_1.htm" />
+  <HelpKINode Title="Rock.Conversion.ConvertsToDictionaryOfStringTo&lt;TValue&gt; class" Url="html/T_Rock_Conversion_ConvertsToDictionaryOfStringTo_1.htm" />
+  <HelpKINode Title="Rock.Conversion.ConvertsToExpandoObject class" Url="html/T_Rock_Conversion_ConvertsToExpandoObject.htm" />
+  <HelpKINode Title="Rock.Conversion.GetEnumValueExtension class" Url="html/T_Rock_Conversion_GetEnumValueExtension.htm" />
+  <HelpKINode Title="Rock.Conversion.IConvertsTo(Of TTarget) interface" Url="html/T_Rock_Conversion_IConvertsTo_1.htm" />
+  <HelpKINode Title="Rock.Conversion.IConvertsTo&lt;TTarget&gt; interface" Url="html/T_Rock_Conversion_IConvertsTo_1.htm" />
+  <HelpKINode Title="Rock.Conversion.ToDictionaryOfStringToStringExtension class" Url="html/T_Rock_Conversion_ToDictionaryOfStringToStringExtension.htm" />
+  <HelpKINode Title="Rock.Conversion.ToExpandoObjectExtension class" Url="html/T_Rock_Conversion_ToExpandoObjectExtension.htm" />
+  <HelpKINode Title="Rock.Cryptography namespace" Url="html/N_Rock_Cryptography.htm" />
+  <HelpKINode Title="Rock.Cryptography.HashType enumeration" Url="html/T_Rock_Cryptography_HashType.htm" />
+  <HelpKINode Title="Rock.Cryptography.HashTypeExtensions class" Url="html/T_Rock_Cryptography_HashTypeExtensions.htm" />
+  <HelpKINode Title="Rock.DateTimeTruncateExtension class" Url="html/T_Rock_DateTimeTruncateExtension.htm" />
+  <HelpKINode Title="Rock.DependencyInjection namespace" Url="html/N_Rock_DependencyInjection.htm" />
+  <HelpKINode Title="Rock.DependencyInjection.AutoContainer class" Url="html/T_Rock_DependencyInjection_AutoContainer.htm" />
+  <HelpKINode Title="Rock.DependencyInjection.Heuristics namespace" Url="html/N_Rock_DependencyInjection_Heuristics.htm" />
+  <HelpKINode Title="Rock.DependencyInjection.Heuristics.IResolverConstructorSelector interface" Url="html/T_Rock_DependencyInjection_Heuristics_IResolverConstructorSelector.htm" />
+  <HelpKINode Title="Rock.DependencyInjection.Heuristics.ResolverConstructorSelector class" Url="html/T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector.htm" />
+  <HelpKINode Title="Rock.DependencyInjection.Heuristics.ResolverConstructorSelectorExtensions class" Url="html/T_Rock_DependencyInjection_Heuristics_ResolverConstructorSelectorExtensions.htm" />
+  <HelpKINode Title="Rock.DependencyInjection.IResolver interface" Url="html/T_Rock_DependencyInjection_IResolver.htm" />
+  <HelpKINode Title="Rock.DependencyInjection.ResolveException class" Url="html/T_Rock_DependencyInjection_ResolveException.htm" />
+  <HelpKINode Title="Rock.EntryAssemblyApplicationIdProvider class" Url="html/T_Rock_EntryAssemblyApplicationIdProvider.htm" />
+  <HelpKINode Title="Rock.EnumGetDescriptionExtension class" Url="html/T_Rock_EnumGetDescriptionExtension.htm" />
+  <HelpKINode Title="Rock.IApplicationIdProvider interface" Url="html/T_Rock_IApplicationIdProvider.htm" />
+  <HelpKINode Title="Rock.IExceptionHandler interface" Url="html/T_Rock_IExceptionHandler.htm" />
+  <HelpKINode Title="Rock.Immutable namespace" Url="html/N_Rock_Immutable.htm" />
+  <HelpKINode Title="Rock.Immutable.Semimutable(Of T) class" Url="html/T_Rock_Immutable_Semimutable_1.htm" />
+  <HelpKINode Title="Rock.Immutable.Semimutable&lt;T&gt; class" Url="html/T_Rock_Immutable_Semimutable_1.htm" />
+  <HelpKINode Title="Rock.IO namespace" Url="html/N_Rock_IO.htm" />
+  <HelpKINode Title="Rock.IO.EncodedStringWriter class" Url="html/T_Rock_IO_EncodedStringWriter.htm" />
+  <HelpKINode Title="Rock.IO.TempStorage class" Url="html/T_Rock_IO_TempStorage.htm" />
+  <HelpKINode Title="Rock.KeyValueStores namespace" Url="html/N_Rock_KeyValueStores.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.DeleteExtensions class" Url="html/T_Rock_KeyValueStores_DeleteExtensions.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.DirectoryBucket class" Url="html/T_Rock_KeyValueStores_DirectoryBucket.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.FileBucketItem class" Url="html/T_Rock_KeyValueStores_FileBucketItem.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.FileKeyValueStore class" Url="html/T_Rock_KeyValueStores_FileKeyValueStore.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.GetExtensions class" Url="html/T_Rock_KeyValueStores_GetExtensions.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.GetItemExtension class" Url="html/T_Rock_KeyValueStores_GetItemExtension.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.GetItemsExtension class" Url="html/T_Rock_KeyValueStores_GetItemsExtension.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.IBucket interface" Url="html/T_Rock_KeyValueStores_IBucket.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.IBucketItem interface" Url="html/T_Rock_KeyValueStores_IBucketItem.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.IKeyValueStore interface" Url="html/T_Rock_KeyValueStores_IKeyValueStore.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.PutExtensions class" Url="html/T_Rock_KeyValueStores_PutExtensions.htm" />
+  <HelpKINode Title="Rock.KeyValueStores.TryGetExtensions class" Url="html/T_Rock_KeyValueStores_TryGetExtensions.htm" />
+  <HelpKINode Title="Rock.Mail namespace" Url="html/N_Rock_Mail.htm" />
+  <HelpKINode Title="Rock.Mail.DeliveryMethod class" Url="html/T_Rock_Mail_DeliveryMethod.htm" />
+  <HelpKINode Title="Rock.Mail.SendExtension class" Url="html/T_Rock_Mail_SendExtension.htm" />
+  <HelpKINode Title="Rock.Net namespace" Url="html/N_Rock_Net.htm" />
+  <HelpKINode Title="Rock.Net.DefaultEndpointDetector class" Url="html/T_Rock_Net_DefaultEndpointDetector.htm" />
+  <HelpKINode Title="Rock.Net.DefaultEndpointSelector class" Url="html/T_Rock_Net_DefaultEndpointSelector.htm" />
+  <HelpKINode Title="Rock.Net.EndpointDetector class" Url="html/T_Rock_Net_EndpointDetector.htm" />
+  <HelpKINode Title="Rock.Net.EndpointSelector class" Url="html/T_Rock_Net_EndpointSelector.htm" />
+  <HelpKINode Title="Rock.Net.EndpointSelectorExtensions class" Url="html/T_Rock_Net_EndpointSelectorExtensions.htm" />
+  <HelpKINode Title="Rock.Net.EndpointStatus class" Url="html/T_Rock_Net_EndpointStatus.htm" />
+  <HelpKINode Title="Rock.Net.Http namespace" Url="html/N_Rock_Net_Http.htm" />
+  <HelpKINode Title="Rock.Net.Http.DefaultHttpClientFactory class" Url="html/T_Rock_Net_Http_DefaultHttpClientFactory.htm" />
+  <HelpKINode Title="Rock.Net.Http.HttpClientFactory class" Url="html/T_Rock_Net_Http_HttpClientFactory.htm" />
+  <HelpKINode Title="Rock.Net.Http.IHttpClientFactory interface" Url="html/T_Rock_Net_Http_IHttpClientFactory.htm" />
+  <HelpKINode Title="Rock.Net.IEndpointDetector interface" Url="html/T_Rock_Net_IEndpointDetector.htm" />
+  <HelpKINode Title="Rock.Net.IEndpointSelector interface" Url="html/T_Rock_Net_IEndpointSelector.htm" />
+  <HelpKINode Title="Rock.NullExceptionHandler class" Url="html/T_Rock_NullExceptionHandler.htm" />
+  <HelpKINode Title="Rock.Reflection namespace" Url="html/N_Rock_Reflection.htm" />
+  <HelpKINode Title="Rock.Reflection.GetClosedGenericTypeExtension class" Url="html/T_Rock_Reflection_GetClosedGenericTypeExtension.htm" />
+  <HelpKINode Title="Rock.Reflection.GetGetFuncExtension class" Url="html/T_Rock_Reflection_GetGetFuncExtension.htm" />
+  <HelpKINode Title="Rock.Reflection.IsIDictionryOfTToAnythingExtension class" Url="html/T_Rock_Reflection_IsIDictionryOfTToAnythingExtension.htm" />
+  <HelpKINode Title="Rock.Reflection.IsLessSpecificThanExtension class" Url="html/T_Rock_Reflection_IsLessSpecificThanExtension.htm" />
+  <HelpKINode Title="Rock.Reflection.IsPrimitivishExtension class" Url="html/T_Rock_Reflection_IsPrimitivishExtension.htm" />
+  <HelpKINode Title="Rock.Reflection.IsPublicExtension class" Url="html/T_Rock_Reflection_IsPublicExtension.htm" />
+  <HelpKINode Title="Rock.Reflection.IsStaticExtension class" Url="html/T_Rock_Reflection_IsStaticExtension.htm" />
+  <HelpKINode Title="Rock.Reflection.SlowFactory class" Url="html/T_Rock_Reflection_SlowFactory.htm" />
+  <HelpKINode Title="Rock.Serialization namespace" Url="html/N_Rock_Serialization.htm" />
+  <HelpKINode Title="Rock.Serialization.BinaryFormatterSerializer class" Url="html/T_Rock_Serialization_BinaryFormatterSerializer.htm" />
+  <HelpKINode Title="Rock.Serialization.DataContractJsonSerializerSerializer class" Url="html/T_Rock_Serialization_DataContractJsonSerializerSerializer.htm" />
+  <HelpKINode Title="Rock.Serialization.DataContractSerializerSerializer class" Url="html/T_Rock_Serialization_DataContractSerializerSerializer.htm" />
+  <HelpKINode Title="Rock.Serialization.DefaultBinarySerializer class" Url="html/T_Rock_Serialization_DefaultBinarySerializer.htm" />
+  <HelpKINode Title="Rock.Serialization.DefaultJsonSerializer class" Url="html/T_Rock_Serialization_DefaultJsonSerializer.htm" />
+  <HelpKINode Title="Rock.Serialization.DefaultXmlSerializer class" Url="html/T_Rock_Serialization_DefaultXmlSerializer.htm" />
+  <HelpKINode Title="Rock.Serialization.ISerializer interface" Url="html/T_Rock_Serialization_ISerializer.htm" />
+  <HelpKINode Title="Rock.Serialization.SerializerExtensions class" Url="html/T_Rock_Serialization_SerializerExtensions.htm" />
+  <HelpKINode Title="Rock.Serialization.ToBinaryExtension class" Url="html/T_Rock_Serialization_ToBinaryExtension.htm" />
+  <HelpKINode Title="Rock.Serialization.ToJsonExtension class" Url="html/T_Rock_Serialization_ToJsonExtension.htm" />
+  <HelpKINode Title="Rock.Serialization.ToXmlExtension class" Url="html/T_Rock_Serialization_ToXmlExtension.htm" />
+  <HelpKINode Title="Rock.Serialization.XmlDeserializationProxy(Of TTarget) class" Url="html/T_Rock_Serialization_XmlDeserializationProxy_1.htm" />
+  <HelpKINode Title="Rock.Serialization.XmlDeserializationProxy&lt;TTarget&gt; class" Url="html/T_Rock_Serialization_XmlDeserializationProxy_1.htm" />
+  <HelpKINode Title="Rock.Serialization.XmlSerializerSerializer class" Url="html/T_Rock_Serialization_XmlSerializerSerializer.htm" />
+  <HelpKINode Title="Rock.StaticDependencyInjection namespace" Url="html/N_Rock_StaticDependencyInjection.htm" />
+  <HelpKINode Title="Rock.StaticDependencyInjection.ExportAttribute class" Url="html/T_Rock_StaticDependencyInjection_ExportAttribute.htm" />
+  <HelpKINode Title="Rock.StringFormatting namespace" Url="html/N_Rock_StringFormatting.htm" />
+  <HelpKINode Title="Rock.StringFormatting.FormatToStringExtension class" Url="html/T_Rock_StringFormatting_FormatToStringExtension.htm" />
+  <HelpKINode Title="Rock.StringFormatting.ToHexStringExtensions class" Url="html/T_Rock_StringFormatting_ToHexStringExtensions.htm" />
+  <HelpKINode Title="Rock.StringFormatting.ToOctetStringExtension class" Url="html/T_Rock_StringFormatting_ToOctetStringExtension.htm" />
+  <HelpKINode Title="Rock.StringIsNullExtensions class" Url="html/T_Rock_StringIsNullExtensions.htm" />
+  <HelpKINode Title="Rock.Threading namespace" Url="html/N_Rock_Threading.htm" />
+  <HelpKINode Title="Rock.Threading.SoftLock class" Url="html/T_Rock_Threading_SoftLock.htm" />
+  <HelpKINode Title="Rock.TimeSection enumeration" Url="html/T_Rock_TimeSection.htm" />
+  <HelpKINode Title="Rock.ToUnixTimestampExtension class" Url="html/T_Rock_ToUnixTimestampExtension.htm" />
+  <HelpKINode Title="Rock.TryFunc(Of T, TResult) delegate" Url="html/T_Rock_TryFunc_2.htm" />
+  <HelpKINode Title="Rock.TryFunc(Of T1, T2, T3, T4, TResult) delegate" Url="html/T_Rock_TryFunc_5.htm" />
+  <HelpKINode Title="Rock.TryFunc(Of T1, T2, T3, TResult) delegate" Url="html/T_Rock_TryFunc_4.htm" />
+  <HelpKINode Title="Rock.TryFunc(Of T1, T2, TResult) delegate" Url="html/T_Rock_TryFunc_3.htm" />
+  <HelpKINode Title="Rock.TryFunc(Of TResult) delegate" Url="html/T_Rock_TryFunc_1.htm" />
+  <HelpKINode Title="Rock.TryFunc&lt;T, TResult&gt; delegate" Url="html/T_Rock_TryFunc_2.htm" />
+  <HelpKINode Title="Rock.TryFunc&lt;T1, T2, T3, T4, TResult&gt; delegate" Url="html/T_Rock_TryFunc_5.htm" />
+  <HelpKINode Title="Rock.TryFunc&lt;T1, T2, T3, TResult&gt; delegate" Url="html/T_Rock_TryFunc_4.htm" />
+  <HelpKINode Title="Rock.TryFunc&lt;T1, T2, TResult&gt; delegate" Url="html/T_Rock_TryFunc_3.htm" />
+  <HelpKINode Title="Rock.TryFunc&lt;TResult&gt; delegate" Url="html/T_Rock_TryFunc_1.htm" />
+  <HelpKINode Title="Rock.Utilities namespace" Url="html/N_Rock_Utilities.htm" />
+  <HelpKINode Title="Rock.Utilities.AttributeLocator class" Url="html/T_Rock_Utilities_AttributeLocator.htm" />
+  <HelpKINode Title="Second enumeration member" Url="html/T_Rock_TimeSection.htm" />
+  <HelpKINode Title="Semimutable(Of T) class">
+    <HelpKINode Title="Semimutable(T) Class" Url="html/T_Rock_Immutable_Semimutable_1.htm" />
+    <HelpKINode Title="about Semimutable(Of T) class" Url="html/T_Rock_Immutable_Semimutable_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Immutable_Semimutable_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Immutable_Semimutable_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Immutable_Semimutable_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Semimutable(Of T).CanUnlock property" Url="html/P_Rock_Immutable_Semimutable_1_CanUnlock.htm" />
+  <HelpKINode Title="Semimutable(Of T).HasDefaultValue property" Url="html/P_Rock_Immutable_Semimutable_1_HasDefaultValue.htm" />
+  <HelpKINode Title="Semimutable(Of T).IsLocked property" Url="html/P_Rock_Immutable_Semimutable_1_IsLocked.htm" />
+  <HelpKINode Title="Semimutable(Of T).LockValue method" Url="html/M_Rock_Immutable_Semimutable_1_LockValue.htm" />
+  <HelpKINode Title="Semimutable(Of T).ResetValue method" Url="html/M_Rock_Immutable_Semimutable_1_ResetValue.htm" />
+  <HelpKINode Title="Semimutable(Of T).Semimutable constructor" Url="html/Overload_Rock_Immutable_Semimutable_1__ctor.htm" />
+  <HelpKINode Title="Semimutable(Of T).SetValue method" Url="html/M_Rock_Immutable_Semimutable_1_SetValue.htm" />
+  <HelpKINode Title="Semimutable(Of T).UnlockValue method" Url="html/M_Rock_Immutable_Semimutable_1_UnlockValue.htm" />
+  <HelpKINode Title="Semimutable(Of T).Value property" Url="html/P_Rock_Immutable_Semimutable_1_Value.htm" />
+  <HelpKINode Title="Semimutable&lt;T&gt; class">
+    <HelpKINode Title="Semimutable(T) Class" Url="html/T_Rock_Immutable_Semimutable_1.htm" />
+    <HelpKINode Title="about Semimutable&lt;T&gt; class" Url="html/T_Rock_Immutable_Semimutable_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Immutable_Semimutable_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Immutable_Semimutable_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Immutable_Semimutable_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Semimutable&lt;T&gt;.CanUnlock property" Url="html/P_Rock_Immutable_Semimutable_1_CanUnlock.htm" />
+  <HelpKINode Title="Semimutable&lt;T&gt;.HasDefaultValue property" Url="html/P_Rock_Immutable_Semimutable_1_HasDefaultValue.htm" />
+  <HelpKINode Title="Semimutable&lt;T&gt;.IsLocked property" Url="html/P_Rock_Immutable_Semimutable_1_IsLocked.htm" />
+  <HelpKINode Title="Semimutable&lt;T&gt;.LockValue method" Url="html/M_Rock_Immutable_Semimutable_1_LockValue.htm" />
+  <HelpKINode Title="Semimutable&lt;T&gt;.ResetValue method" Url="html/M_Rock_Immutable_Semimutable_1_ResetValue.htm" />
+  <HelpKINode Title="Semimutable&lt;T&gt;.Semimutable constructor" Url="html/Overload_Rock_Immutable_Semimutable_1__ctor.htm" />
+  <HelpKINode Title="Semimutable&lt;T&gt;.SetValue method" Url="html/M_Rock_Immutable_Semimutable_1_SetValue.htm" />
+  <HelpKINode Title="Semimutable&lt;T&gt;.UnlockValue method" Url="html/M_Rock_Immutable_Semimutable_1_UnlockValue.htm" />
+  <HelpKINode Title="Semimutable&lt;T&gt;.Value property" Url="html/P_Rock_Immutable_Semimutable_1_Value.htm" />
+  <HelpKINode Title="SendAsync method" Url="html/M_Rock_Mail_SendExtension_SendAsync.htm" />
+  <HelpKINode Title="SendExtension class">
+    <HelpKINode Title="SendExtension Class" Url="html/T_Rock_Mail_SendExtension.htm" />
+    <HelpKINode Title="about SendExtension class" Url="html/T_Rock_Mail_SendExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Mail_SendExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendExtension.SendAsync method" Url="html/M_Rock_Mail_SendExtension_SendAsync.htm" />
+  <HelpKINode Title="SerializableDictionary(Of TKey, TValue) class">
+    <HelpKINode Title="SerializableDictionary(TKey, TValue) Class" Url="html/T_Rock_Collections_SerializableDictionary_2.htm" />
+    <HelpKINode Title="about SerializableDictionary(Of TKey, TValue) class" Url="html/T_Rock_Collections_SerializableDictionary_2.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Collections_SerializableDictionary_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_SerializableDictionary_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_SerializableDictionary_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SerializableDictionary(Of TKey, TValue).SerializableDictionary constructor" Url="html/Overload_Rock_Collections_SerializableDictionary_2__ctor.htm" />
+  <HelpKINode Title="SerializableDictionary&lt;TKey, TValue&gt; class">
+    <HelpKINode Title="SerializableDictionary(TKey, TValue) Class" Url="html/T_Rock_Collections_SerializableDictionary_2.htm" />
+    <HelpKINode Title="about SerializableDictionary&lt;TKey, TValue&gt; class" Url="html/T_Rock_Collections_SerializableDictionary_2.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Collections_SerializableDictionary_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Collections_SerializableDictionary_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Collections_SerializableDictionary_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SerializableDictionary&lt;TKey, TValue&gt;.SerializableDictionary constructor" Url="html/Overload_Rock_Collections_SerializableDictionary_2__ctor.htm" />
+  <HelpKINode Title="SerializerExtensions class">
+    <HelpKINode Title="SerializerExtensions Class" Url="html/T_Rock_Serialization_SerializerExtensions.htm" />
+    <HelpKINode Title="about SerializerExtensions class" Url="html/T_Rock_Serialization_SerializerExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_SerializerExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SerializerExtensions.DeserializeFromByteArray method" Url="html/Overload_Rock_Serialization_SerializerExtensions_DeserializeFromByteArray.htm" />
+  <HelpKINode Title="SerializerExtensions.DeserializeFromStream(Of T) method" Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromStream__1.htm" />
+  <HelpKINode Title="SerializerExtensions.DeserializeFromStream&lt;T&gt; method" Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromStream__1.htm" />
+  <HelpKINode Title="SerializerExtensions.DeserializeFromString(Of T) method" Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromString__1.htm" />
+  <HelpKINode Title="SerializerExtensions.DeserializeFromString&lt;T&gt; method" Url="html/M_Rock_Serialization_SerializerExtensions_DeserializeFromString__1.htm" />
+  <HelpKINode Title="SerializerExtensions.SerializeToByteArray method" Url="html/Overload_Rock_Serialization_SerializerExtensions_SerializeToByteArray.htm" />
+  <HelpKINode Title="SerializerExtensions.SerializeToStream(Of T) method" Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToStream__1.htm" />
+  <HelpKINode Title="SerializerExtensions.SerializeToStream&lt;T&gt; method" Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToStream__1.htm" />
+  <HelpKINode Title="SerializerExtensions.SerializeToString(Of T) method" Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToString__1.htm" />
+  <HelpKINode Title="SerializerExtensions.SerializeToString&lt;T&gt; method" Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToString__1.htm" />
+  <HelpKINode Title="SerializeToByteArray method" Url="html/Overload_Rock_Serialization_SerializerExtensions_SerializeToByteArray.htm" />
+  <HelpKINode Title="SerializeToStream method">
+    <HelpKINode Title="BinaryFormatterSerializer.SerializeToStream Method " Url="html/M_Rock_Serialization_BinaryFormatterSerializer_SerializeToStream.htm" />
+    <HelpKINode Title="DataContractJsonSerializerSerializer.SerializeToStream Method " Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_SerializeToStream.htm" />
+    <HelpKINode Title="DataContractSerializerSerializer.SerializeToStream Method " Url="html/M_Rock_Serialization_DataContractSerializerSerializer_SerializeToStream.htm" />
+    <HelpKINode Title="ISerializer.SerializeToStream Method " Url="html/M_Rock_Serialization_ISerializer_SerializeToStream.htm" />
+    <HelpKINode Title="XmlSerializerSerializer.SerializeToStream Method " Url="html/M_Rock_Serialization_XmlSerializerSerializer_SerializeToStream.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SerializeToStream(Of T) method" Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToStream__1.htm" />
+  <HelpKINode Title="SerializeToStream&lt;T&gt; method" Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToStream__1.htm" />
+  <HelpKINode Title="SerializeToString method">
+    <HelpKINode Title="BinaryFormatterSerializer.SerializeToString Method " Url="html/M_Rock_Serialization_BinaryFormatterSerializer_SerializeToString.htm" />
+    <HelpKINode Title="DataContractJsonSerializerSerializer.SerializeToString Method " Url="html/M_Rock_Serialization_DataContractJsonSerializerSerializer_SerializeToString.htm" />
+    <HelpKINode Title="DataContractSerializerSerializer.SerializeToString Method " Url="html/M_Rock_Serialization_DataContractSerializerSerializer_SerializeToString.htm" />
+    <HelpKINode Title="ISerializer.SerializeToString Method " Url="html/M_Rock_Serialization_ISerializer_SerializeToString.htm" />
+    <HelpKINode Title="XmlSerializerSerializer.SerializeToString Method " Url="html/M_Rock_Serialization_XmlSerializerSerializer_SerializeToString.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SerializeToString(Of T) method" Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToString__1.htm" />
+  <HelpKINode Title="SerializeToString&lt;T&gt; method" Url="html/M_Rock_Serialization_SerializerExtensions_SerializeToString__1.htm" />
+  <HelpKINode Title="SetBinding method" Url="html/M_Rock_DependencyInjection_AutoContainer_SetBinding.htm" />
+  <HelpKINode Title="SetConverter method">
+    <HelpKINode Title="ToDictionaryOfStringToStringExtension.SetConverter Method " Url="html/M_Rock_Conversion_ToDictionaryOfStringToStringExtension_SetConverter.htm" />
+    <HelpKINode Title="ToExpandoObjectExtension.SetConverter Method " Url="html/M_Rock_Conversion_ToExpandoObjectExtension_SetConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetCurrent method">
+    <HelpKINode Title="ApplicationId.SetCurrent Method " Url="html/Overload_Rock_ApplicationId_SetCurrent.htm" />
+    <HelpKINode Title="DefaultBinarySerializer.SetCurrent Method " Url="html/M_Rock_Serialization_DefaultBinarySerializer_SetCurrent.htm" />
+    <HelpKINode Title="DefaultEndpointDetector.SetCurrent Method " Url="html/M_Rock_Net_DefaultEndpointDetector_SetCurrent.htm" />
+    <HelpKINode Title="DefaultEndpointSelector.SetCurrent Method " Url="html/M_Rock_Net_DefaultEndpointSelector_SetCurrent.htm" />
+    <HelpKINode Title="DefaultHttpClientFactory.SetCurrent Method " Url="html/M_Rock_Net_Http_DefaultHttpClientFactory_SetCurrent.htm" />
+    <HelpKINode Title="DefaultJsonSerializer.SetCurrent Method " Url="html/M_Rock_Serialization_DefaultJsonSerializer_SetCurrent.htm" />
+    <HelpKINode Title="DefaultXmlSerializer.SetCurrent Method " Url="html/M_Rock_Serialization_DefaultXmlSerializer_SetCurrent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetDefaultResolverConstructorSelector method" Url="html/M_Rock_DependencyInjection_AutoContainer_SetDefaultResolverConstructorSelector.htm" />
+  <HelpKINode Title="SetExtraPrimitivishTypes method" Url="html/M_Rock_Reflection_IsPrimitivishExtension_SetExtraPrimitivishTypes.htm" />
+  <HelpKINode Title="SetKeyValueStore method" Url="html/M_Rock_IO_TempStorage_SetKeyValueStore.htm" />
+  <HelpKINode Title="SetValue method" Url="html/M_Rock_Immutable_Semimutable_1_SetValue.htm" />
+  <HelpKINode Title="SHA1 enumeration member" Url="html/T_Rock_Cryptography_HashType.htm" />
+  <HelpKINode Title="SHA256 enumeration member" Url="html/T_Rock_Cryptography_HashType.htm" />
+  <HelpKINode Title="SHA512 enumeration member" Url="html/T_Rock_Cryptography_HashType.htm" />
+  <HelpKINode Title="SlowFactory class">
+    <HelpKINode Title="SlowFactory Class" Url="html/T_Rock_Reflection_SlowFactory.htm" />
+    <HelpKINode Title="about SlowFactory class" Url="html/T_Rock_Reflection_SlowFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Reflection_SlowFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SlowFactory.AllParametersHaveDefaultValue method" Url="html/M_Rock_Reflection_SlowFactory_AllParametersHaveDefaultValue.htm" />
+  <HelpKINode Title="SlowFactory.CreateInstance(Of T) method" Url="html/M_Rock_Reflection_SlowFactory_CreateInstance__1.htm" />
+  <HelpKINode Title="SlowFactory.CreateInstance&lt;T&gt; method" Url="html/M_Rock_Reflection_SlowFactory_CreateInstance__1.htm" />
+  <HelpKINode Title="SoftLock class">
+    <HelpKINode Title="SoftLock Class" Url="html/T_Rock_Threading_SoftLock.htm" />
+    <HelpKINode Title="about SoftLock class" Url="html/T_Rock_Threading_SoftLock.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Threading_SoftLock__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Threading_SoftLock.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SoftLock.Release method" Url="html/M_Rock_Threading_SoftLock_Release.htm" />
+  <HelpKINode Title="SoftLock.SoftLock constructor" Url="html/M_Rock_Threading_SoftLock__ctor.htm" />
+  <HelpKINode Title="SoftLock.TryAcquire method" Url="html/M_Rock_Threading_SoftLock_TryAcquire.htm" />
+  <HelpKINode Title="SpecifiedPickupDirectory method" Url="html/M_Rock_Mail_DeliveryMethod_SpecifiedPickupDirectory.htm" />
+  <HelpKINode Title="StatusCode property" Url="html/P_Rock_Net_EndpointStatus_StatusCode.htm" />
+  <HelpKINode Title="StringComparison property">
+    <HelpKINode Title="DeepEqualityComparer.IConfiguration.StringComparison Property " Url="html/P_Rock_Collections_DeepEqualityComparer_IConfiguration_StringComparison.htm" />
+    <HelpKINode Title="DeepEqualityComparerConfiguration.StringComparison Property " Url="html/P_Rock_Collections_DeepEqualityComparerConfiguration_StringComparison.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringIsNullExtensions class">
+    <HelpKINode Title="StringIsNullExtensions Class" Url="html/T_Rock_StringIsNullExtensions.htm" />
+    <HelpKINode Title="about StringIsNullExtensions class" Url="html/T_Rock_StringIsNullExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_StringIsNullExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringIsNullExtensions.IsNullOrEmpty method" Url="html/M_Rock_StringIsNullExtensions_IsNullOrEmpty.htm" />
+  <HelpKINode Title="StringIsNullExtensions.IsNullOrWhiteSpace method" Url="html/M_Rock_StringIsNullExtensions_IsNullOrWhiteSpace.htm" />
+  <HelpKINode Title="Success property" Url="html/P_Rock_Net_EndpointStatus_Success.htm" />
+  <HelpKINode Title="TempStorage class">
+    <HelpKINode Title="TempStorage Class" Url="html/T_Rock_IO_TempStorage.htm" />
+    <HelpKINode Title="about TempStorage class" Url="html/T_Rock_IO_TempStorage.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_IO_TempStorage.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_IO_TempStorage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TempStorage.Delete method" Url="html/M_Rock_IO_TempStorage_Delete.htm" />
+  <HelpKINode Title="TempStorage.Get(Of T) method" Url="html/M_Rock_IO_TempStorage_Get__1.htm" />
+  <HelpKINode Title="TempStorage.Get&lt;T&gt; method" Url="html/M_Rock_IO_TempStorage_Get__1.htm" />
+  <HelpKINode Title="TempStorage.GetItems method" Url="html/M_Rock_IO_TempStorage_GetItems.htm" />
+  <HelpKINode Title="TempStorage.KeyValueStore property" Url="html/P_Rock_IO_TempStorage_KeyValueStore.htm" />
+  <HelpKINode Title="TempStorage.Put(Of T) method" Url="html/M_Rock_IO_TempStorage_Put__1.htm" />
+  <HelpKINode Title="TempStorage.Put&lt;T&gt; method" Url="html/M_Rock_IO_TempStorage_Put__1.htm" />
+  <HelpKINode Title="TempStorage.SetKeyValueStore method" Url="html/M_Rock_IO_TempStorage_SetKeyValueStore.htm" />
+  <HelpKINode Title="TimeSection enumeration" Url="html/T_Rock_TimeSection.htm" />
+  <HelpKINode Title="ToBinary method" Url="html/M_Rock_Serialization_ToBinaryExtension_ToBinary.htm" />
+  <HelpKINode Title="ToBinaryExtension class">
+    <HelpKINode Title="ToBinaryExtension Class" Url="html/T_Rock_Serialization_ToBinaryExtension.htm" />
+    <HelpKINode Title="about ToBinaryExtension class" Url="html/T_Rock_Serialization_ToBinaryExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_ToBinaryExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToBinaryExtension.ToBinary method" Url="html/M_Rock_Serialization_ToBinaryExtension_ToBinary.htm" />
+  <HelpKINode Title="ToDictionaryOfStringToString method" Url="html/M_Rock_Conversion_ToDictionaryOfStringToStringExtension_ToDictionaryOfStringToString.htm" />
+  <HelpKINode Title="ToDictionaryOfStringToStringExtension class">
+    <HelpKINode Title="ToDictionaryOfStringToStringExtension Class" Url="html/T_Rock_Conversion_ToDictionaryOfStringToStringExtension.htm" />
+    <HelpKINode Title="about ToDictionaryOfStringToStringExtension class" Url="html/T_Rock_Conversion_ToDictionaryOfStringToStringExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Conversion_ToDictionaryOfStringToStringExtension.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Conversion_ToDictionaryOfStringToStringExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToDictionaryOfStringToStringExtension.Converter property" Url="html/P_Rock_Conversion_ToDictionaryOfStringToStringExtension_Converter.htm" />
+  <HelpKINode Title="ToDictionaryOfStringToStringExtension.SetConverter method" Url="html/M_Rock_Conversion_ToDictionaryOfStringToStringExtension_SetConverter.htm" />
+  <HelpKINode Title="ToDictionaryOfStringToStringExtension.ToDictionaryOfStringToString method" Url="html/M_Rock_Conversion_ToDictionaryOfStringToStringExtension_ToDictionaryOfStringToString.htm" />
+  <HelpKINode Title="ToExpandoObject method" Url="html/M_Rock_Conversion_ToExpandoObjectExtension_ToExpandoObject.htm" />
+  <HelpKINode Title="ToExpandoObjectExtension class">
+    <HelpKINode Title="ToExpandoObjectExtension Class" Url="html/T_Rock_Conversion_ToExpandoObjectExtension.htm" />
+    <HelpKINode Title="about ToExpandoObjectExtension class" Url="html/T_Rock_Conversion_ToExpandoObjectExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Conversion_ToExpandoObjectExtension.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Conversion_ToExpandoObjectExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToExpandoObjectExtension.Converter property" Url="html/P_Rock_Conversion_ToExpandoObjectExtension_Converter.htm" />
+  <HelpKINode Title="ToExpandoObjectExtension.SetConverter method" Url="html/M_Rock_Conversion_ToExpandoObjectExtension_SetConverter.htm" />
+  <HelpKINode Title="ToExpandoObjectExtension.ToExpandoObject method" Url="html/M_Rock_Conversion_ToExpandoObjectExtension_ToExpandoObject.htm" />
+  <HelpKINode Title="ToHash method" Url="html/Overload_Rock_Cryptography_HashTypeExtensions_ToHash.htm" />
+  <HelpKINode Title="ToHexString method" Url="html/M_Rock_StringFormatting_ToHexStringExtensions_ToHexString.htm" />
+  <HelpKINode Title="ToHexStringExtensions class">
+    <HelpKINode Title="ToHexStringExtensions Class" Url="html/T_Rock_StringFormatting_ToHexStringExtensions.htm" />
+    <HelpKINode Title="about ToHexStringExtensions class" Url="html/T_Rock_StringFormatting_ToHexStringExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_StringFormatting_ToHexStringExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToHexStringExtensions.ToHexString method" Url="html/M_Rock_StringFormatting_ToHexStringExtensions_ToHexString.htm" />
+  <HelpKINode Title="ToJson method" Url="html/M_Rock_Serialization_ToJsonExtension_ToJson.htm" />
+  <HelpKINode Title="ToJsonExtension class">
+    <HelpKINode Title="ToJsonExtension Class" Url="html/T_Rock_Serialization_ToJsonExtension.htm" />
+    <HelpKINode Title="about ToJsonExtension class" Url="html/T_Rock_Serialization_ToJsonExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_ToJsonExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToJsonExtension.ToJson method" Url="html/M_Rock_Serialization_ToJsonExtension_ToJson.htm" />
+  <HelpKINode Title="ToOctetString method" Url="html/M_Rock_StringFormatting_ToOctetStringExtension_ToOctetString.htm" />
+  <HelpKINode Title="ToOctetStringExtension class">
+    <HelpKINode Title="ToOctetStringExtension Class" Url="html/T_Rock_StringFormatting_ToOctetStringExtension.htm" />
+    <HelpKINode Title="about ToOctetStringExtension class" Url="html/T_Rock_StringFormatting_ToOctetStringExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_StringFormatting_ToOctetStringExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToOctetStringExtension.ToOctetString method" Url="html/M_Rock_StringFormatting_ToOctetStringExtension_ToOctetString.htm" />
+  <HelpKINode Title="ToUnixTimestamp method" Url="html/M_Rock_ToUnixTimestampExtension_ToUnixTimestamp.htm" />
+  <HelpKINode Title="ToUnixTimestampExtension class">
+    <HelpKINode Title="ToUnixTimestampExtension Class" Url="html/T_Rock_ToUnixTimestampExtension.htm" />
+    <HelpKINode Title="about ToUnixTimestampExtension class" Url="html/T_Rock_ToUnixTimestampExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_ToUnixTimestampExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToUnixTimestampExtension.ToUnixTimestamp method" Url="html/M_Rock_ToUnixTimestampExtension_ToUnixTimestamp.htm" />
+  <HelpKINode Title="ToXml method" Url="html/M_Rock_Serialization_ToXmlExtension_ToXml.htm" />
+  <HelpKINode Title="ToXmlExtension class">
+    <HelpKINode Title="ToXmlExtension Class" Url="html/T_Rock_Serialization_ToXmlExtension.htm" />
+    <HelpKINode Title="about ToXmlExtension class" Url="html/T_Rock_Serialization_ToXmlExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_ToXmlExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToXmlExtension.ToXml method" Url="html/M_Rock_Serialization_ToXmlExtension_ToXml.htm" />
+  <HelpKINode Title="Truncate method" Url="html/M_Rock_DateTimeTruncateExtension_Truncate.htm" />
+  <HelpKINode Title="TryAcquire method" Url="html/M_Rock_Threading_SoftLock_TryAcquire.htm" />
+  <HelpKINode Title="TryFunc(Of T, TResult) delegate" Url="html/T_Rock_TryFunc_2.htm" />
+  <HelpKINode Title="TryFunc(Of T1, T2, T3, T4, TResult) delegate" Url="html/T_Rock_TryFunc_5.htm" />
+  <HelpKINode Title="TryFunc(Of T1, T2, T3, TResult) delegate" Url="html/T_Rock_TryFunc_4.htm" />
+  <HelpKINode Title="TryFunc(Of T1, T2, TResult) delegate" Url="html/T_Rock_TryFunc_3.htm" />
+  <HelpKINode Title="TryFunc(Of TResult) delegate" Url="html/T_Rock_TryFunc_1.htm" />
+  <HelpKINode Title="TryFunc&lt;T, TResult&gt; delegate" Url="html/T_Rock_TryFunc_2.htm" />
+  <HelpKINode Title="TryFunc&lt;T1, T2, T3, T4, TResult&gt; delegate" Url="html/T_Rock_TryFunc_5.htm" />
+  <HelpKINode Title="TryFunc&lt;T1, T2, T3, TResult&gt; delegate" Url="html/T_Rock_TryFunc_4.htm" />
+  <HelpKINode Title="TryFunc&lt;T1, T2, TResult&gt; delegate" Url="html/T_Rock_TryFunc_3.htm" />
+  <HelpKINode Title="TryFunc&lt;TResult&gt; delegate" Url="html/T_Rock_TryFunc_1.htm" />
+  <HelpKINode Title="TryGet method" Url="html/Overload_Rock_KeyValueStores_TryGetExtensions_TryGet.htm" />
+  <HelpKINode Title="TryGet(Of T) method">
+    <HelpKINode Title="FileBucketItem.TryGet(T) Method " Url="html/M_Rock_KeyValueStores_FileBucketItem_TryGet__1.htm" />
+    <HelpKINode Title="IBucketItem.TryGet(T) Method " Url="html/M_Rock_KeyValueStores_IBucketItem_TryGet__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TryGet&lt;T&gt; method">
+    <HelpKINode Title="FileBucketItem.TryGet(T) Method " Url="html/M_Rock_KeyValueStores_FileBucketItem_TryGet__1.htm" />
+    <HelpKINode Title="IBucketItem.TryGet(T) Method " Url="html/M_Rock_KeyValueStores_IBucketItem_TryGet__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TryGetConstructor method">
+    <HelpKINode Title="IResolverConstructorSelector.TryGetConstructor Method " Url="html/M_Rock_DependencyInjection_Heuristics_IResolverConstructorSelector_TryGetConstructor.htm" />
+    <HelpKINode Title="ResolverConstructorSelector.TryGetConstructor Method " Url="html/M_Rock_DependencyInjection_Heuristics_ResolverConstructorSelector_TryGetConstructor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TryGetExtensions class">
+    <HelpKINode Title="TryGetExtensions Class" Url="html/T_Rock_KeyValueStores_TryGetExtensions.htm" />
+    <HelpKINode Title="about TryGetExtensions class" Url="html/T_Rock_KeyValueStores_TryGetExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_KeyValueStores_TryGetExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TryGetExtensions.TryGet method" Url="html/Overload_Rock_KeyValueStores_TryGetExtensions_TryGet.htm" />
+  <HelpKINode Title="TypeAssemblyQualifiedName property" Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_TypeAssemblyQualifiedName.htm" />
+  <HelpKINode Title="UnlockValue method" Url="html/M_Rock_Immutable_Semimutable_1_UnlockValue.htm" />
+  <HelpKINode Title="Value property" Url="html/P_Rock_Immutable_Semimutable_1_Value.htm" />
+  <HelpKINode Title="XmlDeserializationProxy(Of TTarget) class">
+    <HelpKINode Title="XmlDeserializationProxy(TTarget) Class" Url="html/T_Rock_Serialization_XmlDeserializationProxy_1.htm" />
+    <HelpKINode Title="about XmlDeserializationProxy(Of TTarget) class" Url="html/T_Rock_Serialization_XmlDeserializationProxy_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Serialization_XmlDeserializationProxy_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_XmlDeserializationProxy_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Serialization_XmlDeserializationProxy_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlDeserializationProxy(Of TTarget).AdditionalAttributes property" Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_AdditionalAttributes.htm" />
+  <HelpKINode Title="XmlDeserializationProxy(Of TTarget).AdditionalElements property" Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_AdditionalElements.htm" />
+  <HelpKINode Title="XmlDeserializationProxy(Of TTarget).CreateInstance method" Url="html/Overload_Rock_Serialization_XmlDeserializationProxy_1_CreateInstance.htm" />
+  <HelpKINode Title="XmlDeserializationProxy(Of TTarget).TypeAssemblyQualifiedName property" Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_TypeAssemblyQualifiedName.htm" />
+  <HelpKINode Title="XmlDeserializationProxy(Of TTarget).XmlDeserializationProxy constructor" Url="html/Overload_Rock_Serialization_XmlDeserializationProxy_1__ctor.htm" />
+  <HelpKINode Title="XmlDeserializationProxy&lt;TTarget&gt; class">
+    <HelpKINode Title="XmlDeserializationProxy(TTarget) Class" Url="html/T_Rock_Serialization_XmlDeserializationProxy_1.htm" />
+    <HelpKINode Title="about XmlDeserializationProxy&lt;TTarget&gt; class" Url="html/T_Rock_Serialization_XmlDeserializationProxy_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Serialization_XmlDeserializationProxy_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_XmlDeserializationProxy_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Serialization_XmlDeserializationProxy_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlDeserializationProxy&lt;TTarget&gt;.AdditionalAttributes property" Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_AdditionalAttributes.htm" />
+  <HelpKINode Title="XmlDeserializationProxy&lt;TTarget&gt;.AdditionalElements property" Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_AdditionalElements.htm" />
+  <HelpKINode Title="XmlDeserializationProxy&lt;TTarget&gt;.CreateInstance method" Url="html/Overload_Rock_Serialization_XmlDeserializationProxy_1_CreateInstance.htm" />
+  <HelpKINode Title="XmlDeserializationProxy&lt;TTarget&gt;.TypeAssemblyQualifiedName property" Url="html/P_Rock_Serialization_XmlDeserializationProxy_1_TypeAssemblyQualifiedName.htm" />
+  <HelpKINode Title="XmlDeserializationProxy&lt;TTarget&gt;.XmlDeserializationProxy constructor" Url="html/Overload_Rock_Serialization_XmlDeserializationProxy_1__ctor.htm" />
+  <HelpKINode Title="XmlSerializerSectionHandler class">
+    <HelpKINode Title="XmlSerializerSectionHandler Class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler.htm" />
+    <HelpKINode Title="about XmlSerializerSectionHandler class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Configuration_XmlSerializerSectionHandler.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlSerializerSectionHandler(Of TConfiguration) class">
+    <HelpKINode Title="XmlSerializerSectionHandler(TConfiguration) Class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler_1.htm" />
+    <HelpKINode Title="about XmlSerializerSectionHandler(Of TConfiguration) class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Configuration_XmlSerializerSectionHandler_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlSerializerSectionHandler(Of TConfiguration).GetConfigType method" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_1_GetConfigType.htm" />
+  <HelpKINode Title="XmlSerializerSectionHandler(Of TConfiguration).XmlSerializerSectionHandler constructor" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_1__ctor.htm" />
+  <HelpKINode Title="XmlSerializerSectionHandler.Create method" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_Create.htm" />
+  <HelpKINode Title="XmlSerializerSectionHandler.Deserialize method" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_Deserialize.htm" />
+  <HelpKINode Title="XmlSerializerSectionHandler.GetConfigType method" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_GetConfigType.htm" />
+  <HelpKINode Title="XmlSerializerSectionHandler.XmlSerializerSectionHandler constructor" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler__ctor.htm" />
+  <HelpKINode Title="XmlSerializerSectionHandler&lt;TConfiguration&gt; class">
+    <HelpKINode Title="XmlSerializerSectionHandler(TConfiguration) Class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler_1.htm" />
+    <HelpKINode Title="about XmlSerializerSectionHandler&lt;TConfiguration&gt; class" Url="html/T_Rock_Configuration_XmlSerializerSectionHandler_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Configuration_XmlSerializerSectionHandler_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlSerializerSectionHandler&lt;TConfiguration&gt;.GetConfigType method" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_1_GetConfigType.htm" />
+  <HelpKINode Title="XmlSerializerSectionHandler&lt;TConfiguration&gt;.XmlSerializerSectionHandler constructor" Url="html/M_Rock_Configuration_XmlSerializerSectionHandler_1__ctor.htm" />
+  <HelpKINode Title="XmlSerializerSerializer class">
+    <HelpKINode Title="XmlSerializerSerializer Class" Url="html/T_Rock_Serialization_XmlSerializerSerializer.htm" />
+    <HelpKINode Title="about XmlSerializerSerializer class" Url="html/T_Rock_Serialization_XmlSerializerSerializer.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Serialization_XmlSerializerSerializer__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Serialization_XmlSerializerSerializer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlSerializerSerializer.DeserializeFromStream method" Url="html/M_Rock_Serialization_XmlSerializerSerializer_DeserializeFromStream.htm" />
+  <HelpKINode Title="XmlSerializerSerializer.DeserializeFromString method" Url="html/M_Rock_Serialization_XmlSerializerSerializer_DeserializeFromString.htm" />
+  <HelpKINode Title="XmlSerializerSerializer.SerializeToStream method" Url="html/M_Rock_Serialization_XmlSerializerSerializer_SerializeToStream.htm" />
+  <HelpKINode Title="XmlSerializerSerializer.SerializeToString method" Url="html/M_Rock_Serialization_XmlSerializerSerializer_SerializeToString.htm" />
+  <HelpKINode Title="XmlSerializerSerializer.XmlSerializerSerializer constructor" Url="html/Overload_Rock_Serialization_XmlSerializerSerializer__ctor.htm" />
+</HelpKI>

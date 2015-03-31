@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method" Url="html/Overload_Rock_Logging_LogEntryExtendedProperties_Add.htm" />
+  <HelpKINode Title="AddCallerInfo method" Url="html/M_Rock_Logging_AddCallerInfoExtension_AddCallerInfo.htm" />
+  <HelpKINode Title="AddCallerInfoExtension class">
+    <HelpKINode Title="AddCallerInfoExtension Class" Url="html/T_Rock_Logging_AddCallerInfoExtension.htm" />
+    <HelpKINode Title="about AddCallerInfoExtension class" Url="html/T_Rock_Logging_AddCallerInfoExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_AddCallerInfoExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddCallerInfoExtension.AddCallerInfo method" Url="html/M_Rock_Logging_AddCallerInfoExtension_AddCallerInfo.htm" />
+  <HelpKINode Title="AddContextData method">
+    <HelpKINode Title="ContextProvider(TLogEntry).AddContextData Method " Url="html/Overload_Rock_Logging_ContextProvider_1_AddContextData.htm" />
+    <HelpKINode Title="IContextProvider.AddContextData Method " Url="html/M_Rock_Logging_IContextProvider_AddContextData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddDateTimeTokenHandler method" Url="html/Overload_Rock_Logging_TemplateLogFormatter_AddDateTimeTokenHandler.htm" />
+  <HelpKINode Title="AddMessage method" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_AddMessage.htm" />
+  <HelpKINode Title="AddSimpleTokenHandler method" Url="html/Overload_Rock_Logging_TemplateLogFormatter_AddSimpleTokenHandler.htm" />
+  <HelpKINode Title="AddStep method">
+    <HelpKINode Title="IStepLogger.AddStep Method " Url="html/M_Rock_Logging_Diagnostics_IStepLogger_AddStep.htm" />
+    <HelpKINode Title="NullStepLogger.AddStep Method " Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_AddStep.htm" />
+    <HelpKINode Title="StepLogger.AddStep Method " Url="html/M_Rock_Logging_Diagnostics_StepLogger_AddStep.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddToReport method">
+    <HelpKINode Title="IStep.AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_IStep_AddToReport.htm" />
+    <HelpKINode Title="LogValueStep(T).AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1_AddToReport.htm" />
+    <HelpKINode Title="LogValueStep.AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_LogValueStep_AddToReport.htm" />
+    <HelpKINode Title="MessageStep.AddToReport Method " Url="html/M_Rock_Logging_Diagnostics_MessageStep_AddToReport.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddValueTo(Of T) method" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_AddValueTo__1.htm" />
+  <HelpKINode Title="AddValueTo&lt;T&gt; method" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_AddValueTo__1.htm" />
+  <HelpKINode Title="ApplicationId property" Url="html/P_Rock_Logging_LogEntry_ApplicationId.htm" />
+  <HelpKINode Title="ApplicationUserId property" Url="html/P_Rock_Logging_LogEntry_ApplicationUserId.htm" />
+  <HelpKINode Title="AsAsync method" Url="html/M_Rock_Logging_LoggerExtensions_AsAsync.htm" />
+  <HelpKINode Title="AsSync method" Url="html/M_Rock_Logging_LoggerExtensions_AsSync.htm" />
+  <HelpKINode Title="Audit enumeration member" Url="html/T_Rock_Logging_LogLevel.htm" />
+  <HelpKINode Title="Audit method" Url="html/Overload_Rock_Logging_LoggerExtensions_Audit.htm" />
+  <HelpKINode Title="AuditLogProvider property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_AuditLogProvider.htm" />
+  <HelpKINode Title="Categories property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Categories.htm" />
+  <HelpKINode Title="Category class">
+    <HelpKINode Title="Category Class" Url="html/T_Rock_Logging_Configuration_Category.htm" />
+    <HelpKINode Title="about Category class" Url="html/T_Rock_Logging_Configuration_Category.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Configuration_Category__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Configuration_Category.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_Configuration_Category.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Category.Category constructor" Url="html/M_Rock_Logging_Configuration_Category__ctor.htm" />
+  <HelpKINode Title="Category.LogProviders property" Url="html/P_Rock_Logging_Configuration_Category_LogProviders.htm" />
+  <HelpKINode Title="Category.Name property" Url="html/P_Rock_Logging_Configuration_Category_Name.htm" />
+  <HelpKINode Title="Category.ThrottlingRule property" Url="html/P_Rock_Logging_Configuration_Category_ThrottlingRule.htm" />
+  <HelpKINode Title="ConsoleLogProvider class">
+    <HelpKINode Title="ConsoleLogProvider Class" Url="html/T_Rock_Logging_ConsoleLogProvider.htm" />
+    <HelpKINode Title="about ConsoleLogProvider class" Url="html/T_Rock_Logging_ConsoleLogProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Logging_ConsoleLogProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_ConsoleLogProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConsoleLogProvider.ConsoleLogProvider constructor" Url="html/Overload_Rock_Logging_ConsoleLogProvider__ctor.htm" />
+  <HelpKINode Title="ConsoleLogProvider.WriteAsync method" Url="html/Overload_Rock_Logging_ConsoleLogProvider_WriteAsync.htm" />
+  <HelpKINode Title="ContextProvider(Of TLogEntry) class">
+    <HelpKINode Title="ContextProvider(TLogEntry) Class" Url="html/T_Rock_Logging_ContextProvider_1.htm" />
+    <HelpKINode Title="about ContextProvider(Of TLogEntry) class" Url="html/T_Rock_Logging_ContextProvider_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_ContextProvider_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_ContextProvider_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ContextProvider(Of TLogEntry).AddContextData method" Url="html/Overload_Rock_Logging_ContextProvider_1_AddContextData.htm" />
+  <HelpKINode Title="ContextProvider(Of TLogEntry).ContextProvider constructor" Url="html/M_Rock_Logging_ContextProvider_1__ctor.htm" />
+  <HelpKINode Title="ContextProvider&lt;TLogEntry&gt; class">
+    <HelpKINode Title="ContextProvider(TLogEntry) Class" Url="html/T_Rock_Logging_ContextProvider_1.htm" />
+    <HelpKINode Title="about ContextProvider&lt;TLogEntry&gt; class" Url="html/T_Rock_Logging_ContextProvider_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_ContextProvider_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_ContextProvider_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ContextProvider&lt;TLogEntry&gt;.AddContextData method" Url="html/Overload_Rock_Logging_ContextProvider_1_AddContextData.htm" />
+  <HelpKINode Title="ContextProvider&lt;TLogEntry&gt;.ContextProvider constructor" Url="html/M_Rock_Logging_ContextProvider_1__ctor.htm" />
+  <HelpKINode Title="ContextProviderProxy class">
+    <HelpKINode Title="ContextProviderProxy Class" Url="html/T_Rock_Logging_Configuration_ContextProviderProxy.htm" />
+    <HelpKINode Title="about ContextProviderProxy class" Url="html/T_Rock_Logging_Configuration_ContextProviderProxy.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Configuration_ContextProviderProxy__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Configuration_ContextProviderProxy.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_Configuration_ContextProviderProxy.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ContextProviderProxy.ContextProviderProxy constructor" Url="html/M_Rock_Logging_Configuration_ContextProviderProxy__ctor.htm" />
+  <HelpKINode Title="ContextProviders property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_ContextProviders.htm" />
+  <HelpKINode Title="CreateInstance method" Url="html/Overload_Rock_Logging_Configuration_LogProviderProxy_CreateInstance.htm" />
+  <HelpKINode Title="CreateLogEntry method">
+    <HelpKINode Title="ILogEntryFactory.CreateLogEntry Method " Url="html/M_Rock_Logging_ILogEntryFactory_CreateLogEntry.htm" />
+    <HelpKINode Title="LogEntryFactory.CreateLogEntry Method " Url="html/M_Rock_Logging_LogEntryFactory_CreateLogEntry.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateStepLogger method">
+    <HelpKINode Title="DefaultStepLoggerFactory.CreateStepLogger Method " Url="html/M_Rock_Logging_Diagnostics_DefaultStepLoggerFactory_CreateStepLogger.htm" />
+    <HelpKINode Title="IStepLoggerFactory.CreateStepLogger Method " Url="html/M_Rock_Logging_Diagnostics_IStepLoggerFactory_CreateStepLogger.htm" />
+    <HelpKINode Title="StepLoggingExtensions.CreateStepLogger Method " Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_CreateStepLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateTime property" Url="html/P_Rock_Logging_LogEntry_CreateTime.htm" />
+  <HelpKINode Title="Daily enumeration member" Url="html/T_Rock_Logging_RolloverPeriod.htm" />
+  <HelpKINode Title="Debug enumeration member" Url="html/T_Rock_Logging_LogLevel.htm" />
+  <HelpKINode Title="Debug method" Url="html/Overload_Rock_Logging_LoggerExtensions_Debug.htm" />
+  <HelpKINode Title="Default class">
+    <HelpKINode Title="Default Class" Url="html/T_Rock_Logging_Defaults_Implementation_Default.htm" />
+    <HelpKINode Title="about Default class" Url="html/T_Rock_Logging_Defaults_Implementation_Default.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Defaults_Implementation_Default.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_Defaults_Implementation_Default.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Default.DefaultEmailLogFormatter property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultEmailLogFormatter.htm" />
+  <HelpKINode Title="Default.DefaultFileLogFormatter property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultFileLogFormatter.htm" />
+  <HelpKINode Title="Default.DefaultLogEntryFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultLogEntryFactory.htm" />
+  <HelpKINode Title="Default.DefaultLoggerFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultLoggerFactory.htm" />
+  <HelpKINode Title="Default.DefaultStepLoggerFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultStepLoggerFactory.htm" />
+  <HelpKINode Title="Default.EmailLogFormatter property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_EmailLogFormatter.htm" />
+  <HelpKINode Title="Default.FileLogFormatter property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_FileLogFormatter.htm" />
+  <HelpKINode Title="Default.LogEntryFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_LogEntryFactory.htm" />
+  <HelpKINode Title="Default.LoggerFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_LoggerFactory.htm" />
+  <HelpKINode Title="Default.RestoreEmailLogFormatter method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreEmailLogFormatter.htm" />
+  <HelpKINode Title="Default.RestoreFileLogFormatter method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreFileLogFormatter.htm" />
+  <HelpKINode Title="Default.RestoreLogEntryFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreLogEntryFactory.htm" />
+  <HelpKINode Title="Default.RestoreLoggerFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreLoggerFactory.htm" />
+  <HelpKINode Title="Default.RestoreStepLoggerFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreStepLoggerFactory.htm" />
+  <HelpKINode Title="Default.SetEmailLogFormatter method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetEmailLogFormatter.htm" />
+  <HelpKINode Title="Default.SetFileLogFormatter method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetFileLogFormatter.htm" />
+  <HelpKINode Title="Default.SetLogEntryFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetLogEntryFactory.htm" />
+  <HelpKINode Title="Default.SetLoggerFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetLoggerFactory.htm" />
+  <HelpKINode Title="Default.SetStepLoggerFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetStepLoggerFactory.htm" />
+  <HelpKINode Title="Default.StepLoggerFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_StepLoggerFactory.htm" />
+  <HelpKINode Title="DefaultEmailLogFormatter property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultEmailLogFormatter.htm" />
+  <HelpKINode Title="DefaultFileLogFormatter property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultFileLogFormatter.htm" />
+  <HelpKINode Title="DefaultLogEntryFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultLogEntryFactory.htm" />
+  <HelpKINode Title="DefaultLoggerFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultLoggerFactory.htm" />
+  <HelpKINode Title="DefaultStepLoggerFactory class">
+    <HelpKINode Title="DefaultStepLoggerFactory Class" Url="html/T_Rock_Logging_Diagnostics_DefaultStepLoggerFactory.htm" />
+    <HelpKINode Title="about DefaultStepLoggerFactory class" Url="html/T_Rock_Logging_Diagnostics_DefaultStepLoggerFactory.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Diagnostics_DefaultStepLoggerFactory__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_DefaultStepLoggerFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultStepLoggerFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_DefaultStepLoggerFactory.htm" />
+  <HelpKINode Title="DefaultStepLoggerFactory.CreateStepLogger method" Url="html/M_Rock_Logging_Diagnostics_DefaultStepLoggerFactory_CreateStepLogger.htm" />
+  <HelpKINode Title="DefaultStepLoggerFactory.DefaultStepLoggerFactory constructor" Url="html/M_Rock_Logging_Diagnostics_DefaultStepLoggerFactory__ctor.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="FileLogProvider.Dispose Method " Url="html/M_Rock_Logging_FileLogProvider_Dispose.htm" />
+    <HelpKINode Title="NullStepLogger.Dispose Method " Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_Dispose.htm" />
+    <HelpKINode Title="StepLogger.Dispose Method " Url="html/M_Rock_Logging_Diagnostics_StepLogger_Dispose.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailLogFormatter property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_EmailLogFormatter.htm" />
+  <HelpKINode Title="EmailLogProvider class">
+    <HelpKINode Title="EmailLogProvider Class" Url="html/T_Rock_Logging_EmailLogProvider.htm" />
+    <HelpKINode Title="about EmailLogProvider class" Url="html/T_Rock_Logging_EmailLogProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Logging_EmailLogProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_EmailLogProvider.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_EmailLogProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailLogProvider.EmailLogProvider constructor" Url="html/Overload_Rock_Logging_EmailLogProvider__ctor.htm" />
+  <HelpKINode Title="EmailLogProvider.FromEmail property" Url="html/P_Rock_Logging_EmailLogProvider_FromEmail.htm" />
+  <HelpKINode Title="EmailLogProvider.Subject property" Url="html/P_Rock_Logging_EmailLogProvider_Subject.htm" />
+  <HelpKINode Title="EmailLogProvider.ToEmail property" Url="html/P_Rock_Logging_EmailLogProvider_ToEmail.htm" />
+  <HelpKINode Title="EmailLogProvider.WriteAsync method" Url="html/Overload_Rock_Logging_EmailLogProvider_WriteAsync.htm" />
+  <HelpKINode Title="Environment property" Url="html/P_Rock_Logging_LogEntry_Environment.htm" />
+  <HelpKINode Title="Error enumeration member" Url="html/T_Rock_Logging_LogLevel.htm" />
+  <HelpKINode Title="Error method" Url="html/Overload_Rock_Logging_LoggerExtensions_Error.htm" />
+  <HelpKINode Title="ExceptionContext property" Url="html/P_Rock_Logging_LogEntry_ExceptionContext.htm" />
+  <HelpKINode Title="ExceptionDetails property" Url="html/P_Rock_Logging_LogEntry_ExceptionDetails.htm" />
+  <HelpKINode Title="ExceptionType property" Url="html/P_Rock_Logging_LogEntry_ExceptionType.htm" />
+  <HelpKINode Title="ExtendedProperties property" Url="html/P_Rock_Logging_LogEntry_ExtendedProperties.htm" />
+  <HelpKINode Title="Fatal enumeration member" Url="html/T_Rock_Logging_LogLevel.htm" />
+  <HelpKINode Title="Fatal method" Url="html/Overload_Rock_Logging_LoggerExtensions_Fatal.htm" />
+  <HelpKINode Title="FileLogFormatter property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_FileLogFormatter.htm" />
+  <HelpKINode Title="FileLogProvider class">
+    <HelpKINode Title="FileLogProvider Class" Url="html/T_Rock_Logging_FileLogProvider.htm" />
+    <HelpKINode Title="about FileLogProvider class" Url="html/T_Rock_Logging_FileLogProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Logging_FileLogProvider__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Rock_Logging_FileLogProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_FileLogProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileLogProvider.Dispose method" Url="html/M_Rock_Logging_FileLogProvider_Dispose.htm" />
+  <HelpKINode Title="FileLogProvider.FileLogProvider constructor" Url="html/Overload_Rock_Logging_FileLogProvider__ctor.htm" />
+  <HelpKINode Title="FileLogProvider.OnPostWriteAsync method" Url="html/M_Rock_Logging_FileLogProvider_OnPostWriteAsync.htm" />
+  <HelpKINode Title="FileLogProvider.OnPreWriteAsync method" Url="html/M_Rock_Logging_FileLogProvider_OnPreWriteAsync.htm" />
+  <HelpKINode Title="FileLogProvider.WriteAsync method" Url="html/Overload_Rock_Logging_FileLogProvider_WriteAsync.htm" />
+  <HelpKINode Title="FileLogProvider._file field" Url="html/F_Rock_Logging_FileLogProvider__file.htm" />
+  <HelpKINode Title="Flush method">
+    <HelpKINode Title="IStepLogger.Flush Method " Url="html/M_Rock_Logging_Diagnostics_IStepLogger_Flush.htm" />
+    <HelpKINode Title="NullStepLogger.Flush Method " Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_Flush.htm" />
+    <HelpKINode Title="StepLogger.Flush Method " Url="html/M_Rock_Logging_Diagnostics_StepLogger_Flush.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Format method">
+    <HelpKINode Title="ILogFormatter.Format Method " Url="html/M_Rock_Logging_ILogFormatter_Format.htm" />
+    <HelpKINode Title="SerializingLogFormatter.Format Method " Url="html/M_Rock_Logging_SerializingLogFormatter_Format.htm" />
+    <HelpKINode Title="TemplateLogFormatter.Format Method " Url="html/M_Rock_Logging_TemplateLogFormatter_Format.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormattableLogProvider class">
+    <HelpKINode Title="FormattableLogProvider Class" Url="html/T_Rock_Logging_FormattableLogProvider.htm" />
+    <HelpKINode Title="about FormattableLogProvider class" Url="html/T_Rock_Logging_FormattableLogProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_FormattableLogProvider__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Rock_Logging_FormattableLogProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_FormattableLogProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormattableLogProvider.FormattableLogProvider constructor" Url="html/M_Rock_Logging_FormattableLogProvider__ctor.htm" />
+  <HelpKINode Title="FormattableLogProvider.WriteAsync method" Url="html/Overload_Rock_Logging_FormattableLogProvider_WriteAsync.htm" />
+  <HelpKINode Title="FormattableLogProvider._completedTask field" Url="html/F_Rock_Logging_FormattableLogProvider__completedTask.htm" />
+  <HelpKINode Title="Formatter property" Url="html/P_Rock_Logging_Configuration_LogProviderProxy_Formatter.htm" />
+  <HelpKINode Title="Formatters property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Formatters.htm" />
+  <HelpKINode Title="FromEmail property" Url="html/P_Rock_Logging_EmailLogProvider_FromEmail.htm" />
+  <HelpKINode Title="Get(Of TLogger) method">
+    <HelpKINode Title="ILoggerFactory.Get(TLogger) Method " Url="html/M_Rock_Logging_ILoggerFactory_Get__1.htm" />
+    <HelpKINode Title="SimpleLoggerFactory(TLogProvider).Get(TLogger) Method " Url="html/M_Rock_Logging_SimpleLoggerFactory_1_Get__1.htm" />
+    <HelpKINode Title="XmlDeserializingLoggerFactory.Get(TLogger) Method " Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Get__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Get&lt;TLogger&gt; method">
+    <HelpKINode Title="ILoggerFactory.Get(TLogger) Method " Url="html/M_Rock_Logging_ILoggerFactory_Get__1.htm" />
+    <HelpKINode Title="SimpleLoggerFactory(TLogProvider).Get(TLogger) Method " Url="html/M_Rock_Logging_SimpleLoggerFactory_1_Get__1.htm" />
+    <HelpKINode Title="XmlDeserializingLoggerFactory.Get(TLogger) Method " Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Get__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetExceptionHandler method" Url="html/M_Rock_Logging_LoggerExtensions_GetExceptionHandler.htm" />
+  <HelpKINode Title="GetInstance method" Url="html/Overload_Rock_Logging_LoggerFactory_GetInstance.htm" />
+  <HelpKINode Title="GetStopwatch method" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_GetStopwatch.htm" />
+  <HelpKINode Title="GetThrottlingHashCode method" Url="html/M_Rock_Logging_LogEntry_GetThrottlingHashCode.htm" />
+  <HelpKINode Title="Hourly enumeration member" Url="html/T_Rock_Logging_RolloverPeriod.htm" />
+  <HelpKINode Title="HttpEndpointLogProvider class">
+    <HelpKINode Title="HttpEndpointLogProvider Class" Url="html/T_Rock_Logging_HttpEndpointLogProvider.htm" />
+    <HelpKINode Title="about HttpEndpointLogProvider class" Url="html/T_Rock_Logging_HttpEndpointLogProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_HttpEndpointLogProvider__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Rock_Logging_HttpEndpointLogProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_HttpEndpointLogProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HttpEndpointLogProvider.HttpEndpointLogProvider constructor" Url="html/M_Rock_Logging_HttpEndpointLogProvider__ctor.htm" />
+  <HelpKINode Title="HttpEndpointLogProvider.OnResponseReceived method" Url="html/M_Rock_Logging_HttpEndpointLogProvider_OnResponseReceived.htm" />
+  <HelpKINode Title="HttpEndpointLogProvider.ResponseReceived event" Url="html/E_Rock_Logging_HttpEndpointLogProvider_ResponseReceived.htm" />
+  <HelpKINode Title="HttpEndpointLogProvider.WriteAsync method" Url="html/M_Rock_Logging_HttpEndpointLogProvider_WriteAsync.htm" />
+  <HelpKINode Title="IAsyncWaitHandle interface">
+    <HelpKINode Title="IAsyncWaitHandle Interface" Url="html/T_Rock_Logging_IAsyncWaitHandle.htm" />
+    <HelpKINode Title="about IAsyncWaitHandle interface" Url="html/T_Rock_Logging_IAsyncWaitHandle.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_IAsyncWaitHandle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncWaitHandle.Release method" Url="html/M_Rock_Logging_IAsyncWaitHandle_Release.htm" />
+  <HelpKINode Title="IAsyncWaitHandle.WaitAsync method" Url="html/M_Rock_Logging_IAsyncWaitHandle_WaitAsync.htm" />
+  <HelpKINode Title="IContextProvider interface">
+    <HelpKINode Title="IContextProvider Interface" Url="html/T_Rock_Logging_IContextProvider.htm" />
+    <HelpKINode Title="about IContextProvider interface" Url="html/T_Rock_Logging_IContextProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_IContextProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IContextProvider.AddContextData method" Url="html/M_Rock_Logging_IContextProvider_AddContextData.htm" />
+  <HelpKINode Title="ILogEntryFactory interface">
+    <HelpKINode Title="ILogEntryFactory Interface" Url="html/T_Rock_Logging_ILogEntryFactory.htm" />
+    <HelpKINode Title="about ILogEntryFactory interface" Url="html/T_Rock_Logging_ILogEntryFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_ILogEntryFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogEntryFactory.CreateLogEntry method" Url="html/M_Rock_Logging_ILogEntryFactory_CreateLogEntry.htm" />
+  <HelpKINode Title="ILogFormatter interface">
+    <HelpKINode Title="ILogFormatter Interface" Url="html/T_Rock_Logging_ILogFormatter.htm" />
+    <HelpKINode Title="about ILogFormatter interface" Url="html/T_Rock_Logging_ILogFormatter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_ILogFormatter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogFormatter.Format method" Url="html/M_Rock_Logging_ILogFormatter_Format.htm" />
+  <HelpKINode Title="ILogger interface">
+    <HelpKINode Title="ILogger Interface" Url="html/T_Rock_Logging_ILogger.htm" />
+    <HelpKINode Title="about ILogger interface" Url="html/T_Rock_Logging_ILogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_ILogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogger.IsEnabled method" Url="html/M_Rock_Logging_ILogger_IsEnabled.htm" />
+  <HelpKINode Title="ILogger.LogAsync method" Url="html/M_Rock_Logging_ILogger_LogAsync.htm" />
+  <HelpKINode Title="ILoggerConfiguration interface">
+    <HelpKINode Title="ILoggerConfiguration Interface" Url="html/T_Rock_Logging_ILoggerConfiguration.htm" />
+    <HelpKINode Title="about ILoggerConfiguration interface" Url="html/T_Rock_Logging_ILoggerConfiguration.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_ILoggerConfiguration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILoggerConfiguration.IsLoggingEnabled property" Url="html/P_Rock_Logging_ILoggerConfiguration_IsLoggingEnabled.htm" />
+  <HelpKINode Title="ILoggerConfiguration.LoggingLevel property" Url="html/P_Rock_Logging_ILoggerConfiguration_LoggingLevel.htm" />
+  <HelpKINode Title="ILoggerFactory interface">
+    <HelpKINode Title="ILoggerFactory Interface" Url="html/T_Rock_Logging_ILoggerFactory.htm" />
+    <HelpKINode Title="about ILoggerFactory interface" Url="html/T_Rock_Logging_ILoggerFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_ILoggerFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILoggerFactory.Get(Of TLogger) method" Url="html/M_Rock_Logging_ILoggerFactory_Get__1.htm" />
+  <HelpKINode Title="ILoggerFactory.Get&lt;TLogger&gt; method" Url="html/M_Rock_Logging_ILoggerFactory_Get__1.htm" />
+  <HelpKINode Title="ILogProvider interface">
+    <HelpKINode Title="ILogProvider Interface" Url="html/T_Rock_Logging_ILogProvider.htm" />
+    <HelpKINode Title="about ILogProvider interface" Url="html/T_Rock_Logging_ILogProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_ILogProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogProvider.WriteAsync method" Url="html/M_Rock_Logging_ILogProvider_WriteAsync.htm" />
+  <HelpKINode Title="Info enumeration member" Url="html/T_Rock_Logging_LogLevel.htm" />
+  <HelpKINode Title="Info method" Url="html/Overload_Rock_Logging_LoggerExtensions_Info.htm" />
+  <HelpKINode Title="Instance field">
+    <HelpKINode Title="NullStepLogger.Instance Field" Url="html/F_Rock_Logging_Diagnostics_NullStepLogger_Instance.htm" />
+    <HelpKINode Title="NullStopwatchLogger.Instance Field" Url="html/F_Rock_Logging_Diagnostics_NullStopwatchLogger_Instance.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsAuditEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsAuditEnabled.htm" />
+  <HelpKINode Title="IsDebugEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsDebugEnabled.htm" />
+  <HelpKINode Title="IsEnabled method">
+    <HelpKINode Title="ILogger.IsEnabled Method " Url="html/M_Rock_Logging_ILogger_IsEnabled.htm" />
+    <HelpKINode Title="Logger.IsEnabled Method " Url="html/M_Rock_Logging_Logger_IsEnabled.htm" />
+    <HelpKINode Title="NullLogger.IsEnabled Method " Url="html/M_Rock_Logging_NullLogger_IsEnabled.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsErrorEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsErrorEnabled.htm" />
+  <HelpKINode Title="IsFatalEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsFatalEnabled.htm" />
+  <HelpKINode Title="IsInfoEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsInfoEnabled.htm" />
+  <HelpKINode Title="IsLoggingEnabled property">
+    <HelpKINode Title="ILoggerConfiguration.IsLoggingEnabled Property " Url="html/P_Rock_Logging_ILoggerConfiguration_IsLoggingEnabled.htm" />
+    <HelpKINode Title="LoggerConfiguration.IsLoggingEnabled Property " Url="html/P_Rock_Logging_LoggerConfiguration_IsLoggingEnabled.htm" />
+    <HelpKINode Title="XmlDeserializingLoggerFactory.IsLoggingEnabled Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_IsLoggingEnabled.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStep interface">
+    <HelpKINode Title="IStep Interface" Url="html/T_Rock_Logging_Diagnostics_IStep.htm" />
+    <HelpKINode Title="about IStep interface" Url="html/T_Rock_Logging_Diagnostics_IStep.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStep.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStep.AddToReport method" Url="html/M_Rock_Logging_Diagnostics_IStep_AddToReport.htm" />
+  <HelpKINode Title="IStepLogger interface">
+    <HelpKINode Title="IStepLogger Interface" Url="html/T_Rock_Logging_Diagnostics_IStepLogger.htm" />
+    <HelpKINode Title="about IStepLogger interface" Url="html/T_Rock_Logging_Diagnostics_IStepLogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStepLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStepLogger.AddStep method" Url="html/M_Rock_Logging_Diagnostics_IStepLogger_AddStep.htm" />
+  <HelpKINode Title="IStepLogger.Flush method" Url="html/M_Rock_Logging_Diagnostics_IStepLogger_Flush.htm" />
+  <HelpKINode Title="IStepLoggerFactory interface">
+    <HelpKINode Title="IStepLoggerFactory Interface" Url="html/T_Rock_Logging_Diagnostics_IStepLoggerFactory.htm" />
+    <HelpKINode Title="about IStepLoggerFactory interface" Url="html/T_Rock_Logging_Diagnostics_IStepLoggerFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStepLoggerFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStepLoggerFactory.CreateStepLogger method" Url="html/M_Rock_Logging_Diagnostics_IStepLoggerFactory_CreateStepLogger.htm" />
+  <HelpKINode Title="IStopwatchLogger interface">
+    <HelpKINode Title="IStopwatchLogger Interface" Url="html/T_Rock_Logging_Diagnostics_IStopwatchLogger.htm" />
+    <HelpKINode Title="about IStopwatchLogger interface" Url="html/T_Rock_Logging_Diagnostics_IStopwatchLogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_IStopwatchLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStopwatchLogger.RecordElapsed method" Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_RecordElapsed.htm" />
+  <HelpKINode Title="IStopwatchLogger.Reset method" Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Reset.htm" />
+  <HelpKINode Title="IStopwatchLogger.Start method" Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Start.htm" />
+  <HelpKINode Title="IStopwatchLogger.Stop method" Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Stop.htm" />
+  <HelpKINode Title="IsWarnEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsWarnEnabled.htm" />
+  <HelpKINode Title="IThrottlingRuleEvaluator interface">
+    <HelpKINode Title="IThrottlingRuleEvaluator Interface" Url="html/T_Rock_Logging_IThrottlingRuleEvaluator.htm" />
+    <HelpKINode Title="about IThrottlingRuleEvaluator interface" Url="html/T_Rock_Logging_IThrottlingRuleEvaluator.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_IThrottlingRuleEvaluator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IThrottlingRuleEvaluator.ShouldLog method" Url="html/M_Rock_Logging_IThrottlingRuleEvaluator_ShouldLog.htm" />
+  <HelpKINode Title="Level property" Url="html/P_Rock_Logging_LogEntry_Level.htm" />
+  <HelpKINode Title="Log method" Url="html/Overload_Rock_Logging_LoggerExtensions_Log.htm" />
+  <HelpKINode Title="LogAsync method">
+    <HelpKINode Title="ILogger.LogAsync Method " Url="html/M_Rock_Logging_ILogger_LogAsync.htm" />
+    <HelpKINode Title="Logger.LogAsync Method " Url="html/M_Rock_Logging_Logger_LogAsync.htm" />
+    <HelpKINode Title="NullLogger.LogAsync Method " Url="html/M_Rock_Logging_NullLogger_LogAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogEntry class">
+    <HelpKINode Title="LogEntry Class" Url="html/T_Rock_Logging_LogEntry.htm" />
+    <HelpKINode Title="about LogEntry class" Url="html/T_Rock_Logging_LogEntry.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Logging_LogEntry__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Rock_Logging_LogEntry.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_LogEntry.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_LogEntry.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogEntry.ApplicationId property" Url="html/P_Rock_Logging_LogEntry_ApplicationId.htm" />
+  <HelpKINode Title="LogEntry.ApplicationUserId property" Url="html/P_Rock_Logging_LogEntry_ApplicationUserId.htm" />
+  <HelpKINode Title="LogEntry.CreateTime property" Url="html/P_Rock_Logging_LogEntry_CreateTime.htm" />
+  <HelpKINode Title="LogEntry.Environment property" Url="html/P_Rock_Logging_LogEntry_Environment.htm" />
+  <HelpKINode Title="LogEntry.ExceptionContext property" Url="html/P_Rock_Logging_LogEntry_ExceptionContext.htm" />
+  <HelpKINode Title="LogEntry.ExceptionDetails property" Url="html/P_Rock_Logging_LogEntry_ExceptionDetails.htm" />
+  <HelpKINode Title="LogEntry.ExceptionType property" Url="html/P_Rock_Logging_LogEntry_ExceptionType.htm" />
+  <HelpKINode Title="LogEntry.ExtendedProperties property" Url="html/P_Rock_Logging_LogEntry_ExtendedProperties.htm" />
+  <HelpKINode Title="LogEntry.GetThrottlingHashCode method" Url="html/M_Rock_Logging_LogEntry_GetThrottlingHashCode.htm" />
+  <HelpKINode Title="LogEntry.Level property" Url="html/P_Rock_Logging_LogEntry_Level.htm" />
+  <HelpKINode Title="LogEntry.LogEntry constructor" Url="html/Overload_Rock_Logging_LogEntry__ctor.htm" />
+  <HelpKINode Title="LogEntry.MachineName property" Url="html/P_Rock_Logging_LogEntry_MachineName.htm" />
+  <HelpKINode Title="LogEntry.Message property" Url="html/P_Rock_Logging_LogEntry_Message.htm" />
+  <HelpKINode Title="LogEntry.SetException method" Url="html/M_Rock_Logging_LogEntry_SetException.htm" />
+  <HelpKINode Title="LogEntry.UniqueId property" Url="html/P_Rock_Logging_LogEntry_UniqueId.htm" />
+  <HelpKINode Title="LogEntry.XmlNamespace field" Url="html/F_Rock_Logging_LogEntry_XmlNamespace.htm" />
+  <HelpKINode Title="LogEntryExtendedProperties class">
+    <HelpKINode Title="LogEntryExtendedProperties Class" Url="html/T_Rock_Logging_LogEntryExtendedProperties.htm" />
+    <HelpKINode Title="about LogEntryExtendedProperties class" Url="html/T_Rock_Logging_LogEntryExtendedProperties.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Logging_LogEntryExtendedProperties__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_LogEntryExtendedProperties.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_LogEntryExtendedProperties.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogEntryExtendedProperties.Add method" Url="html/Overload_Rock_Logging_LogEntryExtendedProperties_Add.htm" />
+  <HelpKINode Title="LogEntryExtendedProperties.LogEntryExtendedProperties constructor" Url="html/Overload_Rock_Logging_LogEntryExtendedProperties__ctor.htm" />
+  <HelpKINode Title="LogEntryFactory class">
+    <HelpKINode Title="LogEntryFactory Class" Url="html/T_Rock_Logging_LogEntryFactory.htm" />
+    <HelpKINode Title="about LogEntryFactory class" Url="html/T_Rock_Logging_LogEntryFactory.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_LogEntryFactory__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_LogEntryFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogEntryFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_LogEntryFactory.htm" />
+  <HelpKINode Title="LogEntryFactory.CreateLogEntry method" Url="html/M_Rock_Logging_LogEntryFactory_CreateLogEntry.htm" />
+  <HelpKINode Title="LogEntryFactory.LogEntryFactory constructor" Url="html/M_Rock_Logging_LogEntryFactory__ctor.htm" />
+  <HelpKINode Title="LogFormatterProxy class">
+    <HelpKINode Title="LogFormatterProxy Class" Url="html/T_Rock_Logging_Configuration_LogFormatterProxy.htm" />
+    <HelpKINode Title="about LogFormatterProxy class" Url="html/T_Rock_Logging_Configuration_LogFormatterProxy.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Configuration_LogFormatterProxy__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Configuration_LogFormatterProxy.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_Configuration_LogFormatterProxy.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogFormatterProxy.LogFormatterProxy constructor" Url="html/M_Rock_Logging_Configuration_LogFormatterProxy__ctor.htm" />
+  <HelpKINode Title="LogFormatterProxy.Name property" Url="html/P_Rock_Logging_Configuration_LogFormatterProxy_Name.htm" />
+  <HelpKINode Title="Logger class">
+    <HelpKINode Title="Logger Class" Url="html/T_Rock_Logging_Logger.htm" />
+    <HelpKINode Title="about Logger class" Url="html/T_Rock_Logging_Logger.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Logger__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Logger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Logger.IsEnabled method" Url="html/M_Rock_Logging_Logger_IsEnabled.htm" />
+  <HelpKINode Title="Logger.LogAsync method" Url="html/M_Rock_Logging_Logger_LogAsync.htm" />
+  <HelpKINode Title="Logger.Logger constructor" Url="html/M_Rock_Logging_Logger__ctor.htm" />
+  <HelpKINode Title="Logger.OnPreLog method" Url="html/M_Rock_Logging_Logger_OnPreLog.htm" />
+  <HelpKINode Title="LoggerConfiguration class">
+    <HelpKINode Title="LoggerConfiguration Class" Url="html/T_Rock_Logging_LoggerConfiguration.htm" />
+    <HelpKINode Title="about LoggerConfiguration class" Url="html/T_Rock_Logging_LoggerConfiguration.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_LoggerConfiguration__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_LoggerConfiguration.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_LoggerConfiguration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerConfiguration.IsLoggingEnabled property" Url="html/P_Rock_Logging_LoggerConfiguration_IsLoggingEnabled.htm" />
+  <HelpKINode Title="LoggerConfiguration.LoggerConfiguration constructor" Url="html/M_Rock_Logging_LoggerConfiguration__ctor.htm" />
+  <HelpKINode Title="LoggerConfiguration.LoggingLevel property" Url="html/P_Rock_Logging_LoggerConfiguration_LoggingLevel.htm" />
+  <HelpKINode Title="LoggerExtensions class">
+    <HelpKINode Title="LoggerExtensions Class" Url="html/T_Rock_Logging_LoggerExtensions.htm" />
+    <HelpKINode Title="about LoggerExtensions class" Url="html/T_Rock_Logging_LoggerExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_LoggerExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerExtensions.AsAsync method" Url="html/M_Rock_Logging_LoggerExtensions_AsAsync.htm" />
+  <HelpKINode Title="LoggerExtensions.AsSync method" Url="html/M_Rock_Logging_LoggerExtensions_AsSync.htm" />
+  <HelpKINode Title="LoggerExtensions.Audit method" Url="html/Overload_Rock_Logging_LoggerExtensions_Audit.htm" />
+  <HelpKINode Title="LoggerExtensions.Debug method" Url="html/Overload_Rock_Logging_LoggerExtensions_Debug.htm" />
+  <HelpKINode Title="LoggerExtensions.Error method" Url="html/Overload_Rock_Logging_LoggerExtensions_Error.htm" />
+  <HelpKINode Title="LoggerExtensions.Fatal method" Url="html/Overload_Rock_Logging_LoggerExtensions_Fatal.htm" />
+  <HelpKINode Title="LoggerExtensions.GetExceptionHandler method" Url="html/M_Rock_Logging_LoggerExtensions_GetExceptionHandler.htm" />
+  <HelpKINode Title="LoggerExtensions.Info method" Url="html/Overload_Rock_Logging_LoggerExtensions_Info.htm" />
+  <HelpKINode Title="LoggerExtensions.IsAuditEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsAuditEnabled.htm" />
+  <HelpKINode Title="LoggerExtensions.IsDebugEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsDebugEnabled.htm" />
+  <HelpKINode Title="LoggerExtensions.IsErrorEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsErrorEnabled.htm" />
+  <HelpKINode Title="LoggerExtensions.IsFatalEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsFatalEnabled.htm" />
+  <HelpKINode Title="LoggerExtensions.IsInfoEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsInfoEnabled.htm" />
+  <HelpKINode Title="LoggerExtensions.IsWarnEnabled method" Url="html/M_Rock_Logging_LoggerExtensions_IsWarnEnabled.htm" />
+  <HelpKINode Title="LoggerExtensions.Log method" Url="html/Overload_Rock_Logging_LoggerExtensions_Log.htm" />
+  <HelpKINode Title="LoggerExtensions.Warn method" Url="html/Overload_Rock_Logging_LoggerExtensions_Warn.htm" />
+  <HelpKINode Title="LoggerFactory class">
+    <HelpKINode Title="LoggerFactory Class" Url="html/T_Rock_Logging_LoggerFactory.htm" />
+    <HelpKINode Title="about LoggerFactory class" Url="html/T_Rock_Logging_LoggerFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_LoggerFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_LoggerFactory.htm" />
+  <HelpKINode Title="LoggerFactory.GetInstance method" Url="html/Overload_Rock_Logging_LoggerFactory_GetInstance.htm" />
+  <HelpKINode Title="LoggerSectionHandler class">
+    <HelpKINode Title="LoggerSectionHandler Class" Url="html/T_Rock_Logging_LoggerSectionHandler.htm" />
+    <HelpKINode Title="about LoggerSectionHandler class" Url="html/T_Rock_Logging_LoggerSectionHandler.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_LoggerSectionHandler__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_LoggerSectionHandler.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerSectionHandler.LoggerSectionHandler constructor" Url="html/M_Rock_Logging_LoggerSectionHandler__ctor.htm" />
+  <HelpKINode Title="LoggingLevel property">
+    <HelpKINode Title="ILoggerConfiguration.LoggingLevel Property " Url="html/P_Rock_Logging_ILoggerConfiguration_LoggingLevel.htm" />
+    <HelpKINode Title="LoggerConfiguration.LoggingLevel Property " Url="html/P_Rock_Logging_LoggerConfiguration_LoggingLevel.htm" />
+    <HelpKINode Title="XmlDeserializingLoggerFactory.LoggingLevel Property " Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_LoggingLevel.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogLevel enumeration" Url="html/T_Rock_Logging_LogLevel.htm" />
+  <HelpKINode Title="LogProviderProxy class">
+    <HelpKINode Title="LogProviderProxy Class" Url="html/T_Rock_Logging_Configuration_LogProviderProxy.htm" />
+    <HelpKINode Title="about LogProviderProxy class" Url="html/T_Rock_Logging_Configuration_LogProviderProxy.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Configuration_LogProviderProxy__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Configuration_LogProviderProxy.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_Configuration_LogProviderProxy.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogProviderProxy.CreateInstance method" Url="html/Overload_Rock_Logging_Configuration_LogProviderProxy_CreateInstance.htm" />
+  <HelpKINode Title="LogProviderProxy.Formatter property" Url="html/P_Rock_Logging_Configuration_LogProviderProxy_Formatter.htm" />
+  <HelpKINode Title="LogProviderProxy.LogProviderProxy constructor" Url="html/M_Rock_Logging_Configuration_LogProviderProxy__ctor.htm" />
+  <HelpKINode Title="LogProviders property" Url="html/P_Rock_Logging_Configuration_Category_LogProviders.htm" />
+  <HelpKINode Title="LogValue method" Url="html/Overload_Rock_Logging_Diagnostics_StepLoggingExtensions_LogValue.htm" />
+  <HelpKINode Title="LogValueStep class">
+    <HelpKINode Title="LogValueStep Class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep.htm" />
+    <HelpKINode Title="about LogValueStep class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Diagnostics_LogValueStep__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_LogValueStep.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogValueStep(Of T) class">
+    <HelpKINode Title="LogValueStep(T) Class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep_1.htm" />
+    <HelpKINode Title="about LogValueStep(Of T) class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_LogValueStep_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogValueStep(Of T).AddToReport method" Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1_AddToReport.htm" />
+  <HelpKINode Title="LogValueStep(Of T).LogValueStep constructor" Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1__ctor.htm" />
+  <HelpKINode Title="LogValueStep.AddToReport method" Url="html/M_Rock_Logging_Diagnostics_LogValueStep_AddToReport.htm" />
+  <HelpKINode Title="LogValueStep.LogValueStep constructor" Url="html/M_Rock_Logging_Diagnostics_LogValueStep__ctor.htm" />
+  <HelpKINode Title="LogValueStep&lt;T&gt; class">
+    <HelpKINode Title="LogValueStep(T) Class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep_1.htm" />
+    <HelpKINode Title="about LogValueStep&lt;T&gt; class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_LogValueStep_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogValueStep&lt;T&gt;.AddToReport method" Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1_AddToReport.htm" />
+  <HelpKINode Title="LogValueStep&lt;T&gt;.LogValueStep constructor" Url="html/M_Rock_Logging_Diagnostics_LogValueStep_1__ctor.htm" />
+  <HelpKINode Title="MachineName property" Url="html/P_Rock_Logging_LogEntry_MachineName.htm" />
+  <HelpKINode Title="Message property" Url="html/P_Rock_Logging_LogEntry_Message.htm" />
+  <HelpKINode Title="MessageStep class">
+    <HelpKINode Title="MessageStep Class" Url="html/T_Rock_Logging_Diagnostics_MessageStep.htm" />
+    <HelpKINode Title="about MessageStep class" Url="html/T_Rock_Logging_Diagnostics_MessageStep.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Diagnostics_MessageStep__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_MessageStep.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MessageStep.AddToReport method" Url="html/M_Rock_Logging_Diagnostics_MessageStep_AddToReport.htm" />
+  <HelpKINode Title="MessageStep.MessageStep constructor" Url="html/M_Rock_Logging_Diagnostics_MessageStep__ctor.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="Category.Name Property " Url="html/P_Rock_Logging_Configuration_Category_Name.htm" />
+    <HelpKINode Title="LogFormatterProxy.Name Property " Url="html/P_Rock_Logging_Configuration_LogFormatterProxy_Name.htm" />
+    <HelpKINode Title="ThrottlingRuleEvaluatorProxy.Name Property " Url="html/P_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy_Name.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Never enumeration member" Url="html/T_Rock_Logging_RolloverPeriod.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/T_Rock_Logging_LogLevel.htm" />
+  <HelpKINode Title="NullLogger class">
+    <HelpKINode Title="NullLogger Class" Url="html/T_Rock_Logging_NullLogger.htm" />
+    <HelpKINode Title="about NullLogger class" Url="html/T_Rock_Logging_NullLogger.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_NullLogger__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_NullLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NullLogger.IsEnabled method" Url="html/M_Rock_Logging_NullLogger_IsEnabled.htm" />
+  <HelpKINode Title="NullLogger.LogAsync method" Url="html/M_Rock_Logging_NullLogger_LogAsync.htm" />
+  <HelpKINode Title="NullLogger.NullLogger constructor" Url="html/M_Rock_Logging_NullLogger__ctor.htm" />
+  <HelpKINode Title="NullStepLogger class">
+    <HelpKINode Title="NullStepLogger Class" Url="html/T_Rock_Logging_Diagnostics_NullStepLogger.htm" />
+    <HelpKINode Title="about NullStepLogger class" Url="html/T_Rock_Logging_Diagnostics_NullStepLogger.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Rock_Logging_Diagnostics_NullStepLogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_NullStepLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NullStepLogger.AddStep method" Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_AddStep.htm" />
+  <HelpKINode Title="NullStepLogger.Dispose method" Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_Dispose.htm" />
+  <HelpKINode Title="NullStepLogger.Flush method" Url="html/M_Rock_Logging_Diagnostics_NullStepLogger_Flush.htm" />
+  <HelpKINode Title="NullStepLogger.Instance field" Url="html/F_Rock_Logging_Diagnostics_NullStepLogger_Instance.htm" />
+  <HelpKINode Title="NullStopwatchLogger class">
+    <HelpKINode Title="NullStopwatchLogger Class" Url="html/T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm" />
+    <HelpKINode Title="about NullStopwatchLogger class" Url="html/T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NullStopwatchLogger.Instance field" Url="html/F_Rock_Logging_Diagnostics_NullStopwatchLogger_Instance.htm" />
+  <HelpKINode Title="NullStopwatchLogger.RecordElapsed method" Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_RecordElapsed.htm" />
+  <HelpKINode Title="NullStopwatchLogger.Reset method" Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Reset.htm" />
+  <HelpKINode Title="NullStopwatchLogger.Start method" Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Start.htm" />
+  <HelpKINode Title="NullStopwatchLogger.Stop method" Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Stop.htm" />
+  <HelpKINode Title="NullThrottlingRuleEvaluator class">
+    <HelpKINode Title="NullThrottlingRuleEvaluator Class" Url="html/T_Rock_Logging_NullThrottlingRuleEvaluator.htm" />
+    <HelpKINode Title="about NullThrottlingRuleEvaluator class" Url="html/T_Rock_Logging_NullThrottlingRuleEvaluator.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_NullThrottlingRuleEvaluator__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_NullThrottlingRuleEvaluator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NullThrottlingRuleEvaluator.NullThrottlingRuleEvaluator constructor" Url="html/M_Rock_Logging_NullThrottlingRuleEvaluator__ctor.htm" />
+  <HelpKINode Title="NullThrottlingRuleEvaluator.ShouldLog method" Url="html/M_Rock_Logging_NullThrottlingRuleEvaluator_ShouldLog.htm" />
+  <HelpKINode Title="OnPostWriteAsync method" Url="html/M_Rock_Logging_FileLogProvider_OnPostWriteAsync.htm" />
+  <HelpKINode Title="OnPreLog method" Url="html/M_Rock_Logging_Logger_OnPreLog.htm" />
+  <HelpKINode Title="OnPreWriteAsync method">
+    <HelpKINode Title="FileLogProvider.OnPreWriteAsync Method " Url="html/M_Rock_Logging_FileLogProvider_OnPreWriteAsync.htm" />
+    <HelpKINode Title="RollingFileLogProvider.OnPreWriteAsync Method " Url="html/M_Rock_Logging_RollingFileLogProvider_OnPreWriteAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnResponseReceived method" Url="html/M_Rock_Logging_HttpEndpointLogProvider_OnResponseReceived.htm" />
+  <HelpKINode Title="RecordElapsed method">
+    <HelpKINode Title="IStopwatchLogger.RecordElapsed Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_RecordElapsed.htm" />
+    <HelpKINode Title="NullStopwatchLogger.RecordElapsed Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_RecordElapsed.htm" />
+    <HelpKINode Title="StopwatchLogger.RecordElapsed Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_RecordElapsed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Release method" Url="html/M_Rock_Logging_IAsyncWaitHandle_Release.htm" />
+  <HelpKINode Title="Reset method">
+    <HelpKINode Title="IStopwatchLogger.Reset Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Reset.htm" />
+    <HelpKINode Title="NullStopwatchLogger.Reset Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Reset.htm" />
+    <HelpKINode Title="StopwatchLogger.Reset Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Reset.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Response property" Url="html/P_Rock_Logging_ResponseReceivedEventArgs_Response.htm" />
+  <HelpKINode Title="ResponseReceived event" Url="html/E_Rock_Logging_HttpEndpointLogProvider_ResponseReceived.htm" />
+  <HelpKINode Title="ResponseReceivedEventArgs class">
+    <HelpKINode Title="ResponseReceivedEventArgs Class" Url="html/T_Rock_Logging_ResponseReceivedEventArgs.htm" />
+    <HelpKINode Title="about ResponseReceivedEventArgs class" Url="html/T_Rock_Logging_ResponseReceivedEventArgs.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_ResponseReceivedEventArgs__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_ResponseReceivedEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_ResponseReceivedEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResponseReceivedEventArgs.Response property" Url="html/P_Rock_Logging_ResponseReceivedEventArgs_Response.htm" />
+  <HelpKINode Title="ResponseReceivedEventArgs.ResponseReceivedEventArgs constructor" Url="html/M_Rock_Logging_ResponseReceivedEventArgs__ctor.htm" />
+  <HelpKINode Title="RestoreEmailLogFormatter method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreEmailLogFormatter.htm" />
+  <HelpKINode Title="RestoreFileLogFormatter method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreFileLogFormatter.htm" />
+  <HelpKINode Title="RestoreLogEntryFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreLogEntryFactory.htm" />
+  <HelpKINode Title="RestoreLoggerFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreLoggerFactory.htm" />
+  <HelpKINode Title="RestoreStepLoggerFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_RestoreStepLoggerFactory.htm" />
+  <HelpKINode Title="Rock.Logging namespace" Url="html/N_Rock_Logging.htm" />
+  <HelpKINode Title="Rock.Logging.AddCallerInfoExtension class" Url="html/T_Rock_Logging_AddCallerInfoExtension.htm" />
+  <HelpKINode Title="Rock.Logging.Configuration namespace" Url="html/N_Rock_Logging_Configuration.htm" />
+  <HelpKINode Title="Rock.Logging.Configuration.Category class" Url="html/T_Rock_Logging_Configuration_Category.htm" />
+  <HelpKINode Title="Rock.Logging.Configuration.ContextProviderProxy class" Url="html/T_Rock_Logging_Configuration_ContextProviderProxy.htm" />
+  <HelpKINode Title="Rock.Logging.Configuration.LogFormatterProxy class" Url="html/T_Rock_Logging_Configuration_LogFormatterProxy.htm" />
+  <HelpKINode Title="Rock.Logging.Configuration.LogProviderProxy class" Url="html/T_Rock_Logging_Configuration_LogProviderProxy.htm" />
+  <HelpKINode Title="Rock.Logging.Configuration.ThrottlingRuleEvaluatorProxy class" Url="html/T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm" />
+  <HelpKINode Title="Rock.Logging.Configuration.XmlDeserializingLoggerFactory class" Url="html/T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm" />
+  <HelpKINode Title="Rock.Logging.ConsoleLogProvider class" Url="html/T_Rock_Logging_ConsoleLogProvider.htm" />
+  <HelpKINode Title="Rock.Logging.ContextProvider(Of TLogEntry) class" Url="html/T_Rock_Logging_ContextProvider_1.htm" />
+  <HelpKINode Title="Rock.Logging.ContextProvider&lt;TLogEntry&gt; class" Url="html/T_Rock_Logging_ContextProvider_1.htm" />
+  <HelpKINode Title="Rock.Logging.Defaults.Implementation namespace" Url="html/N_Rock_Logging_Defaults_Implementation.htm" />
+  <HelpKINode Title="Rock.Logging.Defaults.Implementation.Default class" Url="html/T_Rock_Logging_Defaults_Implementation_Default.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics namespace" Url="html/N_Rock_Logging_Diagnostics.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.DefaultStepLoggerFactory class" Url="html/T_Rock_Logging_Diagnostics_DefaultStepLoggerFactory.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.IStep interface" Url="html/T_Rock_Logging_Diagnostics_IStep.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.IStepLogger interface" Url="html/T_Rock_Logging_Diagnostics_IStepLogger.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.IStepLoggerFactory interface" Url="html/T_Rock_Logging_Diagnostics_IStepLoggerFactory.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.IStopwatchLogger interface" Url="html/T_Rock_Logging_Diagnostics_IStopwatchLogger.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.LogValueStep class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.LogValueStep(Of T) class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep_1.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.LogValueStep&lt;T&gt; class" Url="html/T_Rock_Logging_Diagnostics_LogValueStep_1.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.MessageStep class" Url="html/T_Rock_Logging_Diagnostics_MessageStep.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.NullStepLogger class" Url="html/T_Rock_Logging_Diagnostics_NullStepLogger.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.NullStopwatchLogger class" Url="html/T_Rock_Logging_Diagnostics_NullStopwatchLogger.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.StepLogger class" Url="html/T_Rock_Logging_Diagnostics_StepLogger.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.StepLoggingExtensions class" Url="html/T_Rock_Logging_Diagnostics_StepLoggingExtensions.htm" />
+  <HelpKINode Title="Rock.Logging.Diagnostics.StopwatchLogger class" Url="html/T_Rock_Logging_Diagnostics_StopwatchLogger.htm" />
+  <HelpKINode Title="Rock.Logging.EmailLogProvider class" Url="html/T_Rock_Logging_EmailLogProvider.htm" />
+  <HelpKINode Title="Rock.Logging.FileLogProvider class" Url="html/T_Rock_Logging_FileLogProvider.htm" />
+  <HelpKINode Title="Rock.Logging.FormattableLogProvider class" Url="html/T_Rock_Logging_FormattableLogProvider.htm" />
+  <HelpKINode Title="Rock.Logging.HttpEndpointLogProvider class" Url="html/T_Rock_Logging_HttpEndpointLogProvider.htm" />
+  <HelpKINode Title="Rock.Logging.IAsyncWaitHandle interface" Url="html/T_Rock_Logging_IAsyncWaitHandle.htm" />
+  <HelpKINode Title="Rock.Logging.IContextProvider interface" Url="html/T_Rock_Logging_IContextProvider.htm" />
+  <HelpKINode Title="Rock.Logging.ILogEntryFactory interface" Url="html/T_Rock_Logging_ILogEntryFactory.htm" />
+  <HelpKINode Title="Rock.Logging.ILogFormatter interface" Url="html/T_Rock_Logging_ILogFormatter.htm" />
+  <HelpKINode Title="Rock.Logging.ILogger interface" Url="html/T_Rock_Logging_ILogger.htm" />
+  <HelpKINode Title="Rock.Logging.ILoggerConfiguration interface" Url="html/T_Rock_Logging_ILoggerConfiguration.htm" />
+  <HelpKINode Title="Rock.Logging.ILoggerFactory interface" Url="html/T_Rock_Logging_ILoggerFactory.htm" />
+  <HelpKINode Title="Rock.Logging.ILogProvider interface" Url="html/T_Rock_Logging_ILogProvider.htm" />
+  <HelpKINode Title="Rock.Logging.IThrottlingRuleEvaluator interface" Url="html/T_Rock_Logging_IThrottlingRuleEvaluator.htm" />
+  <HelpKINode Title="Rock.Logging.LogEntry class" Url="html/T_Rock_Logging_LogEntry.htm" />
+  <HelpKINode Title="Rock.Logging.LogEntryExtendedProperties class" Url="html/T_Rock_Logging_LogEntryExtendedProperties.htm" />
+  <HelpKINode Title="Rock.Logging.LogEntryFactory class" Url="html/T_Rock_Logging_LogEntryFactory.htm" />
+  <HelpKINode Title="Rock.Logging.Logger class" Url="html/T_Rock_Logging_Logger.htm" />
+  <HelpKINode Title="Rock.Logging.LoggerConfiguration class" Url="html/T_Rock_Logging_LoggerConfiguration.htm" />
+  <HelpKINode Title="Rock.Logging.LoggerExtensions class" Url="html/T_Rock_Logging_LoggerExtensions.htm" />
+  <HelpKINode Title="Rock.Logging.LoggerFactory class" Url="html/T_Rock_Logging_LoggerFactory.htm" />
+  <HelpKINode Title="Rock.Logging.LoggerSectionHandler class" Url="html/T_Rock_Logging_LoggerSectionHandler.htm" />
+  <HelpKINode Title="Rock.Logging.LogLevel enumeration" Url="html/T_Rock_Logging_LogLevel.htm" />
+  <HelpKINode Title="Rock.Logging.NullLogger class" Url="html/T_Rock_Logging_NullLogger.htm" />
+  <HelpKINode Title="Rock.Logging.NullThrottlingRuleEvaluator class" Url="html/T_Rock_Logging_NullThrottlingRuleEvaluator.htm" />
+  <HelpKINode Title="Rock.Logging.ResponseReceivedEventArgs class" Url="html/T_Rock_Logging_ResponseReceivedEventArgs.htm" />
+  <HelpKINode Title="Rock.Logging.RollingFileLogProvider class" Url="html/T_Rock_Logging_RollingFileLogProvider.htm" />
+  <HelpKINode Title="Rock.Logging.RolloverPeriod enumeration" Url="html/T_Rock_Logging_RolloverPeriod.htm" />
+  <HelpKINode Title="Rock.Logging.SemaphoreSlimAsyncWaitHandle class" Url="html/T_Rock_Logging_SemaphoreSlimAsyncWaitHandle.htm" />
+  <HelpKINode Title="Rock.Logging.SerializingLogFormatter class" Url="html/T_Rock_Logging_SerializingLogFormatter.htm" />
+  <HelpKINode Title="Rock.Logging.SimpleLoggerFactory(Of TLogProvider) class" Url="html/T_Rock_Logging_SimpleLoggerFactory_1.htm" />
+  <HelpKINode Title="Rock.Logging.SimpleLoggerFactory&lt;TLogProvider&gt; class" Url="html/T_Rock_Logging_SimpleLoggerFactory_1.htm" />
+  <HelpKINode Title="Rock.Logging.TemplateLogFormatter class" Url="html/T_Rock_Logging_TemplateLogFormatter.htm" />
+  <HelpKINode Title="Rock.Logging.ThrottlingRuleEvaluator class" Url="html/T_Rock_Logging_ThrottlingRuleEvaluator.htm" />
+  <HelpKINode Title="Rock.Logging.WithCachingExtension class" Url="html/T_Rock_Logging_WithCachingExtension.htm" />
+  <HelpKINode Title="RollingFileLogProvider class">
+    <HelpKINode Title="RollingFileLogProvider Class" Url="html/T_Rock_Logging_RollingFileLogProvider.htm" />
+    <HelpKINode Title="about RollingFileLogProvider class" Url="html/T_Rock_Logging_RollingFileLogProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Logging_RollingFileLogProvider__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Rock_Logging_RollingFileLogProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_RollingFileLogProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RollingFileLogProvider.OnPreWriteAsync method" Url="html/M_Rock_Logging_RollingFileLogProvider_OnPreWriteAsync.htm" />
+  <HelpKINode Title="RollingFileLogProvider.RollingFileLogProvider constructor" Url="html/Overload_Rock_Logging_RollingFileLogProvider__ctor.htm" />
+  <HelpKINode Title="RollingFileLogProvider.SetTimes method" Url="html/M_Rock_Logging_RollingFileLogProvider_SetTimes.htm" />
+  <HelpKINode Title="RolloverPeriod enumeration" Url="html/T_Rock_Logging_RolloverPeriod.htm" />
+  <HelpKINode Title="SemaphoreSlimAsyncWaitHandle class">
+    <HelpKINode Title="SemaphoreSlimAsyncWaitHandle Class" Url="html/T_Rock_Logging_SemaphoreSlimAsyncWaitHandle.htm" />
+    <HelpKINode Title="about SemaphoreSlimAsyncWaitHandle class" Url="html/T_Rock_Logging_SemaphoreSlimAsyncWaitHandle.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_SemaphoreSlimAsyncWaitHandle__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_SemaphoreSlimAsyncWaitHandle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SemaphoreSlimAsyncWaitHandle.SemaphoreSlimAsyncWaitHandle constructor" Url="html/M_Rock_Logging_SemaphoreSlimAsyncWaitHandle__ctor.htm" />
+  <HelpKINode Title="SerializingLogFormatter class">
+    <HelpKINode Title="SerializingLogFormatter Class" Url="html/T_Rock_Logging_SerializingLogFormatter.htm" />
+    <HelpKINode Title="about SerializingLogFormatter class" Url="html/T_Rock_Logging_SerializingLogFormatter.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_SerializingLogFormatter__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_SerializingLogFormatter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SerializingLogFormatter.Format method" Url="html/M_Rock_Logging_SerializingLogFormatter_Format.htm" />
+  <HelpKINode Title="SerializingLogFormatter.SerializingLogFormatter constructor" Url="html/M_Rock_Logging_SerializingLogFormatter__ctor.htm" />
+  <HelpKINode Title="SetApplicationInfo method" Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_SetApplicationInfo.htm" />
+  <HelpKINode Title="SetEmailLogFormatter method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetEmailLogFormatter.htm" />
+  <HelpKINode Title="SetException method" Url="html/M_Rock_Logging_LogEntry_SetException.htm" />
+  <HelpKINode Title="SetFileLogFormatter method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetFileLogFormatter.htm" />
+  <HelpKINode Title="SetLogEntryFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetLogEntryFactory.htm" />
+  <HelpKINode Title="SetLoggerFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetLoggerFactory.htm" />
+  <HelpKINode Title="SetStepLoggerFactory method" Url="html/M_Rock_Logging_Defaults_Implementation_Default_SetStepLoggerFactory.htm" />
+  <HelpKINode Title="SetSupplementaryContainer method" Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_SetSupplementaryContainer.htm" />
+  <HelpKINode Title="SetTimes method" Url="html/M_Rock_Logging_RollingFileLogProvider_SetTimes.htm" />
+  <HelpKINode Title="ShouldLog method">
+    <HelpKINode Title="IThrottlingRuleEvaluator.ShouldLog Method " Url="html/M_Rock_Logging_IThrottlingRuleEvaluator_ShouldLog.htm" />
+    <HelpKINode Title="NullThrottlingRuleEvaluator.ShouldLog Method " Url="html/M_Rock_Logging_NullThrottlingRuleEvaluator_ShouldLog.htm" />
+    <HelpKINode Title="ThrottlingRuleEvaluator.ShouldLog Method " Url="html/M_Rock_Logging_ThrottlingRuleEvaluator_ShouldLog.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SimpleLoggerFactory(Of TLogProvider) class">
+    <HelpKINode Title="SimpleLoggerFactory(TLogProvider) Class" Url="html/T_Rock_Logging_SimpleLoggerFactory_1.htm" />
+    <HelpKINode Title="about SimpleLoggerFactory(Of TLogProvider) class" Url="html/T_Rock_Logging_SimpleLoggerFactory_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Logging_SimpleLoggerFactory_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_SimpleLoggerFactory_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SimpleLoggerFactory(Of TLogProvider).Get(Of TLogger) method" Url="html/M_Rock_Logging_SimpleLoggerFactory_1_Get__1.htm" />
+  <HelpKINode Title="SimpleLoggerFactory(Of TLogProvider).SimpleLoggerFactory constructor" Url="html/Overload_Rock_Logging_SimpleLoggerFactory_1__ctor.htm" />
+  <HelpKINode Title="SimpleLoggerFactory&lt;TLogProvider&gt; class">
+    <HelpKINode Title="SimpleLoggerFactory(TLogProvider) Class" Url="html/T_Rock_Logging_SimpleLoggerFactory_1.htm" />
+    <HelpKINode Title="about SimpleLoggerFactory&lt;TLogProvider&gt; class" Url="html/T_Rock_Logging_SimpleLoggerFactory_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Rock_Logging_SimpleLoggerFactory_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_SimpleLoggerFactory_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SimpleLoggerFactory&lt;TLogProvider&gt;.Get&lt;TLogger&gt; method" Url="html/M_Rock_Logging_SimpleLoggerFactory_1_Get__1.htm" />
+  <HelpKINode Title="SimpleLoggerFactory&lt;TLogProvider&gt;.SimpleLoggerFactory constructor" Url="html/Overload_Rock_Logging_SimpleLoggerFactory_1__ctor.htm" />
+  <HelpKINode Title="Start method">
+    <HelpKINode Title="IStopwatchLogger.Start Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Start.htm" />
+    <HelpKINode Title="NullStopwatchLogger.Start Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Start.htm" />
+    <HelpKINode Title="StopwatchLogger.Start Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Start.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StepLogger class">
+    <HelpKINode Title="StepLogger Class" Url="html/T_Rock_Logging_Diagnostics_StepLogger.htm" />
+    <HelpKINode Title="about StepLogger class" Url="html/T_Rock_Logging_Diagnostics_StepLogger.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Diagnostics_StepLogger__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_StepLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StepLogger.AddStep method" Url="html/M_Rock_Logging_Diagnostics_StepLogger_AddStep.htm" />
+  <HelpKINode Title="StepLogger.Dispose method" Url="html/M_Rock_Logging_Diagnostics_StepLogger_Dispose.htm" />
+  <HelpKINode Title="StepLogger.Flush method" Url="html/M_Rock_Logging_Diagnostics_StepLogger_Flush.htm" />
+  <HelpKINode Title="StepLogger.StepLogger constructor" Url="html/M_Rock_Logging_Diagnostics_StepLogger__ctor.htm" />
+  <HelpKINode Title="StepLoggerFactory property" Url="html/P_Rock_Logging_Defaults_Implementation_Default_StepLoggerFactory.htm" />
+  <HelpKINode Title="StepLoggingExtensions class">
+    <HelpKINode Title="StepLoggingExtensions Class" Url="html/T_Rock_Logging_Diagnostics_StepLoggingExtensions.htm" />
+    <HelpKINode Title="about StepLoggingExtensions class" Url="html/T_Rock_Logging_Diagnostics_StepLoggingExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_StepLoggingExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StepLoggingExtensions.AddMessage method" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_AddMessage.htm" />
+  <HelpKINode Title="StepLoggingExtensions.AddValueTo(Of T) method" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_AddValueTo__1.htm" />
+  <HelpKINode Title="StepLoggingExtensions.AddValueTo&lt;T&gt; method" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_AddValueTo__1.htm" />
+  <HelpKINode Title="StepLoggingExtensions.CreateStepLogger method" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_CreateStepLogger.htm" />
+  <HelpKINode Title="StepLoggingExtensions.GetStopwatch method" Url="html/M_Rock_Logging_Diagnostics_StepLoggingExtensions_GetStopwatch.htm" />
+  <HelpKINode Title="StepLoggingExtensions.LogValue method" Url="html/Overload_Rock_Logging_Diagnostics_StepLoggingExtensions_LogValue.htm" />
+  <HelpKINode Title="Stop method">
+    <HelpKINode Title="IStopwatchLogger.Stop Method " Url="html/M_Rock_Logging_Diagnostics_IStopwatchLogger_Stop.htm" />
+    <HelpKINode Title="NullStopwatchLogger.Stop Method " Url="html/M_Rock_Logging_Diagnostics_NullStopwatchLogger_Stop.htm" />
+    <HelpKINode Title="StopwatchLogger.Stop Method " Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Stop.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StopwatchLogger class">
+    <HelpKINode Title="StopwatchLogger Class" Url="html/T_Rock_Logging_Diagnostics_StopwatchLogger.htm" />
+    <HelpKINode Title="about StopwatchLogger class" Url="html/T_Rock_Logging_Diagnostics_StopwatchLogger.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Diagnostics_StopwatchLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StopwatchLogger.RecordElapsed method" Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_RecordElapsed.htm" />
+  <HelpKINode Title="StopwatchLogger.Reset method" Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Reset.htm" />
+  <HelpKINode Title="StopwatchLogger.Start method" Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Start.htm" />
+  <HelpKINode Title="StopwatchLogger.Stop method" Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger_Stop.htm" />
+  <HelpKINode Title="StopwatchLogger.StopwatchLogger constructor" Url="html/M_Rock_Logging_Diagnostics_StopwatchLogger__ctor.htm" />
+  <HelpKINode Title="Subject property" Url="html/P_Rock_Logging_EmailLogProvider_Subject.htm" />
+  <HelpKINode Title="TemplateLogFormatter class">
+    <HelpKINode Title="TemplateLogFormatter Class" Url="html/T_Rock_Logging_TemplateLogFormatter.htm" />
+    <HelpKINode Title="about TemplateLogFormatter class" Url="html/T_Rock_Logging_TemplateLogFormatter.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_TemplateLogFormatter__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_TemplateLogFormatter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TemplateLogFormatter.AddDateTimeTokenHandler method" Url="html/Overload_Rock_Logging_TemplateLogFormatter_AddDateTimeTokenHandler.htm" />
+  <HelpKINode Title="TemplateLogFormatter.AddSimpleTokenHandler method" Url="html/Overload_Rock_Logging_TemplateLogFormatter_AddSimpleTokenHandler.htm" />
+  <HelpKINode Title="TemplateLogFormatter.Format method" Url="html/M_Rock_Logging_TemplateLogFormatter_Format.htm" />
+  <HelpKINode Title="TemplateLogFormatter.TemplateLogFormatter constructor" Url="html/M_Rock_Logging_TemplateLogFormatter__ctor.htm" />
+  <HelpKINode Title="ThrottlingRule property" Url="html/P_Rock_Logging_Configuration_Category_ThrottlingRule.htm" />
+  <HelpKINode Title="ThrottlingRuleEvaluator class">
+    <HelpKINode Title="ThrottlingRuleEvaluator Class" Url="html/T_Rock_Logging_ThrottlingRuleEvaluator.htm" />
+    <HelpKINode Title="about ThrottlingRuleEvaluator class" Url="html/T_Rock_Logging_ThrottlingRuleEvaluator.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_ThrottlingRuleEvaluator__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_ThrottlingRuleEvaluator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ThrottlingRuleEvaluator.ShouldLog method" Url="html/M_Rock_Logging_ThrottlingRuleEvaluator_ShouldLog.htm" />
+  <HelpKINode Title="ThrottlingRuleEvaluator.ThrottlingRuleEvaluator constructor" Url="html/M_Rock_Logging_ThrottlingRuleEvaluator__ctor.htm" />
+  <HelpKINode Title="ThrottlingRuleEvaluatorProxy class">
+    <HelpKINode Title="ThrottlingRuleEvaluatorProxy Class" Url="html/T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm" />
+    <HelpKINode Title="about ThrottlingRuleEvaluatorProxy class" Url="html/T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ThrottlingRuleEvaluatorProxy.Name property" Url="html/P_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy_Name.htm" />
+  <HelpKINode Title="ThrottlingRuleEvaluatorProxy.ThrottlingRuleEvaluatorProxy constructor" Url="html/M_Rock_Logging_Configuration_ThrottlingRuleEvaluatorProxy__ctor.htm" />
+  <HelpKINode Title="ThrottlingRules property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_ThrottlingRules.htm" />
+  <HelpKINode Title="ToEmail property" Url="html/P_Rock_Logging_EmailLogProvider_ToEmail.htm" />
+  <HelpKINode Title="UniqueId property" Url="html/P_Rock_Logging_LogEntry_UniqueId.htm" />
+  <HelpKINode Title="WaitAsync method" Url="html/M_Rock_Logging_IAsyncWaitHandle_WaitAsync.htm" />
+  <HelpKINode Title="Warn enumeration member" Url="html/T_Rock_Logging_LogLevel.htm" />
+  <HelpKINode Title="Warn method" Url="html/Overload_Rock_Logging_LoggerExtensions_Warn.htm" />
+  <HelpKINode Title="WithCaching method" Url="html/M_Rock_Logging_WithCachingExtension_WithCaching.htm" />
+  <HelpKINode Title="WithCachingExtension class">
+    <HelpKINode Title="WithCachingExtension Class" Url="html/T_Rock_Logging_WithCachingExtension.htm" />
+    <HelpKINode Title="about WithCachingExtension class" Url="html/T_Rock_Logging_WithCachingExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_WithCachingExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WithCachingExtension.WithCaching method" Url="html/M_Rock_Logging_WithCachingExtension_WithCaching.htm" />
+  <HelpKINode Title="WriteAsync method">
+    <HelpKINode Title="ConsoleLogProvider.WriteAsync Method " Url="html/Overload_Rock_Logging_ConsoleLogProvider_WriteAsync.htm" />
+    <HelpKINode Title="EmailLogProvider.WriteAsync Method " Url="html/Overload_Rock_Logging_EmailLogProvider_WriteAsync.htm" />
+    <HelpKINode Title="FileLogProvider.WriteAsync Method " Url="html/Overload_Rock_Logging_FileLogProvider_WriteAsync.htm" />
+    <HelpKINode Title="FormattableLogProvider.WriteAsync Method " Url="html/Overload_Rock_Logging_FormattableLogProvider_WriteAsync.htm" />
+    <HelpKINode Title="HttpEndpointLogProvider.WriteAsync Method " Url="html/M_Rock_Logging_HttpEndpointLogProvider_WriteAsync.htm" />
+    <HelpKINode Title="ILogProvider.WriteAsync Method " Url="html/M_Rock_Logging_ILogProvider_WriteAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlDeserializingLoggerFactory class">
+    <HelpKINode Title="XmlDeserializingLoggerFactory Class" Url="html/T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm" />
+    <HelpKINode Title="about XmlDeserializingLoggerFactory class" Url="html/T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rock_Logging_Configuration_XmlDeserializingLoggerFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlDeserializingLoggerFactory.AuditLogProvider property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_AuditLogProvider.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.Categories property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Categories.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.ContextProviders property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_ContextProviders.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.Formatters property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Formatters.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.Get(Of TLogger) method" Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Get__1.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.Get&lt;TLogger&gt; method" Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_Get__1.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.IsLoggingEnabled property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_IsLoggingEnabled.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.LoggingLevel property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_LoggingLevel.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.SetApplicationInfo method" Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_SetApplicationInfo.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.SetSupplementaryContainer method" Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_SetSupplementaryContainer.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.ThrottlingRules property" Url="html/P_Rock_Logging_Configuration_XmlDeserializingLoggerFactory_ThrottlingRules.htm" />
+  <HelpKINode Title="XmlDeserializingLoggerFactory.XmlDeserializingLoggerFactory constructor" Url="html/M_Rock_Logging_Configuration_XmlDeserializingLoggerFactory__ctor.htm" />
+  <HelpKINode Title="XmlNamespace field" Url="html/F_Rock_Logging_LogEntry_XmlNamespace.htm" />
+  <HelpKINode Title="_completedTask field" Url="html/F_Rock_Logging_FormattableLogProvider__completedTask.htm" />
+  <HelpKINode Title="_file field" Url="html/F_Rock_Logging_FileLogProvider__file.htm" />
+</HelpKI>
