@@ -1277,6 +1277,14 @@ a {
   .features-nav li:last-child {
     margin-right: 0; }
 
+.docs-list > li {
+  float: none; }
+@media (min-width: 38em) {
+  .docs-list > li {
+    float: left; }
+  .docs-list > li {
+    width: 33.333333333%; } }
+
 [role="contentinfo"] {
   background-color: #2b2b2b;
   color: #fff;

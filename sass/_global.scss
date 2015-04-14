@@ -125,6 +125,20 @@ a {
     }
 }
 
+.docs-list {
+    > li {
+        float: none;
+    }
+
+    @include breakpoint(38em) {
+        > li {
+            float: left;
+        }
+
+        @include columns(3);
+    }
+}
+
 [role="contentinfo"] {
     background-color: $black;
     color: $white;
