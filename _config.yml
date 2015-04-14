@@ -1,3 +1,7 @@
+name: Rock Framework
+description: "The blog of Dave Gillhespy: web developer and pretty awesome guy"
+url: http://rockframework.org
 markdown: rdiscount
 highlighter: true
+exclude: [sass]
 permalink: /:title
