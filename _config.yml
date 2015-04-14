@@ -1,3 +1,7 @@
+name: Rock Framework
+description: "Rock Framework : Standardized Framework for .NET Applications"
+url: http://rockframework.org
 markdown: rdiscount
 highlighter: true
+exclude: [sass]
 permalink: /:title
