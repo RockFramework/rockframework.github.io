@@ -1,0 +1,88 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'gulp-gulp-imagemin',
+1 verbose cli   '--save' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.32
+4 verbose readDependencies using package.json deps
+5 verbose cache add [ 'gulp-gulp-imagemin', null ]
+6 verbose cache add name=undefined spec="gulp-gulp-imagemin" args=["gulp-gulp-imagemin",null]
+7 verbose parsed url { protocol: null,
+7 verbose parsed url   slashes: null,
+7 verbose parsed url   auth: null,
+7 verbose parsed url   host: null,
+7 verbose parsed url   port: null,
+7 verbose parsed url   hostname: null,
+7 verbose parsed url   hash: null,
+7 verbose parsed url   search: null,
+7 verbose parsed url   query: null,
+7 verbose parsed url   pathname: 'gulp-gulp-imagemin',
+7 verbose parsed url   path: 'gulp-gulp-imagemin',
+7 verbose parsed url   href: 'gulp-gulp-imagemin' }
+8 silly lockFile 4f218f8a-gulp-gulp-imagemin gulp-gulp-imagemin
+9 verbose lock gulp-gulp-imagemin /Users/dgillhespy/.npm/4f218f8a-gulp-gulp-imagemin.lock
+10 silly lockFile 4f218f8a-gulp-gulp-imagemin gulp-gulp-imagemin
+11 silly lockFile 4f218f8a-gulp-gulp-imagemin gulp-gulp-imagemin
+12 verbose addNamed [ 'gulp-gulp-imagemin', '' ]
+13 verbose addNamed [ null, '*' ]
+14 silly lockFile 0a42d729-gulp-gulp-imagemin gulp-gulp-imagemin@
+15 verbose lock gulp-gulp-imagemin@ /Users/dgillhespy/.npm/0a42d729-gulp-gulp-imagemin.lock
+16 silly addNameRange { name: 'gulp-gulp-imagemin', range: '*', hasData: false }
+17 verbose request where is /gulp-gulp-imagemin
+18 verbose request registry https://registry.npmjs.org/
+19 verbose request id 2388921d389adabc
+20 verbose url raw /gulp-gulp-imagemin
+21 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-gulp-imagemin' ]
+22 verbose url resolved https://registry.npmjs.org/gulp-gulp-imagemin
+23 verbose request where is https://registry.npmjs.org/gulp-gulp-imagemin
+24 info trying registry request attempt 1 at 23:38:57
+25 http GET https://registry.npmjs.org/gulp-gulp-imagemin
+26 http 404 https://registry.npmjs.org/gulp-gulp-imagemin
+27 verbose headers { date: 'Wed, 15 Apr 2015 03:38:58 GMT',
+27 verbose headers   server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+27 verbose headers   'content-type': 'application/json',
+27 verbose headers   'cache-control': 'max-age=0',
+27 verbose headers   'content-length': '51',
+27 verbose headers   'accept-ranges': 'bytes',
+27 verbose headers   via: '1.1 varnish',
+27 verbose headers   age: '0',
+27 verbose headers   'x-served-by': 'cache-ord1720-ORD',
+27 verbose headers   'x-cache': 'MISS',
+27 verbose headers   'x-cache-hits': '0',
+27 verbose headers   'x-timer': 'S1429069137.967885,VS0,VE168',
+27 verbose headers   'keep-alive': 'timeout=10, max=50',
+27 verbose headers   connection: 'Keep-Alive' }
+28 silly registry.get cb [ 404,
+28 silly registry.get   { date: 'Wed, 15 Apr 2015 03:38:58 GMT',
+28 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+28 silly registry.get     'content-type': 'application/json',
+28 silly registry.get     'cache-control': 'max-age=0',
+28 silly registry.get     'content-length': '51',
+28 silly registry.get     'accept-ranges': 'bytes',
+28 silly registry.get     via: '1.1 varnish',
+28 silly registry.get     age: '0',
+28 silly registry.get     'x-served-by': 'cache-ord1720-ORD',
+28 silly registry.get     'x-cache': 'MISS',
+28 silly registry.get     'x-cache-hits': '0',
+28 silly registry.get     'x-timer': 'S1429069137.967885,VS0,VE168',
+28 silly registry.get     'keep-alive': 'timeout=10, max=50',
+28 silly registry.get     connection: 'Keep-Alive' } ]
+29 silly lockFile 0a42d729-gulp-gulp-imagemin gulp-gulp-imagemin@
+30 silly lockFile 0a42d729-gulp-gulp-imagemin gulp-gulp-imagemin@
+31 error 404 404 Not Found: gulp-gulp-imagemin
+31 error 404
+31 error 404 'gulp-gulp-imagemin' is not in the npm registry.
+31 error 404 You should bug the author to publish it
+31 error 404 It was specified as a dependency of 'rockframework.org'
+31 error 404
+31 error 404 Note that you can also install from a
+31 error 404 tarball, folder, or http url, or git url.
+32 error System Darwin 13.3.0
+33 error command "/usr/local/bin/node" "/usr/local/bin/npm" "install" "gulp-gulp-imagemin" "--save"
+34 error cwd /Users/dgillhespy/projects/rockframework.github.io
+35 error node -v v0.10.32
+36 error npm -v 1.4.28
+37 error code E404
+38 verbose exit [ 1, true ]

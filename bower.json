@@ -1,0 +1,16 @@
+{
+  "name": "Rock Framework",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "compass-breakpoint": "~2.5.0",
+    "modular-scale": "~2.0.7",
+    "scales": "~2.1.0"
+  }
+}
